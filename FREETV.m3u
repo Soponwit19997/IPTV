@@ -90,3 +90,11 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
+#EXTINF:-1 tvg-id="TopNews.th",Top News (480p)
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 tvg-id="News1.th",ASTV News 1 (720p) [Not 24/7]
+https://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="SuwannabhumiChannel.th",Suwannabhumi Channel (720p)
+https://live.bangkoksteam.com:19360/suwannabhumi/Suwannabhumi.m3u8
