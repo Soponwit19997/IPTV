@@ -4,7 +4,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4MIQNPQ.png" tvg-name="CH5 HD" group-title="Free TV",CH5 HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vxnLkTz.png" tvg-name="CH7 HD" group-title="Free TV",CH7 HD
-https://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4dSUQ7.png" tvg-name="MCOT HD" group-title="Free TV",MCOT HD
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50EIb6z.png" tvg-name="NBT HD" group-title="Free TV",NBT HD
@@ -1324,4 +1324,4 @@ https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title=,Thairath TV
 https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" group-title="News",TVK (576p)
-http://203.176.130.123:8989/live/tvk.stream/playlist.m3u8
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
