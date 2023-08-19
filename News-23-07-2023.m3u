@@ -1313,3 +1313,13 @@ https://ythls.onrender.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IMsk88B.png" tvg-name="Us Weekly TV" group-title="Entertainment, News",Us Weekly TV
 https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" group-title"News",Nation TV (576p)
+http://183.89.246.119:8010/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0Rao6C.png" group-title="News",CNBC TV18
+https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV.vn" group-title="News",Kien Giang TV
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV1.vn" group-title="News",Kien Giang TV1
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title=,Thairath TV
+https://cdn6.goprimetime.info/feed/chthairath3/index.m3u8
