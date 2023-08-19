@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBT2.th" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://i.imgur.com/OFsQwvv.png" group-title="Digital TV",THAI PBS HD
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/Y6k45Su.png" group-title="Digital TV",ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",TV5 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+
+#EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Digital TV",T Sports 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+
+#EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="Digital TV",TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="Digital TV",TNN 16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+
+#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="Digital TV",JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Digital TV",Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.imgur.com/oxf6BRn.png" group-title="Digital TV",Workpoint TV
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://i.imgur.com/tXb8NiE.png" group-title="Digital TV",True 4U
+#EXTVLCOPT:https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/S4dSUQ7.png" group-title="Digital TV",MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://i.imgur.com/9apyiI0.png" group-title="Digital TV",ONE HD
+https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title="Digital TV",Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/lHbIKfF.png" group-title="Digital TV",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Digital TV",CH7 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+
+#EXTINF:-1 tvg-id="TopNews.th",Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 tvg-id="News1.th",ASTV News 1
+https://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="SuwannabhumiChannel.th",Suwannabhumi Channel
+https://live.bangkoksteam.com:19360/suwannabhumi/Suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-id="DLTV1.th",DLTV 1 (1080p)
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="DLTV2.th",DLTV 2 (1080p)
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="DLTV3.th",DLTV 3 (1080p)
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="DLTV4.th",DLTV 4 (1080p)
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="DLTV5.th",DLTV 5 (1080p)
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="DLTV6.th",DLTV 6 (1080p)
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="DLTV7.th",DLTV 7 (1080p)
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="DLTV8.th",DLTV 8 (1080p)
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="DLTV9.th",DLTV 9 (1080p)
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="DLTV10.th",DLTV 10 (1080p)
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="DLTV11.th",DLTV 11 (1080p)
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="DLTV12.th",DLTV 12 (1080p)
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="DLTV13.th",DLTV 13 (1080p)
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="DLTV14.th",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="DLTV15.th",DLTV 15 (1080p)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="ETV.th",ETV (1080p)
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PoliceTV.th",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
