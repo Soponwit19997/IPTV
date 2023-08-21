@@ -49,7 +49,7 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1,TVB Thai
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1,ETV
-http://150.95.66.120:1935/live/livestream/playlist.m3u8
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,Sd| Tele Sahel ✦
 http://new-pro.tv:8080/99622282/etbVXafU6f/13965
 #EXTINF:-1,Sd| Al Hilal TV ✦
