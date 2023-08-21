@@ -1,3 +1,55 @@
+#EXTINF:-1,NBT
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#EXTINF:-1,Thai PBS
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+#EXTINF:-1,ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+#EXTINF:-1,TV5HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+#EXTINF:-1,T Sport 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+#EXTINF:-1,TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF:-1,TNN16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+#EXTINF:-1,JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+#EXTINF:-1,Naton TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+#EXTINF:-1,Workpoint TV
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+#EXTINF:-1,True 4U
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+#EXTINF:-1,GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+#EXTINF:-1,CH8
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+#EXTINF:-1,MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+#EXTINF:-1,MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+#EXTINF:-1,ONE 31
+https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+#EXTINF:-1,Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+#EXTINF:-1,CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+#EXTINF:-1,Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+#EXTINF:-1,Ch7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1,PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+#EXTINF:-1,TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1,ASTV NEWS 1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1,TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1,ETV
+http://150.95.66.120:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,Sd| Tele Sahel ✦
 http://new-pro.tv:8080/99622282/etbVXafU6f/13965
 #EXTINF:-1,Sd| Al Hilal TV ✦
