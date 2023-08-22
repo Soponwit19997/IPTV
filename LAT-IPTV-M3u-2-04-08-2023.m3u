@@ -1,5 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="3 Palavrinhas " tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/zXXRHt.png" group-title="ESPECIAIS DESENHOS 24h",3 Palavrinhas 
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="Digital TV",NBT
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Digital TV",Thai PBS
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Digital TV",ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Digital TV",TV5HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+#EXTINF:-1 tvg-id="Tsport7.th" tvg-logo="https://iptv36.my.to/logo/tsport.png" group-title="Digital TV",T Sport 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+#EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Digital TV",TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Digital TV",TNN16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Digital TV",JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://iptv36.my.to/logo/nation.png" group-title="Digital TV",Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+#EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://iptv36.my.to/logo/workpoint.png" group-title="Digital TV",Workpoint
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+#EXTINF:-1 tvg-id="True4u.th" tvg-logo="https://iptv36.my.to/logo/true4u.png" group-title="Digital TV",True 4U
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://iptv36.my.to/logo/gmm25.png" group-title="Digital TV",GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://iptv36.my.to/logo/ch8.png" group-title="Digital TV",CH8
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://iptv36.my.to/logo/mono29.png" group-titie="Digital TV",MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+#EXTINF:-1 tvg-id="MCOT.th" tvg-logo="https://iptv36.my.to/logo/mcot.png" group-title="Digital TV",MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+#EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Digital TV",ONE 31
+https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+#EXTINF:-1 tvg-id="Thairath.th" tvg-logo="https://iptv36.my.to/logo/thairath.png" group-title="Digital TV",Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+#EXTINF:-1 tvg-id="Ch3.th" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Digital TV",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Digital TV",Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+#EXTINF:-1 tvg-id="Ch7HD.th" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="Digital TV",Ch7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1 tvg-id="PPTV.th" tvg-logo="https://iptv36.my.to/logo/pptv.png" group-title="Digital TV",PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+#EXTINF:-1 tvg-id="TopNews.th" tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="NEWS",TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-id="News 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NEWS1_2017.png" group-title="NEWS",ASTV NEWS1
+https://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="CTB.th" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png" group-title="FILMES & SERIES",CTB FHD
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://www.etvthai.tv/images_new/logo.png" group-title="NEWS",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kp" tvg-logo="" group-title="NEWS",Korean Central TV
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="Ch7HD.th" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="JORNALISMO",Ch7HD (1080p)
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1 tvg-id="Ch7HD.th" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="JORNALISMO",Ch7HD (720p)
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name=" Palavrinhas " tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/zXXRHt.png" group-title="ESPECIAIS DESENHOS 24h",3 Palavrinhas 
 http://axr.life:80/live/rodrigosoares81/redstar007/1417171.m3u8
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="44 Gatos" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/sLDGHP.png" group-title="ESPECIAIS DESENHOS 24h",44 Gatos
 http://axr.life:80/live/rodrigosoares81/redstar007/2150908.m3u8
