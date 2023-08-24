@@ -150,7 +150,7 @@ http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w424287754.m3u8
 http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV
-http://203.176.130.123:8989/live/bayont _480k.stream/chunklist_w619428968.m3u8
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w619428968.m3u8
 
 #EXTINF:-1 tvg-id="CGTN",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
