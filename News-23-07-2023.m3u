@@ -1321,7 +1321,5 @@ https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV1.vn" group-title="News",Kien Giang TV1
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://i.imgur.com/ArasZJO.png" group-title=,Thairath TV
-https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" group-title="News",TVK (576p)
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
