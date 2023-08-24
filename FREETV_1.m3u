@@ -153,7 +153,7 @@ http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 http://203.176.130.123:8989/live/bayont _480k.stream/chunklist_w619428968.m3u8
 
 #EXTINF:-1 tvg-id="CGTN",CGTN
-https://news.cgtn.com/resource/live/english/cgtn_news.m3u8
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="DW English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
