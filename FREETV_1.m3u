@@ -69,7 +69,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 http://news1.live14.com/stream/news1.m3u8
 
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th",Suwannabhumi Channel
-https://live.bangkoksteam.com:19360/suwannabhumi/suwannabhumi.m3u8
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 #EXTINF:-1 tvg-id="DLTV1.th",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
