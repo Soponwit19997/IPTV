@@ -173,23 +173,23 @@ https://rbmn-live.akamaized.nel/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="TRT World",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png" RT Documentary
+#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RT en Espanol"RT en Espanol
+#EXTINF:-1 tvg-id="RT en Espanol",RT en Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT News" tvg-logo="https://i.imgur.com/tyXIHlj.png",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BRT" tvg-logo="https://i.imgur.com/vr7k4jS.png",BRT
-https://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Da Nang TV1",Da Nang TV1
-https://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklisk.m3u8
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklisk.m3u8
 
 #EXTINF:-1 tvg-id="Da Nang TV2",Da Nang TV2
-https://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="THGL",THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
