@@ -137,6 +137,9 @@ http://183.89.246.119:8881/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="TVD9.th",TVD 9
 http://183.89.246.119:8881/play/a0a3/index.m3u8
 
+#EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="HangMeas.kh",Hang Meas TV
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w422093947_b800000_sleng.m3u8
 
@@ -155,4 +158,45 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="DW English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1 tvg-id="EWTN Asia-Pacific",EWTN Asia-Pacific
+https://cdn3.wowaz.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera English",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro Globe Network" tvg-logo="https://i.imgur.com/NTCI3lf.png",Metro Globe Network
+https://egde.medcom.id/live-egde/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Red Bull TV",Red Bull TV
+https://rbmn-live.akamaized.nel/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT World",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png" RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT en Espanol"RT en Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT News" tvg-logo="https://i.imgur.com/tyXIHlj.png",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRT" tvg-logo="https://i.imgur.com/vr7k4jS.png",BRT
+https://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Da Nang TV1",Da Nang TV1
+https://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklisk.m3u8
+
+#EXTINF:-1 tvg-id="Da Nang TV2",Da Nang TV2
+https://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="THGL",THGL
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 tvg-id="Arirang",Arirang
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 tvg-id="MTN",MTN
+http://183.110.27.87/mtnlive/720/playlist.m3u8?checkedby:iprvcat.org
 
