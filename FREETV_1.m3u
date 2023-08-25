@@ -149,6 +149,9 @@ http://96.9.77.79:1935/live/SEATV/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV5.km",TV5 CAMBODIA
 http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w424287754.m3u8
 
+#EXTINF:-1 tvg-id="TVK.km",TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MSJTV.kh",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 
@@ -159,7 +162,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN Asia-Pacific",EWTN Asia-Pacific
-https://cdn3.wowaz.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera English",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
