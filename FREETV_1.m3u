@@ -165,10 +165,10 @@ https://cdn3.wowaz.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro Globe Network" tvg-logo="https://i.imgur.com/NTCI3lf.png",Metro Globe Network
-https://egde.medcom.id/live-egde/smil:mgnch.smil/playlist.m3u8
+https://egde.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Red Bull TV",Red Bull TV
-https://rbmn-live.akamaized.nel/hls/live/590964/BoRB-AT/master.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT World",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
