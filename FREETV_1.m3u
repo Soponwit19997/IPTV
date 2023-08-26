@@ -170,6 +170,12 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-logo="https://i.imgur.com",Al Jazeera Arabic
+https://ythls.onrender.com/channel/UCfiwzLy-8KzIbsmZTzxDgw.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
 #EXTINF:-1 tvg-id="Metro Globe Network" tvg-logo="https://i.imgur.com/NTCI3lf.png",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
@@ -349,3 +355,12 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBS Amarica",PBS Amarica
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syria TV" tvg-logo="https://i.imgur.com/rKTE8Qw.png",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Syrian Educational TV" tvg-logo="https://i.imgur.com/PrXBgQG.png",Syrian Educational TV
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syrian News Channel" tvg-logo="https://i.imgur.com/G17eCq6.png",Syrian News Channel
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
