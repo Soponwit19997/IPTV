@@ -273,7 +273,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN",CNN
-https://trunerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:-1 tvg-id="KOMPAS TV" tvg-logo="https://i.imgur.com/bD6UHeZ.png",KOMPAS TV
 https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
@@ -330,7 +330,7 @@ https://stream.streaming4u.hu/BerenteTV/index.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1 tvg-id="Camino Real TV" tvg-logo="https://i.imgur.com/2GAEWhn.png",Camino Real TV
-https://5bf8041cd3fed/streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+https://5bf8041cd3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Noroc TV",Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
@@ -340,3 +340,6 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Prime9 News",Prime9 News
+https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
