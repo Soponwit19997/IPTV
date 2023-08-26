@@ -224,6 +224,9 @@ https://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="JOJ Cinema" tvg-logo="https://i.imgur.com/5Auduch.png",JOJ Cinema
 https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
 
+#EXTINF:-1 tvg-id="JOJ 24" tvg-logo='https://i.imgur.com/Tv12wOd.png",JOJ 24
+https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
+
 #EXTINF:-1 tvg-id="Tela Viva" tvg-logo="https://i.imgur.com/vcNo9Vj.png",Tela Viva
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
@@ -266,8 +269,14 @@ https://ythls.onrender.com/channel/UCRJUVYt9gig8MnlGacySUdg.m3u8
 #EXTINF:-1 tvg-id="BTV",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-id="CNN Indonesia"CNN Indonesia
+#EXTINF:-1 tvg-id="CNN Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN",CNN
+https://trunerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+#EXTINF:-1 tvg-id="KOMPAS TV" tvg-logo="https://i.imgur.com/bD6UHeZ.png",KOMPAS TV
+https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7" tvg-logo="https://i.imgur.com/fAbGImS.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -286,3 +295,18 @@ http://stream.backustv.ru/live/btv/index.m3u8
 
 #EXTINF:-1 tvg-id="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png",CS Film
 http://st01-1.iptv.joj.sk/106-tv-pc.m3u8
+
+#EXTINF:-1 tvg-id="Africa News" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africa News
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png",Reuters TV
+https://reuters-reutersnow-1-pr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kurdsat News" tvg-logo="https://i.imgur.com/F3XRwkt.png",Kurdsat News
+https://ikomg2.mmdlive.lldns.net/ikom2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="STV Haryana News" tvg-logo="https://i.imgur.com/TJRZo9e.png",STV Haryana News
+https://ythls.onrender.com/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://iptv36.my.to/logo/ch7.png",CH7 HD (BACKUP)
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
