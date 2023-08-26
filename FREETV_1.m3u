@@ -300,13 +300,43 @@ http://st01-1.iptv.joj.sk/106-tv-pc.m3u8
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Reuters TV" tvg-logo="https://i.imgur.com/6eQ2nCJ.png",Reuters TV
-https://reuters-reutersnow-1-pr.samsung.wurl.com/manifest/playlist.m3u8
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kurdsat News" tvg-logo="https://i.imgur.com/F3XRwkt.png",Kurdsat News
-https://ikomg2.mmdlive.lldns.net/ikom2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="STV Haryana News" tvg-logo="https://i.imgur.com/TJRZo9e.png",STV Haryana News
 https://ythls.onrender.com/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
 
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://iptv36.my.to/logo/ch7.png",CH7 HD (BACKUP)
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://iptv36.my.to/logo/ch7.png",Ch7HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+
+#EXTINF:-1 tvg-id="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="Palitra News" tvg-logo="https://i.imgur.com/BW95PMF.png,Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 8 San Juan",Chanal 8 San Juan
+https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-id="Studio040 TV" tvg-logo="https://i.imgur.com/NBludRL.png",Studio040 TV
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Berente TV" tvg-logo="https://i.imgur.com/3H3Ct9f.png",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Nueve TV" tvg-logo="https://i.imgur.com/3fzB7zY.png",Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+#EXTINF:-1 tvg-id="Camino Real TV" tvg-logo="https://i.imgur.com/2GAEWhn.png",Camino Real TV
+https://5bf8041cd3fed/streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Noroc TV",Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+
+#EXTINF:-1 tvg-id="Raajje TV",Raajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV",VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
