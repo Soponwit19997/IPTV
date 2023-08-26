@@ -232,3 +232,27 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 #EXTINF:-1 tvg-id="Der Aktionaer TV" tvg-logo="https://i.imgur.com/5bHrYoD.png",Der Aktionaer TV
 https://live2.telvi.de/hls/aktionaertv.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Awaaz",CNBC Awaaz
+https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
+
+#EXTINF:-1 tvg-id="CNBC TV18",CNBC TV18
+https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Arabiya" tvg-logo="https://i.imgur.com/opBXx1K.png",CNBC Arabiya
+https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+#EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.imgur.com/WK4tZ6p.png",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+
+#EXTINF:-1 tvg-id="Maeil Business TV" tvg-logo="https://i.imgur.com/G2fnMXG.png",Maeil Business TV
+https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV Austraria" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Austraria
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
