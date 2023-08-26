@@ -330,7 +330,7 @@ https://stream.streaming4u.hu/BerenteTV/index.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1 tvg-id="Camino Real TV" tvg-logo="https://i.imgur.com/2GAEWhn.png",Camino Real TV
-https://5bf8041cd3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Noroc TV",Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
@@ -343,3 +343,9 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Prime9 News",Prime9 News
 https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+
+#EXTINF:-1 tvg-id="VCV" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBS Amarica",PBS Amarica
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
