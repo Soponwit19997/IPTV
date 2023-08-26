@@ -221,6 +221,9 @@ http://183.110.27.87/mtnlive/720/playlist.m3u8?checkedby:iprvcat.org
 #EXTINF:-1 tvg-id="JOJ Family" tvg-logo="https://i.imgur.com/k1COMHi.png",JOJ Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
 
+#EXTINF:-1 tvg-id="JOJ Cinema" tvg-logo="https://i.imgur.com/5Auduch.png",JOJ Cinema
+https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+
 #EXTINF:-1 tvg-id="Tela Viva" tvg-logo="https://i.imgur.com/vcNo9Vj.png",Tela Viva
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
@@ -256,3 +259,30 @@ https://bloomberg.com/media-manifest/streams/aus.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Asharq News" tvg-logo="https://i.imgur.com/bqRC3sl.png",Asharq News
+https://ythls.onrender.com/channel/UCRJUVYt9gig8MnlGacySUdg.m3u8
+
+#EXTINF:-1 tvg-id="BTV",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia"CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7" tvg-logo="https://i.imgur.com/fAbGImS.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Law & Crime" tvg-logo="https://i.imgur.com/HY64Nhe.png",Law & Crime
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STRK" tvg-logo="https://i.imgur.com/mLZDuIF.png",STRK
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Backus TV Original" https://i.imgur.com/4pCmSsU.png",Backus TV Original
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png",CS Film
+http://st01-1.iptv.joj.sk/106-tv-pc.m3u8
