@@ -240,7 +240,7 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 
 #EXTINF:-1 tvg-id="KNN|SBS",KNN|SBS
-http://211.220.195.200:1935/live/mp4:knnTV.sdp/playlist.m3u8
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UBC|SBS",UBC|SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
@@ -403,3 +403,6 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-id="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png",Rotana Classic
 https://daiconnect.com/live/hls/rotana/classical/.m3u8
+
+#EXTINF:-1 tvg-id="Fastway News" tvg-logo="https://i.imgur.com/cBkYHDZ.png",Fastway News
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
