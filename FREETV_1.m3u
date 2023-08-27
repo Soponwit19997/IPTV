@@ -144,7 +144,7 @@ http://183.89.246.119:8881/play/a0ab/index.m3u8
 http://183.89.246.119:8881/play/a0a3/index.m3u8
 
 #EXTINF:-1 tvg-id="SBTTV.th" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT TV
-http://202.142.203.28:1935/sbt_tv_aac_300/playlist.m3u8
+http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
@@ -426,7 +426,7 @@ http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlits.m3u8
 
 #EXTINF:-1 tvg-id="Tribe TV" tvg-logo="https://i.imgur.com/zG2P1WZ.png",Tribe TV
-https://server.livelegitpro.in:9989/tribetv/tribetv/index.m3u8
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 
 #EXTINF:-1 tvg-id="TRT",TRT
 https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
@@ -435,10 +435,16 @@ https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 https://stream.it-innov.com/ctv/index.m3u8
 
 #EXTINF:-1 tvg-id="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png",KempenTV
-https://ms7.mx-cd.net/tv/Omroep_de_Kampen.smil/playlist.m3u8
+http://ms7.mx-cd.net/tv/Omroep_de_Kampen.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png",Sama TV
 https://stream.sama-tv.net/hls/samatv.m3u8
 
 #EXTINF:-1 tvg-id="OURTV" tvg-logo="https://i.imgur.com/LMeoW0l.png",OURTV
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YOL TV" tvg-logo="https://i.imgur.com/rTBX6lS.png",YOL TV
+https://stream.yol.tv:9443/medialive/yol.m3u8
+
+#EXTINF:-1 tvg-id="LN24SA" tvg-logo="https://i.imgur.com/LtNEZhJ.png",LN24SA
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8
