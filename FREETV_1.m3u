@@ -131,11 +131,20 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Thai Chaiyo.th",Thai Chaiyo
 http://183.89.246.119:8881/play/a0a4/index.m3u8
 
+#EXTINF:-1 tvg-id="54UnityTV.th" tvg-logo="https://i.imgur.com/KYqBz8S.png",54 Unity TV
+http://183.89.246.119:8881/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="OShopping.th" tvg-logo="https://i.imgur.com/0Q7idUc.png",O Shopping
+http://183.89.246.119:8881/play/a0a5/index.m3u8
+
 #EXTINF:-1 tvg-id="TVD1.th",TVD 1
 http://183.89.246.119:8881/play/a0ab/index.m3u8
 
 #EXTINF:-1 tvg-id="TVD9.th",TVD 9
 http://183.89.246.119:8881/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-id="SBTTV.th" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT TV
+http://202.142.203.28:1935/sbt_tv_aac_300/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
@@ -160,6 +169,9 @@ http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="CGTN",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Spanish
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="DW English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -217,6 +229,9 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 
 #EXTINF:-1 tvg-id="THTG",THTG
 http://thtg.vn:8001/thtg.m3u8
+
+#EXTINF:-1 tvg-id="THTV2" tvg-logo="https://i.imgur.com/uqMu5Fb.png",THTV2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang",Arirang
 http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.org
@@ -406,3 +421,24 @@ https://daiconnect.com/live/hls/rotana/classical/.m3u8
 
 #EXTINF:-1 tvg-id="Fastway News" tvg-logo="https://i.imgur.com/cBkYHDZ.png",Fastway News
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digital Vision 63" tvg-logo="https://i.imgur.com/FQkLIMR.png",Digital Vision 63
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlits.m3u8
+
+#EXTINF:-1 tvg-id="Tribe TV" tvg-logo="https://i.imgur.com/zG2P1WZ.png",Tribe TV
+https://server.livelegitpro.in:9989/tribetv/tribetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TRT",TRT
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV Afrique" tvg-logo="https://i.ibb.co/k0mws9B/CtvAfrique.jpg",CTV Afrique
+https://stream.it-innov.com/ctv/index.m3u8
+
+#EXTINF:-1 tvg-id="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png",KempenTV
+https://ms7.mx-cd.net/tv/Omroep_de_Kampen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png",Sama TV
+https://stream.sama-tv.net/hls/samatv.m3u8
+
+#EXTINF:-1 tvg-id="OURTV" tvg-logo="https://i.imgur.com/LMeoW0l.png",OURTV
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
