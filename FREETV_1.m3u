@@ -224,6 +224,36 @@ http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-id="MTN",MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8?checkedby:iprvcat.org
 
+#EXTINF:-1 tvg-id="ABN TV",ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-id="MBC",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJB|SBS",CJB|SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBC|SBS",KBC|SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JIBS|SBS",JIBS|SBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 tvg-id="KNN|SBS",KNN|SBS
+http://211.220.195.200:1935/live/mp4:knnTV.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UBC|SBS",UBC|SBS
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN",YTN
+https://ythls.onrender.com/channel/UChIgI3UHCOnwUGzWzbJ3H5w.m3u8
+
+#EXTINF:-1 tvg-id="YTN Korean",YTN Korean
+https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
+
+#EXTINF:-1 tvg-id="YTN Science",YTN Science
+https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+
 #EXTINF:-1 tvg-id="JOJ Family" tvg-logo="https://i.imgur.com/k1COMHi.png",JOJ Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
 
@@ -364,3 +394,12 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syrian News Channel" tvg-logo="https://i.imgur.com/G17eCq6.png",Syrian News Channel
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/WdSjlPI.png",Amrita TV
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="WVT Canal 20" tvg-logo="https://i.imgur.com/nb81xeU.png",WVT Canal 20
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-id="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png",Rotana Classic
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
