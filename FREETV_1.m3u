@@ -359,14 +359,11 @@ https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifes
 #EXTINF:-1 tvg-id="STV Haryana News" tvg-logo="https://i.imgur.com/TJRZo9e.png",STV Haryana News
 https://ythls.onrender.com/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
 
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://iptv36.my.to/logo/ch7.png",Ch7HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
-
 #EXTINF:-1 tvg-id="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-id="Palitra News" tvg-logo="https://i.imgur.com/BW95PMF.png,Palitra News
-https://live.palitranews.ge/hls/palitratv/index.m3u8
+https://livestream.palitranews.ge/hls/palitratv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 8 San Juan",Chanal 8 San Juan
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
@@ -448,3 +445,6 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 
 #EXTINF:-1 tvg-id="LN24SA" tvg-logo="https://i.imgur.com/LtNEZhJ.png",LN24SA
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alhurra" tvg-logo="https://i.imgur.com/tiQp2sR.png",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
