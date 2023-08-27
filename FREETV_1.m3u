@@ -435,7 +435,7 @@ https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 https://stream.it-innov.com/ctv/index.m3u8
 
 #EXTINF:-1 tvg-id="KempenTV" tvg-logo="https://i.imgur.com/ZiPL9ar.png",KempenTV
-http://ms7.mx-cd.net/tv/Omroep_de_Kampen.smil/playlist.m3u8
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sama TV" tvg-logo="https://i.imgur.com/9DoOxD0.png",Sama TV
 https://stream.sama-tv.net/hls/samatv.m3u8
