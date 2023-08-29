@@ -188,6 +188,12 @@ https://ythls.onrender.com/channel/UCfiwzLy-8KzIbsmZTzxDgw.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera Mubasher",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
+#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/rGxhsZ2.png",Al Jazeera Balkans
+https://live-hls-web-ajm.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews English" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews English
+https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Metro Globe Network" tvg-logo="https://i.imgur.com/NTCI3lf.png",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
@@ -326,6 +332,36 @@ https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 #EXTINF:-1 tvg-id="YTN Science",YTN Science
 https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
 
+#EXTINF:-1 tvg-id="ABC News Live 1",ABC News Live 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 2",ABC News Live 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 3",ABC News Live 3
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 4",ABC News Live 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 5",ABC News Live 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 6",ABC News Live 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 7",ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 8",ABC News Live 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 9",ABC News Live 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live 10",ABC News Live 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+
 #EXTINF:-1 tvg-id="Al Alam",Al Alam
 https://live2.alalam.ir/alalam.m3u8
 
@@ -364,6 +400,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBC Arabiya" tvg-logo="https://i.imgur.com/opBXx1K.png",CNBC Arabiya
 https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Africa" tvg-logo="https://i.imgur.com/BnNYzWI.png",CNBC Africa
+https://ythls.onrender.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8
 
 #EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.imgur.com/WK4tZ6p.png",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
@@ -473,6 +512,9 @@ http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1 tvg-id="Syrian News Channel" tvg-logo="https://i.imgur.com/G17eCq6.png",Syrian News Channel
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Such TV" tvg-logo="https://i.imgur.com/yYMh3JJ.png",Such TV
+https://ythls.onrender.com/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8
+
 #EXTINF:-1 tvg-id="Amrita TV" tvg-logo="https://i.imgur.com/WdSjlPI.png",Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 
@@ -553,3 +595,48 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Buzau",TV Buzau
 http://95.77.16.67:8080
+
+#EXTINF:-1 tvg-id="IRIB1",IRIB1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+
+#EXTINF:-1 tvg-id="IRIB2",IRIB2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+
+#EXTINF:-1 tvg-id="IRIB3",IRIB3
+https://af.ayas.ir/hls2/tv3.m3u8
+
+#EXTINF:-1 tvg-id="IRIB4",IRIB4
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="IRIB5",IRIB5
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+
+#EXTINF:-1 tvg-id="IRINN",IRINN
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Amouzesh",IRIB Amouzesh
+https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Mostanad",IRIB Mostanad
+https://live.aionet.ir/hls/mostanad/mostanad.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Namayesh",IRIB Namayesh
+https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Tamasha",IRIB Tamasha
+https://live.aionet.ir/hls/tamasha/tamasha.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Salamat",IRIB Salamat
+https://live.aionet.ir/hls/salamat/salamat.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Pooya & Nahal",IRIB Pooya & Nahal
+https://live.aionet.ir/hls/pooya/pooya.m3u8
+
+#EXTINF:-1 tvg-id="IRIB Nasim",IRIB Nasim
+https://live.aionet.ir/hls/nasim/nasim.m3u8
+
+#EXTINF:-1 tvg-id="CG Entertainment",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Nova Play", tvg-logo="https://i.imgur.com/MhoHk6I.png",TV Nova Play
+https://srv4.zcasi.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
