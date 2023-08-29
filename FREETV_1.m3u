@@ -255,7 +255,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 
 #EXTINF:-1 tvg-id="QPVN",QPVN
-http://27.76.137.122:1935/standara/smil:standard.smil/playlist.m3u8
+http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QRT",QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -519,7 +519,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Simaye Azadi",Simaye Azadi
-https://simaytv.akamaized.net/hls/live/2053550/simayhls/index.m3u8
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
 #EXTINF:-1 tvg-id="FX TV Iran",FX TV Iran
 https://fxtvhls.wns.live/hls/stream.m3u8
@@ -531,7 +531,7 @@ https://irna-tv.icdndhcp.com/live/stream/index.m3u8
 https://t.northtelecom.org/ABALFADHLTV.m3u8
 
 #EXTINF:-1 tvg-id="Velayat TV",Velayat TV
-https://nl.livekaden.com/hls2/velayattv.m3u8
+https://nl.livekadeh.com/hls2/velayattv.m3u8
 
 #EXTINF:-1 tvg-id="ICC TV",ICC TV
 https://icchls.wns.live/hls/stream.m3u8
