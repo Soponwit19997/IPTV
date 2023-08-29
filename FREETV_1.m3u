@@ -189,7 +189,7 @@ https://ythls.onrender.com/channel/UCfiwzLy-8KzIbsmZTzxDgw.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/rGxhsZ2.png",Al Jazeera Balkans
-https://live-hls-web-ajm.getaj.net/AJB/index.m3u8
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews English" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews English
 https://rakuten-euronews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
@@ -458,6 +458,12 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="kurdsat News" tvg-logo="https://i.imgur.com/F3XRwkt.png",Kurdsat News
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Argus News",Argus News
+https://live.argusnews.in/hls/argustv.m3u8
+
+#EXTINF:-1 tvg-id="Janam TV",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="STV Haryana News" tvg-logo="https://i.imgur.com/TJRZo9e.png",STV Haryana News
 https://ythls.onrender.com/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
 
@@ -639,4 +645,4 @@ https://live.aionet.ir/hls/nasim/nasim.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Nova Play", tvg-logo="https://i.imgur.com/MhoHk6I.png",TV Nova Play
-https://srv4.zcasi.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
