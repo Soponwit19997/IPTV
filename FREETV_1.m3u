@@ -209,6 +209,12 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="BRT" tvg-logo="https://i.imgur.com/vr7k4jS.png",BRT
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bac Kan TV",Bac Kan TV
+http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJURUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId&deviceId&deviceType&location=NA&requestTime=1586309420781&pkg=pkg11.hnl
+
+#EXTINF:-1 tvg-id="Cao Bang TV",Cao Bang TV
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Da Nang TV1",Da Nang TV1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklisk.m3u8
 
@@ -221,8 +227,47 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dong Nai 2",Dong Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dong Thap TV",Dong Thap TV
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ha Tinh TV",Ha Tinh TV
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBTV",HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV",HGTV
+https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hmong Star TV",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lam Dong TV",Lam Dong TV
+http://118.107.85.4:1935/live/silm:LTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nhan Dan TV",Nhan Dan TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV",NTV
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Phu Yen TV",Phu Yen TV
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="QPVN",QPVN
+http://27.76.137.122:1935/standara/smil:standard.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="QRT",QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="SET TV 1",SET TV 1
+https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SET TV 2",SET TV 2
+https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Thai Nguyen TV",Thai Nguyen TV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="THGL",THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
@@ -232,6 +277,18 @@ http://thtg.vn:8001/thtg.m3u8
 
 #EXTINF:-1 tvg-id="THTV2" tvg-logo="https://i.imgur.com/uqMu5Fb.png",THTV2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT Vietnam",TRT Vietnam
+https://live.trt.com.vn/TRT-Onlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="THTV",THTV
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TTV",TTV
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+
+#EXTINF:-1 tvg-id="Vinh Phuc TV",Vinh Phuc TV
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang",Arirang
 http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.org
@@ -268,6 +325,12 @@ https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 
 #EXTINF:-1 tvg-id="YTN Science",YTN Science
 https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+
+#EXTINF:-1 tvg-id="Al Alam",Al Alam
+https://live2.alalam.ir/alalam.m3u8
+
+#EXTINF:-1 tvg-id="Assirat TV",Assirat TV
+https://svs.itworkscdn.net/assirattvlive/asairat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JOJ Family" tvg-logo="https://i.imgur.com/k1COMHi.png",JOJ Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
@@ -368,6 +431,9 @@ https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="Canal 8 San Juan",Chanal 8 San Juan
 https://ythls.onrender.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 tvg-id="Canal 13 San Juan",Canal 13 San Juan
+https://ythls.onrenger.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
 #EXTINF:-1 tvg-id="Studio040 TV" tvg-logo="https://i.imgur.com/NBludRL.png",Studio040 TV
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 
@@ -448,3 +514,42 @@ https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3
 
 #EXTINF:-1 tvg-id="Alhurra" tvg-logo="https://i.imgur.com/tiQp2sR.png",Alhurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Press TV",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Simaye Azadi",Simaye Azadi
+https://simaytv.akamaized.net/hls/live/2053550/simayhls/index.m3u8
+
+#EXTINF:-1 tvg-id="FX TV Iran",FX TV Iran
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IRNA24",IRNA24
+https://irna-tv.icdndhcp.com/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Abalfadhl TV",Abalfadhl TV
+https://t.northtelecom.org/ABALFADHLTV.m3u8
+
+#EXTINF:-1 tvg-id="Velayat TV",Velayat TV
+https://nl.livekaden.com/hls2/velayattv.m3u8
+
+#EXTINF:-1 tvg-id="ICC TV",ICC TV
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kanal Jadid",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Your Time TV",Your Time TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Mihan TV",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai TV",Dubai TV
+https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Deen TV",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Buzau",TV Buzau
+http://95.77.16.67:8080
