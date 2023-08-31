@@ -239,17 +239,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="TRT World",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RT Arabic",RT Arabic
-https://rt-arb.rttv.com/live/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RT",RT
+https://cdn.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 
-#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RT en Espanol",RT en Espanol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RT News" tvg-logo="https://i.imgur.com/tyXIHlj.png",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="A News" tvg-logo="https://i.imgur.com/6tWCzTp.png",A News
+https://ythls.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 
 #EXTINF:-1 tvg-id="BRT" tvg-logo="https://i.imgur.com/vr7k4jS.png",BRT
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
