@@ -170,11 +170,17 @@ http://124.248.165.18:1935/live/myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CGTN",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
+#EXTINF:-1 tvg-id="CGTN Arabic" tvg-logo="https://i.imgur.com/AkFFrS7.png",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
 #EXTINF:-1 tvg-id="CGTN Spanish" tvg-logo="https://i.imgur.com/Poz3xfi.png",CGTN Spanish
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="DW English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="DW Arabic",DW Arabic
+https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 
 #EXTINF:-1 tvg-id="EWTN Asia-Pacific",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
@@ -202,6 +208,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT World",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="RT Arabic",RT Arabic
+https://rt-arb.rttv.com/live/dvr/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -299,9 +308,6 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Arirang",Arirang
 http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:-1 tvg-id="MTN",MTN
-http://183.110.27.87/mtnlive/720/playlist.m3u8?checkedby:iprvcat.org
-
 #EXTINF:-1 tvg-id="ABN TV",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
@@ -331,6 +337,9 @@ https://ythls.onrender.com/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
 
 #EXTINF:-1 tvg-id="YTN Science",YTN Science
 https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live",ABC News Live
+https://content.uplink.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="ABC News Live 1",ABC News Live 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
@@ -362,6 +371,12 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 tvg-id="ABC News Live 10",ABC News Live 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
+#EXTINF:-1 tvg-id="France 24 English",France 24 English
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 tvg-id="France 24 Espanol",France 24 Espanol
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
 #EXTINF:-1 tvg-id="Al Alam",Al Alam
 https://live2.alalam.ir/alalam.m3u8
 
@@ -371,11 +386,14 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Family" tvg-logo="https://i.imgur.com/k1COMHi.png",JOJ Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
 
-#EXTINF:-1 tvg-id="JOJ Cinema" tvg-logo="https://i.imgur.com/5Auduch.png",JOJ Cinema
-https://st01-1.iptv.joj.sk/105-tv-pc.m3u8
+#EXTINF:-1 tvg-if="El Arna" tvg-logo="https://i.imgur.com/XYsLe2Q.png",El Arna
+https://sc.id-tv.kz/ElArna.m3u8
 
-#EXTINF:-1 tvg-id="JOJ 24" tvg-logo='https://i.imgur.com/Tv12wOd.png",JOJ 24
-https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
+#EXTINF:-1 tvg-id="JOJ 24" tvg-logo="https://i.imgur.com/Tv12wOd.png",JOJ 24
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+
+#EXTINF:-1 tvg-id="Bravo Farsi TV" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Tela Viva" tvg-logo="https://i.imgur.com/vcNo9Vj.png",Tela Viva
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
@@ -446,8 +464,8 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Backus TV Original" https://i.imgur.com/4pCmSsU.png",Backus TV Original
 http://stream.backustv.ru/live/btv/index.m3u8
 
-#EXTINF:-1 tvg-id="CS Film" tvg-logo="https://i.imgur.com/BAAuBB2.png",CS Film
-http://st01-1.iptv.joj.sk/106-tv-pc.m3u8
+#EXTINF:-1 tvg-id="TV Cinec" tvg-logo="https://i.imgur.com/Svm5pun.png",TV Cinec
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 
 #EXTINF:-1 tvg-id="Africa News" tvg-logo="https://i.imgur.com/5UxU4zc.png",Africa News
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
@@ -511,9 +529,6 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syria TV" tvg-logo="https://i.imgur.com/rKTE8Qw.png",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Syrian Educational TV" tvg-logo="https://i.imgur.com/PrXBgQG.png",Syrian Educational TV
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syrian News Channel" tvg-logo="https://i.imgur.com/G17eCq6.png",Syrian News Channel
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
