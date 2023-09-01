@@ -685,3 +685,9 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Nova Play", tvg-logo="https://i.imgur.com/MhoHk6I.png",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAVTV" tvg-logo="https://i.imgur.com/4fqvwEk.png",MAVTV
+https://mavtv-1-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEK Sports West" tvg-logo="https://i.imgur.com/uJb4VOc.png",BEK Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
