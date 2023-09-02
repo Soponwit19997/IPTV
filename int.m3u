@@ -10,11 +10,11 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TSport.th" tvg-logo="https://iptv36.my.to/logo/tsport.png",T Sport 7
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://iptv36.my.to/logo/tptv.png",TPTV
-https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b80ed59433d5f3ce/TV_1080p.m3u8
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://iptv36.my.to/logo/tnn16.png",TNN16
 http://183.89.246.119:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://iptv36.my.to/logo/jkn18.png",JKN 18
-https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+http://183.89.246.119:8010/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://iptv36.my.to/logo/nation.png",Nation TV
 http://183.89.246.119:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://iptv36.my.to/logo/workpoint.png",Workpoint TV
