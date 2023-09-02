@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NBT".th" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="Digital TV",NBT
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Digital TV",Thai PBS
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Digital TV",ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Digital TV",TV5 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
+#EXTINF:-1 tvg-id="TSport7.th" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Digital TV",T Sport 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+#EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Digital TV",TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Digital TV",TNN 16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Digital TV",JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://iptv36.my.to/logo/nation.png" group-title="Digital TV",Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+#EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://iptv36.my.to/logo/workpoint.png" group-title="Digital TV",Workpoint TV
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://iptv36.my.to/logo/true4u.png" group-title="Digital TV",True 4U
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://iptv36.my.to/logo/gmm25.png" group-title="Digital TV",GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
+#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://iptv36.my.to/logo/ch8.png" group-title="Digital TV",CH8
+https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
+#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://iptv36.my.to/logo/mono29.png" group-title="Digital TV",MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://iptv36.my.to/logo/mcot.png" group-title="Digital TV",MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Digital TV",ONE 31
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://iptv36.my.to/logo/thairath.png" group-title="Digital TV",Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
+#EXTINF:-1 tvg-id="CH3.th" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Digital TV",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Digital TV",Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
+#EXTINF:-1 tvg-id="Ch7HD.th" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="Digital TV",Ch7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#RXTINF:-1 tvg-id="PPTVHD.th" tvg-logo="https://iptv36.my.to/logo/pptv.png" group-title="Digital TV",PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="Undefined",4Kurd HD (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Turk.fr" tvg-logo="https://i.imgur.com/nPqRAmr.png" group-title="Entertainment",4Turk
@@ -57,18 +99,10 @@ https://hd.90minlive.online/live/gemacademy/playlist.m3u8
 https://hd.90minlive.online/live/gemboll/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMClassic.ir" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Classic",GEM Classic (480p)
 https://hd.90minlive.online/live/gemclass/playlist.m3u8
-#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="Comedy",GEM Comedy (576p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Comedy/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="GEMDrama.ir" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="Movies",GEM Drama (480p)
 https://hd.90minlive.online/live/gemdrama/playlist.m3u8
-#EXTINF:-1
-#EXTINF:-1 tvg-id="GEMDramaPlus.ir" tvg-logo="https://i.imgur.com/5zPeOJM.png" group-title="Movies",GEM Drama + (1080p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama%20Plus/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="GEMFilm.ir" tvg-logo="https://i.imgur.com/nrFz3LU.png" group-title="Movies",GEM Film (480p)
 https://hd.90minlive.online/live/gemfilm/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="GEMFit.ir" tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="Sports",GEM Fit (480p)
 https://hd.90minlive.online/live/gemfit/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMFood.ir" tvg-logo="https://i.imgur.com/SMtSinK.png" group-title="Cooking",GEM Food (480p)
@@ -77,28 +111,12 @@ https://hd.90minlive.online/live/gemfood/playlist.m3u8
 https://hd.90minlive.online/live/gemjunior/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMKids.ir" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="Kids",GEM Kids (480p)
 https://hd.90minlive.online/live/gemkids/playlist.m3u8
-#EXTINF:-1 tvg-id="GEMLatino.ir" tvg-logo="https://i.imgur.com/yqr7NB4.png" group-title="Undefined",GEM Latino (576p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20LATINO%20TV/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="GEMLife.ir" tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="Undefined",GEM Life (480p)
 https://hd.90minlive.online/live/gemlife/playlist.m3u8
-#EXTINF:-1
-#EXTINF:-1 tvg-id="GEMNature.ir" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Documentary",GEM Nature (1080p)
-https://gg.hls2.xyz/live/IR%20-%20Gem%20Nature/playlist.m3u8
-#EXTINF:-1
-#EXTINF:-1 tvg-id="GEMProperty.ir" tvg-logo="https://i.imgur.com/bgIhE4i.png" group-title="Undefined",GEM Property (576p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Property/playlist.m3u8
-#EXTINF:-1
-#EXTINF:-1 tvg-id="GEMSeriesPlus.ir" tvg-logo="https://i.imgur.com/uboNGDS.png" group-title="Series",GEM Series + (720p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Series%20Plus/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="GEMTravel.ir" tvg-logo="https://i.imgur.com/eQkBb4G.png" group-title="Travel",GEM Travel (480p)
 https://hd.90minlive.online/live/gemtravel/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMTV.ir" tvg-logo="https://i.imgur.com/m7N6L90.png" group-title="Movies",GEM TV (480p)
 https://hd.90minlive.online/live/gemtv/playlist.m3u8
-#EXTINF:-1 tvg-id="GEMPlus.ir" tvg-logo="https://i.imgur.com/JumxuLy.png" group-title="Undefined",GEM TV + (720p)
-https://gg.hls2.xyz/live/IR%20-%20GEM%20TV%20Plus/playlist.m3u8
-#EXTINF:-1
 #EXTINF:-1 tvg-id="HastiTV.ir" tvg-logo="https://i.imgur.com/vwjcP7X.png" group-title="Undefined",Hasti TV (1080p) [Not 24/7]
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Health Media TV (720p)
