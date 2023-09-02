@@ -30,7 +30,7 @@ http://183.89.246.119:8010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://iptv36.my.to/logo/mcot.png",MCOT HD
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://iptv36.my.to/logo/one.png",ONE 31
-http://183.89.246.119:8010/play/a00e/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140915/chonehd/index.m3u8
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
 https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
 #EXTINF:-1 tvg-id="CH3.th" tvg-logo="https://iptv36.my.to/logo/ch3.png",CH3 HD
@@ -40,7 +40,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chamarim/index.m3u8
 #EXTINF:-1 tvg-id="CH7.th" tvg-logo="https://iptv36.my.to/logo/ch7.png",Ch7HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 #EXTINF:-1 tvg-id="PPTVHD.th" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
-http://183.89.246.119:8010/play/a00s/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
