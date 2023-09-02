@@ -18,13 +18,13 @@ https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://iptv36.my.to/logo/nation.png",Nation TV
 http://183.89.246.119:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://iptv36.my.to/logo/workpoint.png",Workpoint TV
-http://183.89.246.119:8018/play/a00c/index.m3u8
+http://183.89.246.119:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://iptv36.my.to/logo/true4u.png",True 4U
 http://183.89.246.119:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://iptv36.my.to/logo/gmm25.png",GMM 25
 http://183.89.246.119:8010/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://iptv36.my.to/logo/ch8.png",CH8
-https://prsmedia-mykojih.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29
 http://183.89.246.119:8010/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://iptv36.my.to/logo/mcot.png",MCOT HD
