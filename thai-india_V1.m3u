@@ -189,6 +189,8 @@ https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/play
 https://ythls.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
 #EXTINF:-1 tvg-id="CaptainTV.in",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 tvg-id="CCV.in",CCV (480p)
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in",Channel Divya (720p)
 https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in",Channel WIN (360p)
@@ -525,8 +527,6 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 https://livestream.knowtable.xyz:5443/show/streams/Publictv_adaptive.m3u8
 #EXTINF:-1 tvg-id="PulariTV.in",Pulari TV (720p)
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabadTV.in",Punjabi Zindabad (360p) [Not 24/7]
-http://stream.pztv.online/pztv/playlist.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in",Puthiya Thalaimurai (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in",Puthuyugam TV (576p) [Not 24/7]
@@ -681,8 +681,6 @@ https://ythls.onrender.com/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmeraa.in",Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-#EXTINF:-1 tvg-id="Goa365.in",Goa365 (720p)
-https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTVIndia.in",Gospel TV India (720p)
 http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="GregorianTV.in",Gregorian TV (720p) [Not 24/7]
