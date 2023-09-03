@@ -189,8 +189,6 @@ https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/play
 https://ythls.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8
 #EXTINF:-1 tvg-id="CaptainTV.in",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 tvg-id="CCV.in",CCV (480p)
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in",Channel Divya (720p)
 https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in",Channel WIN (360p)
@@ -251,8 +249,6 @@ https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 https://ythls.onrender.com/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in",Good News Today (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCQC1wGbOOIoC23fRGxt4kbg.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.in",GoodNews TV (720p)
-https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GosreeVision.in",Gosree Vision (576p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 tvg-id="GraceFamilyTV.in",Grace Family TV (720p)
@@ -415,12 +411,8 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-id="MKTV.in",MK TV (576p) [Not 24/7]
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in",Moon TV (720p)
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in",Music India (576p) [Not 24/7]
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 tvg-id="NambikkaiTV.in",Nambikkai TV (576p)
-https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NaxatraNews.in",Naxatra News (720p)
@@ -609,8 +601,6 @@ http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC.in",SVBC Sri Venkateswara Bhakti Channel (1080p)
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in",Thanthi TV (396p)
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in",Thanthi TV (1080p) [Not 24/7]
@@ -786,8 +776,6 @@ https://ythls.onrender.com/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8
 https://ythls.onrender.com/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8
 #EXTINF:-1 tvg-id="DDUttarakhand.in",DD Uttarakhand (480p) [Not 24/7]
 https://ythls.onrender.com/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8
-#EXTINF:-1 tvg-id="VasanthTV.in",Vasanth TV (240p)
-https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.in",Mega TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCsJgeHqYFzBzQRa5ZmhJo7w.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in",MNTV (1080p)
