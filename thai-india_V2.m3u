@@ -3,7 +3,7 @@
 https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Digital TV",Thai PBS
 https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
-#EXTNIF:-1 tvg-id="ALTV.th" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Digital TV",ALTV
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Digital TV",ALTV
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF:-1 tvg-id="Ch5HD.th" tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Digital TV",Ch5HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
