@@ -293,9 +293,6 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV",NTV
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Phu Yen TV",Phu Yen TV
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-
 #EXTINF:-1 tvg-id="QPVN",QPVN
 http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 
@@ -574,9 +571,6 @@ https://daiconnect.com/live/hls/rotana/classical/.m3u8
 
 #EXTINF:-1 tvg-id="Fastway News" tvg-logo="https://i.imgur.com/cBkYHDZ.png",Fastway News
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Digital Vision 63" tvg-logo="https://i.imgur.com/FQkLIMR.png",Digital Vision 63
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlits.m3u8
 
 #EXTINF:-1 tvg-id="Tribe TV" tvg-logo="https://i.imgur.com/zG2P1WZ.png",Tribe TV
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
