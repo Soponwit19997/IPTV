@@ -170,9 +170,6 @@ http://183.89.246.119:8881/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="TVD1.th",TVD 1
 http://183.89.246.119:8881/play/a0ab/index.m3u8
 
-#EXTINF:-1 tvg-id="TVD9.th",TVD 9
-http://183.89.246.119:8881/play/a0a3/index.m3u8
-
 #EXTINF:-1 tvg-id="SBTTV.th" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT TV
 http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
 
@@ -539,9 +536,6 @@ http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-id="Raajje TV",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV",VTV
-http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Prime9 News",Prime9 News
 https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
 
@@ -625,9 +619,6 @@ https://kjhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Your Time TV",Your Time TV
 https://hls.yourtime.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Mihan TV",Mihan TV
-https://iptv.mihantv.com/mihantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dubai TV",Dubai TV
 https://weyyak-live.akamaized.net/weyyak_dubai_tv/index.m3u8
