@@ -101,6 +101,9 @@ http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th",Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
+#EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+
 #EXTINF:-1 tvg-id="DLTV1.th",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
@@ -163,6 +166,9 @@ http://183.89.246.119:8881/play/a0a4/index.m3u8
 
 #EXTINF:-1 tvg-id="54UnityTV.th" tvg-logo="https://i.imgur.com/KYqBz8S.png",54 Unity TV
 http://183.89.246.119:8881/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="Mangkorn.th" tvg-logo="https://i.imgur.com/sV0S0mV.m3u8",Mangkorn
+http://183.89.246.119:8881/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="OShopping.th" tvg-logo="https://i.imgur.com/0Q7idUc.png",O Shopping
 http://183.89.246.119:8881/play/a0a5/index.m3u8
