@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1
-
 #EXTINF:-1 tvg-id="NBT2.th" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
 
@@ -13,41 +11,17 @@ https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/4MIQNPQ.png" group-title="Digital TV",TV5 HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
 
-#EXTINF:-1
-
 #EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="Digital TV",T Sports 7
 https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
-
-#EXTINF:-1
-
-#EXTINF:-1
 
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://i.imgur.com/Jfdy937.png" group-title="Digital TV",TPTV
 https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
 
-#EXTINF:-1
-
-#EXTINF:-1
-
-#EXTINF:-1
-
-#EXTINF:-1
-
-#EXTINF:-1
-
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/mfVhuRC.png" group-title="Digital TV",TNN 16
 https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
 
-#EXTINF:-1
-
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/zxgCdl0.png" group-title="Digital TV",JKN 18
 https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
-
-#EXTINF:-1
-
-#EXTINF:-1
-
-#EXTINF:-1
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/RULAfjb.png" group-title="Digital TV",Nation TV
 https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
@@ -61,12 +35,8 @@ https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/sWGT1SD.png" group-title="Digital TV",GMM 25
 https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
 
-#EXTINF:-1
-
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-logo="https://i.imgur.com/RSQLFiU.png" group-title="Digital TV",CH 8
 https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
-
-#EXTINF:-1
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.imgur.com/V4VWHiB.png" group-title="Digital TV",MONO 29
 https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
