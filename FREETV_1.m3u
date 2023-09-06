@@ -125,10 +125,13 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PoliceTV.th",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CTB.th",CTB
+#EXTINF:-1 tvg-id="CTB.th" tvg-logo="https://iptv36.my.to/logo/ctb.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TVBThai.th",TVB Thai FHD
+#EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/logo/boomerang.png",Boomerang
+https://edge6a.v2h-cdn.com/boometang/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://iptv36.my.to/logo/tvb.png",TVB Thai FHD
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Thai Chaiyo.th",Thai Chaiyo
