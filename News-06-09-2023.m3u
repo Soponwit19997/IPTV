@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/ch3.png" tvg-name="CH3 HD" group-title="News",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tv5.png" tvg-name="TV5HD" group-title="News",TV5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/ch7.png" tvg-name="Ch7HD" group-title="News",Ch7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/mcot.png" tvg-name="MCOT HD" group-title="News",MCOT HD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/nbt.png" tvg-name="NBT HD" group-title="News",NBT HD
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/thaipbs.png" tvg-name="Thai PBS" group-title="News",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" tvg-name="Jovem Pan News" group-title="News",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" tvg-name="ABC News Live 4" group-title="News",ABC News Live 4
