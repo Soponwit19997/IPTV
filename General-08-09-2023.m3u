@@ -9,7 +9,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/nbt.png" tvg-name="NBT HD" group-title="General, Free TV",NBT HD
 https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/thaipbs.png" tvg-name="Thai PBS" group-title="General Free TV",Thai PBS
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/thaipbs.png" tvg-name="Thai PBS" group-title="General, Free TV",Thai PBS
 https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-name="RTH-TV1" group-title="General",RTH-TV1
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
