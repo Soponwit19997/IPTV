@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Undefined",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Undefined",TV5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Undefined",Ch7HD
+http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Undefined",MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Undefined",NBT HD
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://i.imgur.com/pLXo2Cq.png" group-title="Undefined",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
