@@ -71,9 +71,6 @@ http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th",Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
-#EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png",13 Siam Thai
-https://live.x2.co.th/live/13livetv-th.m3u8
-
 #EXTINF:-1 tvg-id="DLTV1.th",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
@@ -127,6 +124,24 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTB.th" tvg-logo="https://iptv36.my.to/logo/ctb.png",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/OsD28mZ.png",MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-logo="https://i.imgur.com/OsD28mZ.png",MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-logo="https://i.imgur.com/OsD28mZ.png",MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+
+#EXTINF:-1 tvg-id="Mangkorn.th" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangkorn
+http://49.0.87.24:1936/HDDragon/HDDragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jomyut.th" tvg-logo="https://i.imgur.com/i7HCIuZ.png",Jomyut
+http://49.0.87.24:1936/HDJomyut/HDJomyut/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATTV.th" tvg-logo="https://i.imgur.com/HtBXgaZ.png",AT TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/logo/boomerang.png",Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
@@ -316,9 +331,6 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CJB|SBS",CJB|SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KBC|SBS",KBC|SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JIBS|SBS",JIBS|SBS
 http://123.140.197.22/stream/1/play.m3u8
@@ -646,6 +658,9 @@ https://live.aionet.ir/hls/pooya/pooya.m3u8
 
 #EXTINF:-1 tvg-id="IRIB Nasim",IRIB Nasim
 https://live.aionet.ir/hls/nasim/nasim.m3u8
+
+#EXTINF:-1 tvg-id="TVNBN" tvg-logo="https://i.imgur.com/zoHBxn1.png",TVNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magavision Canal 19" tvg-logo="https://i.imgur.com/X5VcCXI.png",Magavision Canal 19
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
