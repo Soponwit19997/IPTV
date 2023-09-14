@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QOfE8o.png" tvg-name="Bloomberg Adria TV" group-title="Business",Bloomberg Adria TV
+https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-name="TVB Finance Sports & Information Channel" group-title="Business, Sports",TVB Finance Sports & Information Channel
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-name="RBK-TV" group-title="Business",RBK-TV
+https://strm.yandex.ru/kal/rbc/rbc0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cORao6C.png" tvg-name="CNBC Bajar" group-title="Business",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WODuqGT.png" tvg-name="CCTV-2" group-title="Business",CCTV-2
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbVdkJ5.png" tvg-name="TD Ameritrade Network" group-title="Business",TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-name="Yahoo! Finance" group-title="Business",Yahoo! Finance
+https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" tvg-name="Cafe Trade TV" group-title="Business",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuv6S3j.png" tvg-name="ADOCCO TV" group-title="Legislative, News, Business",ADOCCO TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bHrYoD.png" tvg-name="Der Aktionaer TV" group-title="Business",Der Aktionaer TV
+https://live2.telvi.de/hls/aktionaertv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" tvg-name="30A Investment Pitch" group-title="Business",30A Investment Pitch
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-name="Asharq News Portrait" group-title="Business, News",Asharq News Portrait
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png" tvg-name="Xuzhou Economic Life Channel" group-title="Business",Xuzhou Economic Life Channel
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" tvg-name="CNBC Arabiya" group-title="Business",CNBC Arabiya
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Politics Live Event" group-title="Business",Bloomberg TV Politics Live Event
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzcZNe3.png" tvg-name="JOB TV" group-title="Business",JOB TV
+https://jobtvvideo.space/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Asia Live Event" group-title="Business",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZcW7Xa.png" tvg-name="Pymes TeVe" group-title="Business",Pymes TeVe
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Asia" group-title="Business",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ncd4CL3.png" tvg-name="Pax Economy TV" group-title="Business",Pax Economy TV
+https://ythls.onrender.com/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" tvg-name="Tevex" group-title="Business",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfRvm8i.png" tvg-name="Atameken Business" group-title="Business",Atameken Business
+https://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" tvg-name="Ameritrade" group-title="Business",Ameritrade
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G2fnMXG.png" tvg-name="Maeil Business TV" group-title="Business",Maeil Business TV
+https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4W53dh/Ia-U7-Lz-Jq-400x400.jpg" tvg-name="Bit Radio" group-title="Business, News",Bit Radio
+https://vcp.myplaytv.com/petrotv/petrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dzdiY4O.png" tvg-name="Xi'an Business Information Channel" group-title="Business",Xi'an Business Information Channel
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png" tvg-name="BNN Bloomberg" group-title="Business",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WK4tZ6p.png" tvg-name="NDTV Profit" group-title="Business",NDTV Profit
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Live Event" group-title="Business",Bloomberg TV Live Event
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfAMWLJ.png" tvg-name="Business Rockstars" group-title="Business",Business Rockstars
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" tvg-name="CNBC TV18" group-title="Business",CNBC TV18
+https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnNYzWI.png" tvg-name="CNBC Africa" group-title="Business",CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGlToly.png" tvg-name="Bloomberg TV+" group-title="Business",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pq9Aeeb.png" tvg-name="Zhejiang Economic Channel" group-title="Business",Zhejiang Economic Channel
+https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ei5VHa.png" tvg-name="Class CNBC" group-title="Business",Class CNBC
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vGGdB0.png" tvg-name="Ausbiz TV" group-title="Business",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-name="BFM Business" group-title="Business",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/601hQsF.png" tvg-name="Dianzhang Finance Channel" group-title="Business",Dianzhang Finance Channel
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZFl3vy.png" tvg-name="Business 24 Africa" group-title="Business",Business 24 Africa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkWBtL4.png" tvg-name="Zee Business" group-title="Business",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" tvg-name="Fox Business" group-title="Business",Fox Business
+http://199.66.95.242/1/1172/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png" tvg-name="CNBC Awaaz" group-title="Business",CNBC Awaaz
+https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-name="Canal E" group-title="Business, News",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-name="Asharq News" group-title="Business, News",Asharq News
+https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isRfHYZ.png" tvg-name="EntrepreneurTV" group-title="Business",EntrepreneurTV
+https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-name="Bloomberg HT" group-title="Business",Bloomberg HT
+https://ythls.onrender.com/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" tvg-name="Aleph Business" group-title="Business",Aleph Business
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Mongolia" group-title="Business",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" tvg-name="CNBC Indonesia" group-title="Business",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6sfpDa.png" tvg-name="CNBC Europe" group-title="Business",CNBC Europe
+https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Europe" group-title="Business",Bloomberg TV Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV EMEA Live Event" group-title="Business",Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t56RoQ.png" tvg-name="Real Vision" group-title="Business",Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn8Rsup.png" tvg-name="CNBC Asia" group-title="Business",CNBC Asia
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-name="Bloomberg TV Australia" group-title="Business",Bloomberg TV Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueI0VwW.png" tvg-name="ET Now" group-title="Business",ET Now
+https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
