@@ -65,8 +65,6 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
 #EXTINF:-1 tvg-id="AlZahraTV.ir" tvg-logo="https://i.imgur.com/KsZoXBR.png" group-title="Undefined",Al Zahra TV (1080p)
 https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.ca" tvg-logo="https://i.ibb.co/6bQJNLs/download-6.png" group-title="Entertainment",AMG TV (720p)
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 tvg-id="AsilTV.ir" tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="Undefined",Asil TV (720p)
 https://live.asil.tv/asiltv/index.m3u8
 #EXTINF:-1 tvg-id="AssiratTV.ir" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Undefined",Assirat TV (700p)
@@ -81,8 +79,6 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CafeTradeTV.us" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" group-title="Business",Cafe Trade TV (720p)
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-logo="https://i.imgur.com/qegiypT.png" group-title="Music",Caltex TV (720p) [Not 24/7]
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabia (1080p)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us" tvg-logo="https://i.imgur.com/igskUo0.png" group-title="Legislative",Channel Yek (720p)
@@ -91,8 +87,6 @@ https://ch1hls.wns.live/hls/stream.m3u8
 http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious",Erfan Halgheh TV (720p)
 https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FarsiTV.us" tvg-logo="https://i.ibb.co/TmfPhG3/farsi-tv.png" group-title="Entertainment",Farsi TV (1080p)
-https://live.farsitv.us/live/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FX TV Iran (720p)
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GEMAcademy.ir" tvg-logo="https://i.imgur.com/Zcu2xxN.png" group-title="Movies",GEM Academy (480p)
@@ -177,8 +171,6 @@ https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.ir" tvg-logo="https://i.imgur.com/Ig0SPev.png" group-title="Religious",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NegahTV.ir" tvg-logo="https://i.imgur.com/NFsBd4D.png" group-title="Entertainment",Negah TV (720p)
-https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",Omide Iran (720p) [Not 24/7]
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="OXIRTV.ir" tvg-logo="https://i.imgur.com/MGMhUDx.png" group-title="Undefined",OXIR TV (720p)
@@ -239,7 +231,5 @@ https://hls.nejat.live/hls/stream.m3u8
 https://todayhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VoAPersian.us" tvg-logo="https://i.imgur.com/p8j19I6.png" group-title="News",VoA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-id="VOX1.ir" tvg-logo="https://i.imgur.com/YtCmlNT.png" group-title="Undefined",VOX1 (720p) [Not 24/7]
-https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/X38vWJ1.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
