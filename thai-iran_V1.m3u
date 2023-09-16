@@ -69,8 +69,6 @@ https://60ba7ef02e687.streamlock.net/ICNET/ngrp:my.stream_all/playlist.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MohabatTV.ir",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.ir",Mohabat TV (540p)
-https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="OmideIranTV.ir",Omide Iran (720p) [Not 24/7]
@@ -93,8 +91,6 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir",IRIB Varzesh (1080p)
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-#EXTINF:-1 tvg-id="VOX1.ir",VOX1 (720p) [Not 24/7]
-https://hls.vox1.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir",YourTime TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir",ITN (720p) [Not 24/7]
@@ -113,14 +109,8 @@ https://hls.avang.live/hls/stream.m3u8
 https://mn-nl.mncdn.com/alzahra/alzahra_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir",Mihan TV (720p) 
 https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:-1 tvg-id="NegahTV.ir",Negah TV (720p) 
-https://iptv.negahtv.com/negahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.ca",AMG TV (720p) 
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 tvg-id="BravoFarsiTV.ir",Bravo Farsi TV (360p) 
 https://bravoohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FarsiTV.us",Farsi TV (1080p) 
-https://live.farsitv.us/live/stream.m3u8
 #EXTINF:-1 tvg-id="TODAYTV.us",Today TV (720p) 
 https://todayhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="",Health Media TV (720p) 
@@ -155,12 +145,8 @@ https://hls.keshishhamid.live/hls/stream.m3u8
 http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
 #EXTINF:-1 tvg-id="IRNA24.ir",IRNA24 (720p) 
 https://irna-tv.icdndhcp.com/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
-https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV.ir",Abalfadhl TV (720p) 
 https://t.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1 tvg-id="CaltexTV.ir",Caltex TV (720p) [Not 24/7]
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="IRIB1.ir",IRIB1 (720p)
 https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir",IRIB2 (540p)
