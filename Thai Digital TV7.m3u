@@ -5,10 +5,6 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 http://183.89.246.119:8881/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="ALTV4.th" tvg-logo="https://i.imgur.com/YnvWyJ7.png" group-title="Undefined",ALTV 4 (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Undefined",ALTV (1080p)
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://i.imgur.com/nN75EyA.png" group-title="Undefined",Amarin TV (1080p)
-http://183.89.246.119:8010/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
