@@ -39,7 +39,7 @@ https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 #EXTINF:-1 tvg-id="RamaChannel" tvg-name="RamaChannel" group-title="Movie" tvg-logo="https://i.imgur.com/jfdQp0K.png",RamaChannel
 https://cdn6.goprimetime.info/feed/202306140918/LC27/index.m3u8
-#EXTINF:-1 tvg-id="CTB FHD" tvg-name="CTB FHD" group-title="Movie" tvg-logo="ttps://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB FHD
+#EXTINF:-1 tvg-id="CTB FHD" tvg-name="CTB FHD" group-title="Movie" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB FHD
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
 https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
