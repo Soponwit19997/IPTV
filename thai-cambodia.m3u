@@ -73,6 +73,8 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-id="TopNews.th" tvg-name="TOP NEWS" group-title="News" tvg-logo="https://i.imgur.com/tRFnV9M.png",TOP NEWS
 https://cdn6.goprimetime.info/feed/202306140918/chtopnews/index.m3u8
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/kDaV0OE.png" group-title="News",ASTV News 1
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="ApsaraTV11.kh" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Undefined",Apsara TV11 (720p) [Not 24/7]
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
