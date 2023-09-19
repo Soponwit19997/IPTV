@@ -49,7 +49,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM 25
 https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
-#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Movies" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
 https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
@@ -697,7 +697,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in" tvg-logo="https://i.imgur.com/DuZMoo6.png" group-title="Undefined",TV5 Kannada (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCpzsmNuUEmod64DGgBDPO-Q.m3u8
-#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkyCsEh4XHELZXn3abEUYjuZEhzF4N-foeA&usqp=CAU" group-title="Undefined",TV5Monde Style (1080p) [Geo-blocked]
 https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
 #EXTINF:-1 tvg-id="TV5News.in" tvg-logo="https://i.imgur.com/aOrvsYj.png" group-title="News",TV5 News (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
