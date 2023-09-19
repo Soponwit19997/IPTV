@@ -49,4 +49,4 @@
 
 สำรวจโลก : https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 
-CTB : https://cdn-th-vip.login.in.th:443/ctb/ctb/chunklist.m3u8
+CTB : http://vip.login.in.th:1935/ctb/ctb/chunklist.m3u8
