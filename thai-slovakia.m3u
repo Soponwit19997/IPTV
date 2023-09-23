@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
+https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT HD
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/OFsQwvv.png",THAI PBS HD
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
+https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Jfdy937.png",TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" group-title="Movies" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+#EXTINF:-1 tvg-id="Jomyut" tvg-name="Jomyut" group-title="Movies" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:-1 tvg-id="7Flix" tvg-name="7Flix" group-title="Movies" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
+https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL KINGDOM" tvg-name="ANIMAL KINGDOM" group-title="General" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="@แอททีวี" tvg-name="@แอททีวี" group-title="Movies" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@แอททีวี
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN 16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+#EXTINF:-1 tvg-id="CTB.th" tvg-name="CTB" group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+#EXTINF:-1 tvg-id="RamaChannel" tvg-name="RamaChannel" group-title="Movies" tvg-logo="https://i.imgur.com/jfdQp0K.png",RamaChannel
+https://cdn6.goprimetime.info/feed/202306140918/LC27/index.m3u8
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint TV
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Digital TV" tvg-logo="https://i.imgur.com/tXb8NiE.png",True 4U
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
+#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Movies" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH 8
+https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/9apyiI0.png",ONE HD
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/ArasZJO.png",Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/lHbIKfF.png",CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/S6gvvf9.png",Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" group-title="Business" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-blue-background.png",Bloomberg
+https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
+https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
+#EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png?fit=512%2C512",ของดีประเทศไทย
+https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
+#EXTINF:-1 tvg-id="HLNFilm.us" tvg-name="HLN Film" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlrzFa6_WRUXDXwx8KmsXOKh8TjxjdZYWtw&usqp=CAU",HLN Film
+https://cdn6.goprimetime.info/feed/202306140918/LC24/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkyCsEh4XHELZXn3abEUYjuZEhzF4N-foeA&usqp=CAU" group-title="Undefined",TV5Monde Style
+https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Undefined",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Undefined",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Undefined",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Undefined",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Undefined",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Undefined",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Undefined",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Undefined",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Undefined",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Undefined",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Undefined",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Undefined",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Undefined",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Undefined",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Undefined",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="BTV.sk" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="Undefined",BTV (480p)
+https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarkizaDajto.sk" tvg-logo="https://i.imgur.com/DdWj4xv.png" group-title="Undefined",DajTo (960p)
+http://213.81.133.133:8080/dajto/index.m3u8
+#EXTINF:-1 tvg-id="DuckTV.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",Duck TV (720p)
+https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-logo="https://i.imgur.com/ft10wQn.png" group-title="Undefined",Dvojka (960p)
+http://213.81.133.133:8080/dvojka/index.m3u8
+#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
+#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Lifestyle",FashionTV Czech&Slovak (450p) [Not 24/7]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="Undefined",Jednotka (960p)
+http://213.81.133.133:8080/jednotka/index.m3u8
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="News",JOJ 24 (540p) [Not 24/7]
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="Undefined",JOJ Plus (1080p)
+https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="Undefined",JOJ WAU (540p) [Not 24/7]
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="Markiza.sk" tvg-logo="https://i.imgur.com/W56rOi2.png" group-title="Undefined",Markíza (720p)
+http://83.167.253.107/hdmi1_ext
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Music",Óčko (540p)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Auto",Pluto TV Auto Motor Sport (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:-1 tvg-id="TVRaj.sk" tvg-logo="https://i.imgur.com/CGckMyx.png" group-title="Undefined",Raj TV (720p) [Not 24/7]
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="Undefined",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="General",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Undefined",Televízia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBratislava.sk" tvg-logo="https://i.imgur.com/sQvMpo6.png" group-title="Undefined",TV Bratislava (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-logo="https://i.imgur.com/59LpYoF.png" group-title="General",TV Brezová (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Undefined",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Undefined",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHronka.sk" tvg-logo="https://i.imgur.com/L9ODaLp.png" group-title="Undefined",TV Hronka (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8
+#EXTINF:-1 tvg-id="TVJOJ.sk" tvg-logo="https://i.imgur.com/NSpxSOD.png" group-title="Undefined",TV JOJ (720p) [Not 24/7]
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="General",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Undefined",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-logo="https://i.imgur.com/mAMyTkq.png" group-title="Undefined",TV Lux (720p) [Not 24/7]
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-logo="https://i.imgur.com/9f9VmvF.png" group-title="General",TV Myjava (540p)
+http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 tvg-id="TVNitricka.sk" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitrička (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCnEQCNDsMtPlrVwCrRViaeQ.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Undefined",TV Nové Zámky (486p) [Not 24/7]
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVReduta.sk" tvg-logo="https://i.imgur.com/smizIrT.png" group-title="Undefined",TV Reduta (486p)
+https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRomana.sk" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Undefined",TV Romana (720p)
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Undefined",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-logo="https://i.imgur.com/ckm2oLD.png" group-title="General",TV Sen (540p)
+http://95.105.193.219:88/hls/tvsen.m3u8
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-logo="https://i.imgur.com/kerkvRX.png" group-title="General",TV Stará Turá (540p)
+http://95.105.193.219:88/hls/tvst.m3u8
+#EXTINF:-1 tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Undefined",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Undefined",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-logo="https://i.imgur.com/D72Y1IB.png" group-title="General",Západoslovenská TV (1080p)
+https://live.zstv.sk/memfs/5b0f9dd2-8f77-4fe5-9527-bc11bb8b18e5.m3u8
