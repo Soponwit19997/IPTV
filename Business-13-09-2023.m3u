@@ -9,7 +9,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
@@ -31,8 +31,8 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN 16
 https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
-#EXTINF:-1 tvg-id="TVB ไทย" tvg-name="TVB ไทย" group-title="Movies" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB ไทย
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="CTB.th" tvg-name="CTB" group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
 https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
 #EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 3
@@ -71,10 +71,50 @@ https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-id="TopNews.th" tvg-name="TOP NEWS" group-title="News" tvg-logo="https://i.imgur.com/tRFnV9M.png",TOP NEWS
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-id="CTB FHD" tvg-name="CTB FHD" group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB FHD
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="มวลชนทีวี" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" group-title="Business" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-blue-background.png",Bloomberg
+https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
+https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
+#EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png?fit=512%2C512",ของดีประเทศไทย
+https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
+#EXTINF:-1 tvg-id="HLNFilm.us" tvg-name="HLN Film" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlrzFa6_WRUXDXwx8KmsXOKh8TjxjdZYWtw&usqp=CAU",HLN Film
+https://cdn6.goprimetime.info/feed/202306140918/LC24/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkyCsEh4XHELZXn3abEUYjuZEhzF4N-foeA&usqp=CAU" group-title="Undefined",TV5Monde Style
+https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Undefined",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Undefined",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Undefined",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Undefined",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Undefined",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Undefined",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Undefined",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Undefined",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Undefined",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Undefined",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Undefined",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Undefined",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Undefined",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Undefined",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Undefined",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QOfE8o.png" tvg-name="Bloomberg Adria TV" group-title="Business",Bloomberg Adria TV
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-name="RBK-TV" group-title="Business",RBK-TV
