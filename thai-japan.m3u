@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
 https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT HD
@@ -68,82 +67,53 @@ https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/S6gvvf9.png",Amarin TV
 https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
-https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1695205611364688300022.jpg",ของดีประเทศไทย
-https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="มวลชนทีวี" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" group-title="Business" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-blue-background.png",Bloomberg
 https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
 https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
-#EXTINF:-1 tvg-id="HLNFilm.us" tvg-name="HLN Film" group-title="Movies" tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1695204448555712272964.png",HLN Film
+#EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png?fit=512%2C512",ของดีประเทศไทย
+https://cdn6.goprimetime.info/feed/202306140918/LC31/index.m3u8
+#EXTINF:-1 tvg-id="HLNFilm.us" tvg-name="HLN Film" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlrzFa6_WRUXDXwx8KmsXOKh8TjxjdZYWtw&usqp=CAU",HLN Film
 https://cdn6.goprimetime.info/feed/202306140918/LC24/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv01_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv02_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv03_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv04_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv05_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv06_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv07_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv08_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv09_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv10_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv11_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV 12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv12_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv13_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV 14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv14_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn-live.dltv.ac.th/dltv15_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.etvthai.tv/images_new/logo.png",ETV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-http://150.95.66.20:1935/live/livestream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkyCsEh4XHELZXn3abEUYjuZEhzF4N-foeA&usqp=CAU" group-title="Undefined",TV5Monde Style
+https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Undefined",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Undefined",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Undefined",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Undefined",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Undefined",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Undefined",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Undefined",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Undefined",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Undefined",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Undefined",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Undefined",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Undefined",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Undefined",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Undefined",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Undefined",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="Undefined",ABC TV News (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
 #EXTINF:-1 tvg-id="JapaNews24.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",ANN JapaNews24 (720p) [Not 24/7]
