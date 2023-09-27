@@ -13,6 +13,8 @@
 
 โทรทัศน์รัฐสภา : https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
 
+เอ็นบีที ภาคกลาง : https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+
 ทีเอ็นเอ็น 16 : https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 
 เจเคเอ็น 18 : https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
@@ -50,3 +52,5 @@
 สำรวจโลก : https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 
 CTB : http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
