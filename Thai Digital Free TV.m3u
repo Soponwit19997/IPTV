@@ -1,43 +1,43 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="Digital TV",NBT (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Digital TV",Thai PBS (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="ALTV.th tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="Digital TV",ALTV (576p)
-https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Digital TV",TV5 HD (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TSport7.th" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Digital TV",T Sport 7 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/tsports7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIzIDExOjM1OjIyIEFNJmhhc2hfdmFsdWU9ajdiU2dEbFU5VGxqUGJhZ2praXlBZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Digital TV",TPTV (1080p)
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_1080p.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Digital TV",TNN16 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1695837430&x_ark_path_prefix=%2Flive%2F&x_ark_signature=Rw-w8FjJiFIQytbheubuiA
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Digital TV",JKN 18 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+https://5f27aa1f6ef91.streamlock.net/jkn18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://iptv36.my.to/logo/nation.png" group-title="Digital TV",Nation TV (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+https://stream-04.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSdB84hg41rqjIFRuQ2le1P62JORnvprzxLYsLdKdgXDQ)/dm/3/x6eoldf/d/live-1.m3u8
 #EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://iptv36.my.to/logo/workpoint.png" group-title="Digital TV",Workpoint (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
-#EXTINF:-1 tvg-id="True4u.th" tvg-logo="https://iptv36.my.to/logo/true4u.png" group-title="Digital TV",True 4U (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
-#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://iptv36.my.to/logo/gmm25.png" group-title="Digital TV",GMM 25 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
-#EXTINF:-1 tvg-id="Ch8.th" tvg-logo="https://iptv36.my.to/logo/ch8.png" group-title="Digital TV",CH8 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://iptv36.my.to/logo/mono29.png" group-title="Digital TV",MONO 29 (576p)
-https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIzIDEyOjM0OjU1IFBNJmhhc2hfdmFsdWU9cEZRN01zdysyTmpvWHRvb01NeUludz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-id="True4u.th" tvg-logo="https://iptv36.my.to/logo/true4u.png" group-title="Digital TV",True 4U (1080p)
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1695837168&x_ark_path_prefix=%2Flive&x_ark_signature=6A3BT98WIpHWWq7zcxQNiw
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://iptv36.my.to/logo/gmm25.png" group-title="Digital TV",GMM 25 (720p)
+https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ch8.th" tvg-logo="https://iptv36.my.to/logo/ch8.png" group-title="Digital TV",CH8 (720p)
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://iptv36.my.to/logo/mono29.png" group-title="Digital TV",MONO 29 (720p)
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://iptv36.my.to/logo/mcot.png" group-title="Digital TV",MCOT HD (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIzIDEyOjMyOjM5IFBNJmhhc2hfdmFsdWU9K2wxY21oZHNtNDRRZk03ZVpHZFB5Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Digital TV",ONE 31 (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://iptv36.my.to/logo/thairath.png" group-title="Digital TV",Thairath TV (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 #EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Digital TV",3 HD (720p)
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIzIDEyOjMwOjEzIFBNJmhhc2hfdmFsdWU9REh1cnpPMkQwdGIzcUNFUHdKbWhHZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="AnarinTV.th" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Digital TV",Amarin TV (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIzIDEyOjM4OjI1IFBNJmhhc2hfdmFsdWU9ZEVzVG5zckFyeC9vSE5kd2U0SnQzUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="Ch7HD.th" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="Digital TV",Ch7HD (720p)
 https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8?vhost=streaming-hwc.ch7.com
 #EXTINF:-1 tvg-id="PPTVHD.th" tvg-logo="https://iptv36.my.to/logo/pptv.png" group-title="Digital TV",PPTV HD (720p)
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
