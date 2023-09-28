@@ -53,4 +53,18 @@
 
 CTB : http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
+ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
+
+MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+
+ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+
+Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+CCTV-4 : https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
+
+Kanal 10 Asia : http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+
+TV5MONDE Style : https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
