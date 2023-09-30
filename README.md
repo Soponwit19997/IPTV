@@ -59,7 +59,7 @@ Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m
 
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
-ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+ช่อง 5 (กัมพูชา) : http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 
 Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
