@@ -55,11 +55,23 @@ CTB : http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
+BOX FILM : https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
+Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+LA34 : https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+
+TTV : http://27.72.164.157:8080/hls/ttv.m3u8
+
 ช่อง 5 (กัมพูชา) : http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+
+TVK : https://cdn6.goprimetime.info/feed/202306140918/LC56/index.m3u8
 
 Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
@@ -68,5 +80,7 @@ CCTV-4 : https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
 Kanal 10 Asia : http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+
+DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 TV5MONDE Style : https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
