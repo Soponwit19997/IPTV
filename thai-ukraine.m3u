@@ -119,8 +119,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
 https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/tHVc8on.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5Ukraine.ua" tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="Undefined",5 канал (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="News",24 Канал (1080p)
@@ -145,8 +143,6 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-logo="https://i.imgur.com/eSCZ8YY.png" group-title="News",CurrentTime
-http://81.94.196.204/tsstreamer/CurrentTime_SD.ts
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-logo="https://i.ibb.co/nRcc0bM/download-6.png" group-title="General",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DumskayaTV.ua" tvg-logo="https://i.imgur.com/cSTLg5w.png" group-title="Undefined",Dumskaya TV (720p)
@@ -169,8 +165,6 @@ https://stream.uagit.tv/gittv.m3u8
 https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc3/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="GNCEurope.ua" tvg-logo="https://gnctv.org/wp-content/uploads/2022/03/GNC-Blue-200x62.png" group-title="Religious",GNC Europe (1080p)
 https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="GNCUkraine.ua" tvg-logo="https://gnctv.org/wp-content/uploads/2022/03/GNC-Blue-200x62.png" group-title="Religious",GNC Ukraine (1080p)
-https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc2/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="NTA.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/thumb/d/df/NTA_logo_rgb-01.png/220px-NTA_logo_rgb-01.png" group-title="News",HTA (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 #EXTINF:-1 tvg-id="IUAtv.ua" tvg-logo="https://i-ua.tv/images/jursspublisher/logos/logo500.png" group-title="News",I-UA.tv (1080p)
@@ -203,8 +197,6 @@ https://ythls.onrender.com/channel/UCU7r0DqO0cGc5qeHXrXufYA.m3u8
 https://ythls.onrender.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-logo="https://i.imgur.com/5qwIslT.jpg" group-title="Undefined",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
-https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Z.ua" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Undefined",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-id="ApostrofTV.ua" tvg-logo="https://i.imgur.com/3bnT42d.png" group-title="Undefined",Апостроф TV (1080p) [Not 24/7]
@@ -221,8 +213,6 @@ http://nadiya.home-net.com.ua/mob/mystream.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-logo="https://i.imgur.com/NvhLjXU.jpg" group-title="Undefined",Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="General",Орбіта ТВ (360p) [Not 24/7]
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-logo="https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg" group-title="Undefined",Первый городской (Одесса) (1080p) [Not 24/7]
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-logo="https://i.imgur.com/mdsqwpi.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
