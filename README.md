@@ -77,6 +77,10 @@ Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
 CCTV-4 : https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
 
+Al Jazeera Arabic : https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 Bloomberg : https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
 
 CNA : https://cdn6.goprimetime.info/feed/202306140918/LC16/index.m3u8
