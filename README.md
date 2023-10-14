@@ -45,8 +45,6 @@
 
 พีพีทีวี : https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 
-ท็อปนิวส์ : https://cdn6.goprimetime.info/feed/202306140918/chtopnews/index.m3u8
-
 ช่องบูมเมอแรง : https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 
 สำรวจโลก : https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
