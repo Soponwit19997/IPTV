@@ -57,6 +57,10 @@ BOX FILM : https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
+LNTV1 : https://ctrl.laotv.la/live/LNTV1/index.m3u8
+
+LNTV3 : https://ctrl.laotv.la/live/LNTV3/index.m3u8
+
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
