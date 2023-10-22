@@ -165,7 +165,7 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 https://ctrl.laotv.la/live/VTE9/index.m3u8
 #EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-#EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title"Entertainment",MV LAO
+#EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
 https://ctrl.laotv.la/live/MVLao/index.m3u8
 #EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
