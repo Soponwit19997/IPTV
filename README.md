@@ -67,9 +67,11 @@ Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-LA34 : https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
-
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
+
+VTV1 : https://edge1.laotv.la/live/VTV1HD/index.m3u8
+
+VTV3 : https://edge1.laotv.la/live/VTV3/index.m3u8
 
 ช่อง 5 (กัมพูชา) : http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 
