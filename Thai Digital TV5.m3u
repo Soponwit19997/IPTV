@@ -51,6 +51,8 @@ https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 https://ctrl.laotv.la/live/LNTV1/index.m3u8
 #EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg" group-title="General",LNTV 3
 https://ctrl.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 tvg-id="LATV.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqgcRkoHKF7cxNCU3YR4aP6UMHbzSgUUTGA&usqp=CAU" group-title="Undefined",LATV
+https://ctrl.laotv.la/live/LATV/index.m3u8
 #EXTINF:-1 tvg-id="LaoPSTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj" group-title="Undefined",Lao PSTV
 https://ctrl.laotv.la/live/PSTV/index.m3u8
 #EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://sv1.picz.in.th/images/2023/09/20/dWv83ER.jpeg" group-title="Undefined",vte 9
@@ -65,6 +67,8 @@ https://ctrl.laotv.la/live/LaoStar/index.m3u8
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
+https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel
