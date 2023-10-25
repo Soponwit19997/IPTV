@@ -125,6 +125,8 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
+https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
 http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
