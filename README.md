@@ -61,7 +61,17 @@ LNTV1 : https://ctrl.laotv.la/live/LNTV1/index.m3u8
 
 LNTV3 : https://ctrl.laotv.la/live/LNTV3/index.m3u8
 
+LATV : https://ctrl.laotv.la/live/LATV/index.m3u8
+
+LAO PSTV : https://ctrl.laotv.la/live/PSTV/index.m3u8
+
+VTE9 : https://ctrl.laotv.la/live/VTE9/index.m3u8
+
+Lao LSTV : https://ctrl.laotv.la/live/LSTV/index.m3u8
+
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+
+ลาวสตาร์ : https://ctrl.laotv.la/live/LaoStar/index.m3u8
 
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
