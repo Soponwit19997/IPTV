@@ -67,7 +67,7 @@ LAO PSTV : https://ctrl.laotv.la/live/PSTV/index.m3u8
 
 VTE9 : https://ctrl.laotv.la/live/VTE9/index.m3u8
 
-Lao LSTV : https://ctrl.laotv.la/live/LSTV/index.m3u8
+Lao ESTV : https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
