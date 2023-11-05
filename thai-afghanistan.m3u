@@ -1,88 +1,113 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/2.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chnbt/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/3.png" group-title="Digital TV",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/altv4.png" group-title="Digital TV",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/1.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
+https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/tsport.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-id="CTB.th" tvg-name="CTB" group-title="Movies" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/10.png" group-title="Digital TV",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/TPTV/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Digital TV",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1 TH
+https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1 EN
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" group-title="Digital TV",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtnn/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Undefined",BBLACK! CARIBBEAN
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/18.png" group-title="Digital TV",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/newtv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="KIX.hk" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Entertainment",Kix (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="Entertainment",ROCK Action (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment",ROCK Entertainment (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/22.png" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chnation/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/23.png" group-title="Digital TV",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/24.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/25.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chgmm/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Movies" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/27.png" group-title="Digital TV",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch8/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/29.png" group-title="Digital TV",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chmono29/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/30.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chonehd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/32.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chthairath/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/33.png" group-title="Digital TV",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch3hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/34.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chamarin/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/35.png" group-title="Digital TV",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/ch7hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/36.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="LNTV1.la" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",LNTV 1
+https://ctrl.laotv.la/live/LNTV1/index.m3u8
+#EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg" group-title="General",LNTV 3
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 tvg-id="LATV.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqgcRkoHKF7cxNCU3YR4aP6UMHbzSgUUTGA&usqp=CAU" group-title="Undefined",LATV
+https://ctrl.laotv.la/live/LATV/index.m3u8
+#EXTINF:-1 tvg-id="LaoPSTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj" group-title="Undefined",Lao PSTV
+https://ctrl.laotv.la/live/PSTV/index.m3u8
+#EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://sv1.picz.in.th/images/2023/09/20/dWv83ER.jpeg" group-title="Undefined",vte 9
+https://ctrl.laotv.la/live/VTE9/index.m3u8
+#EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
+https://ctrl.laotv.la/live/LaoESTV/index.m3u8
+#EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
+https://ctrl.laotv.la/live/MVLao/index.m3u8
+#EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
+https://ctrl.laotv.la/live/LaoStar/index.m3u8
 #EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="Religious",ABN Afghanistan (540p)
 https://rtmp2.abnvideos.com/hls/abnafghanistan.m3u8
 #EXTINF:-1 tvg-id="AfghanNobelMovies.ca" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Movies",Afghan Nobel Movies (720p)
@@ -119,8 +144,6 @@ https://hls.rta.live/hls/stream.m3u8
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SadaEHaqTV.us" tvg-logo="https://i.imgur.com/J1pB59S.jpg" group-title="Religious",Sada-E-Haq TV (720p)
 https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:-1 tvg-id="ShamshadTV.af" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg" group-title="Undefined",Shamshad TV (240p)
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/index.m3u8
 #EXTINF:-1 tvg-id="SharqRadioTV.af" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/440px-Sharq_TV_Logo_2020.jpg" group-title="General",Sharq Radio TV (1080p)
 https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel
