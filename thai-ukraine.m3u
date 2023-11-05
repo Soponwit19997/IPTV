@@ -117,10 +117,6 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
-https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
-#EXTINF:-1 tvg-id="Channel5Ukraine.ua" tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="Undefined",5 канал (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="News",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="100News.ua" tvg-logo="https://i.imgur.com/wEou5az.png" group-title="News",100% News (576p)
@@ -151,8 +147,6 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-logo="https://i.imgur.com/97QgKAA.png" group-title="Undefined",Espreso TV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCMEiyV8N2J93GdPNltPYM6w.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
@@ -165,12 +159,8 @@ https://stream.uagit.tv/gittv.m3u8
 https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc3/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="GNCEurope.ua" tvg-logo="https://gnctv.org/wp-content/uploads/2022/03/GNC-Blue-200x62.png" group-title="Religious",GNC Europe (1080p)
 https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="NTA.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/thumb/d/df/NTA_logo_rgb-01.png/220px-NTA_logo_rgb-01.png" group-title="News",HTA (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
 #EXTINF:-1 tvg-id="IUAtv.ua" tvg-logo="https://i-ua.tv/images/jursspublisher/logos/logo500.png" group-title="News",I-UA.tv (1080p)
 https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
-#EXTINF:-1 tvg-id="ICTV.ua" tvg-logo="https://i.imgur.com/97W1NOW.png" group-title="Undefined",ICTV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
 #EXTINF:-1 tvg-id="IT3.ua" tvg-logo="https://i.ibb.co/wWjx7cX/3-2020.png" group-title="News",IT-3 (720p)
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-logo="https://ukrtvr.org/images/%D0%A0%D1%96%D0%B2%D0%BD%D0%B5/ITV.png" group-title="General",ITV (480p)
@@ -179,8 +169,6 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/9ffrXBg.png" group-title="Music",M2 (540p)
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-id="PershyyZakhidnyy.ua" tvg-logo="https://i.imgur.com/hWYyJuG.png" group-title="Undefined",Pershyy Zakhidnyy (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCGVbKMWygms_c1mOj1uTZUA.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyKrivoyRog.ua" tvg-logo="https://i.imgur.com/xYJQiIv.png" group-title="Undefined",Pervyy gorodskoy Krivoy Rog (720p)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-logo="https://i.ibb.co/1fFTQ5R/480px-ptv.jpg" group-title="News",PTV (720p)
@@ -191,16 +179,10 @@ http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Skrypinua.ua" tvg-logo="https://i.imgur.com/XtG3rfj.png" group-title="Undefined",Skrypin.ua (1080p) [Not 24/7]
 https://open-cdn.lanet.tv/play/skrypin.m3u8
-#EXTINF:-1 tvg-id="SonataTV.ua" tvg-logo="https://i.imgur.com/Uq4hEOL.png" group-title="Undefined",Sonata TV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCU7r0DqO0cGc5qeHXrXufYA.m3u8
-#EXTINF:-1 tvg-id="TSN.ua" tvg-logo="https://pbs.twimg.com/profile_images/1483023167073443840/wSWkcyNC_400x400.png" group-title="News",TCH (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua" tvg-logo="https://i.imgur.com/5qwIslT.jpg" group-title="Undefined",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
 #EXTINF:-1 tvg-id="Z.ua" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Undefined",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 tvg-id="ApostrofTV.ua" tvg-logo="https://i.imgur.com/3bnT42d.png" group-title="Undefined",Апостроф TV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
 #EXTINF:-1 tvg-id="BaltaTV.ua" tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png" group-title="General",Балта ТВ (768p)
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="Glas.ua" tvg-logo="https://i.imgur.com/l5FEP9w.png" group-title="Religious",Глас (576p)
@@ -220,8 +202,6 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="Pryamyy.ua" tvg-logo="https://i.imgur.com/cIIOTR6.png" group-title="Undefined",Прямий (576p)
 https://prm.cdn-02.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Рада ТВ (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
 #EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://i.imgur.com/Zf9ioPu.png" group-title="Undefined",Сварожичи (720p)
 http://80.91.177.102:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVA.ua" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="Undefined",ТВА (Чернiвцi) (576p)
