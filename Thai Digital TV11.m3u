@@ -71,6 +71,38 @@ https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Undefined",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Undefined",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Undefined",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Undefined",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Undefined",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Undefined",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Undefined",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Undefined",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Undefined",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Undefined",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Undefined",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Undefined",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Undefined",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Undefined",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Undefined",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Undefined",BBLACK! CARIBBEAN
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
@@ -83,5 +115,3 @@ https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC7/index.m3u8
 #EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-#EXTINF:-1 tvg-id="ZNSTV.bs" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="General",ZNS TV (240p) [Not 24/7]
-https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
