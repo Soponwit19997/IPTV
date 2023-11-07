@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF,IPTV THAILAND
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+#EXTINF,MOVIES WORLD 1 TH
+https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
 #EXTINF,NBT
-https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 #EXTINF,ThaiPBS
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 #EXTINF,ALTV
-https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF,TV5 HD
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
 #EXTINF,Boomerang Thai
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 #EXTINF,T Sports 7
-https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
 #EXTINF,Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF,Jomyut
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF,TPTV
-https://cdn6.goprimetime.info/feed/202306140918/TPTV3/index.m3u8
-#EXTINF,MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF,MOVIES WORLD 1 EN
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 #EXTINF,MOVIES WORLD 2
 https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
@@ -30,11 +30,11 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 #EXTINF,@TV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF,TNN16
-https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 #EXTINF,TVB Thai
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF,JKN 18
-https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
 #EXTINF,7Flix
 https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
 #EXTINF,Mangorn
@@ -42,32 +42,62 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF,News1
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF,Nation TV
-https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
 #EXTINF,Workpoint
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
 #EXTINF,True4U
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
 #EXTINF,GMM 25
-https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
 #EXTINF,BOX FILM
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 #EXTINF,CH8
-https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
 #EXTINF,Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF,Mono 29
-https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
 #EXTINF,MCOT HD
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF,ONE31 HD
-https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
 #EXTINF,Thairath TV
-https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
 #EXTINF,CH3 HD
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 #EXTINF,Amarin TV
-https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 #EXTINF,CH7 HD
-https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTINF,PPTV HD
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF,CTB
+https://cdn-th-vip.login.in.th:443/CTB/CTB/chunklist.m3u8
+#EXTINF,ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF,MV LAO
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF,TV5
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+#EXTINF,TVK
+https://cdn6.goprimetime.info/feed/202306140918/LC56/index.m3u8
+#EXTINF,Rai Italia
+https://cdn6.goprimetime.info/feed/202306140918/LC7/index.m3u8
+#EXTINF,RT
+https://cdn6.goprimetime.info/feed/202306140918/LC9/index.m3u8
+#EXTINF,DW
+https://cdn6.goprimetime.info/feed/202306140918/LC12/index.m3u8
+#EXTINF,CCTV-4
+https://cdn6.goprimetime.info/feed/202306140918/LC33/index.m3u8
+#EXTINF,France 24
+https://cdn6.goprimetime.info/feed/202306140918/LC34/index.m3u8
+#EXTINF,Euro News
+https://cdn6.goprimetime.info/feed/202306140918/LC35/index.m3u8
+#EXTINF,Bloomberg
+https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
+#EXTINF,NHK World
+https://cdn6.goprimetime.info/feed/202306140918/chnhk/index.m3u8
+#EXTINF,CNA
+https://cdn6.goprimetime.info/feed/202306140918/LC16/index.m3u8
+#EXTINF,TV5MONDE Style
+https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
