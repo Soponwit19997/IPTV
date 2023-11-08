@@ -109,19 +109,9 @@ https://cdn6.goprimetime.info/feed/202306140918/LC16/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC17/index.m3u8
 #EXTINF,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF,Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF,Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF,Kurdsat
+https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
+#EXTINF,Kurdsat News
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 #EXTINF,TV5MONDE Style
 https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
-#EXTINF,TNT Sports 1
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF,TNT Sports 2
-http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF,TNT Sports 3
-http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF,TNT Sports 4
-http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF,TNT Sports 5
-http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
