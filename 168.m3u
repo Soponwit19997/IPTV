@@ -93,6 +93,10 @@ https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #EXTINF,TVK
 https://cdn6.goprimetime.info/feed/202306140918/LC56/index.m3u8
+#EXTINF,THP
+https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF,THP+
+https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF,ABC News
 https://cdn6.goprimetime.info/feed/202306140918/LC44/index.m3u8
 #EXTINF,Rai Italia
