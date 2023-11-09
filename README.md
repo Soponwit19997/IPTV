@@ -1,6 +1,6 @@
 # IPTV
 ลิงก์สำหรับดูทีวีออนไลน์
-== ทีวีดิจิตอล ==
+## ทีวีดิจิตอล
 เอ็นบีที : https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 
 ไทยพีบีเอส : https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
@@ -45,7 +45,7 @@
 
 พีพีทีวี : https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 
-== ทีวีดาวเทียม ==
+## ทีวีดาวเทียม
 
 ช่องบูมเมอแรง : https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 
@@ -59,7 +59,7 @@ BOX FILM : https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
-== ทีวีต่างประเทศ ==
+## ทีวีต่างประเทศ
 
 LNTV1 : https://ctrl.laotv.la/live/LNTV1/index.m3u8
 
