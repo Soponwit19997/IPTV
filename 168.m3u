@@ -75,6 +75,8 @@ https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
 #EXTINF,CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF,สำรวจโลก
+https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 #EXTINF,SIAM NEWS TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF,มวลชนทีวี
@@ -89,10 +91,16 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF,MV LAO
 https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF,Fresh News
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF,TV5
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
 #EXTINF,TVK
 https://cdn6.goprimetime.info/feed/202306140918/LC56/index.m3u8
+#EXTINF,BRT
+http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
+#EXTINF,DRT
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF,THP
 https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 #EXTINF,THP+
@@ -121,7 +129,11 @@ https://cdn6.goprimetime.info/feed/202306140918/chnhk/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/LC16/index.m3u8
 #EXTINF,HOUSE CHANNEL
 https://cdn6.goprimetime.info/feed/202306140918/LC17/index.m3u8
+#EXTINF,Dubai TV
+https://cdn6.goprimetime.info/feed/202306140918/LC15/index.m3u8
 #EXTINF,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF,TV5MONDE Asia
+https://cdn6.goprimetime.info/feed/202306140918/LC10/index.m3u8
 #EXTINF,TV5MONDE Style
 https://cdn6.goprimetime.info/feed/202306140918/LC25/index.m3u8
