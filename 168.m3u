@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF,MOVIES WORLD 1 TH
-https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
+#EXTINF,ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 #EXTINF,NBT
 https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 #EXTINF,ThaiPBS
@@ -19,16 +19,16 @@ http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF,TPTV
 https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF,NBT Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+#EXTINF,MOVIES WORLD 1 TH
+https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
 #EXTINF,MOVIES WORLD 1 EN
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 #EXTINF,MOVIES WORLD 2
 https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
 #EXTINF,MOVIES WORLD 3
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
-#EXTINF,ANIMAL KINGDOM
-https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-#EXTINF,@TV
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF,TNN16
 https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 #EXTINF,TVB Thai
@@ -73,8 +73,8 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF,VTV NEWS
 https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
-#EXTINF,CTB
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF,@TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF,สำรวจโลก
 https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
 #EXTINF,SIAM NEWS TV
