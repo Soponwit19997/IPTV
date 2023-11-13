@@ -1076,7 +1076,7 @@ https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD BACKUP
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="Ch7HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",Ch7HD BACKUP
-https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b690000_sleng.m3u8
+https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD BACKUP
 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT BACKUP
