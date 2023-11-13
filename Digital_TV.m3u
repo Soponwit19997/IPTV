@@ -9,7 +9,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
 https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
@@ -1071,15 +1071,11 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="Undefined",Zing! (576p)
 http://183.89.246.119:8881/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/lHbIKfF.png",CH3 HD BACKUP
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD BACKUP
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="BACKUP" tvg-logo="https://i.imgur.com/wOIaqg7.png",TV5 HD BACKUP
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="Ch7HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",Ch7HD BACKUP
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="Ch7HD" group-title="BACKUP" tvg-logo="https://i.imgur.com/IDMQ2xe.png",Ch7HD BACKUP
 https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD BACKUP
-https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT BACKUP
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="BACKUP" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT BACKUP
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w507269531_b2128000.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Analog TV" tvg-logo="https://i.imgur.com/OFsQwvv.png",THAI PBS BACKUP
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="BACKUP" tvg-logo="https://i.imgur.com/OFsQwvv.png",THAI PBS BACKUP
 https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
