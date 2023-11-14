@@ -43,6 +43,8 @@
 
 ช่อง 7HD : https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
+ช่อง 7HD : https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/index_sleng.m3u8
+
 พีพีทีวี : https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 
 ## ทีวีดาวเทียม
