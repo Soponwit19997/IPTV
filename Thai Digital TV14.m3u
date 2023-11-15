@@ -144,7 +144,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 
-#EXTINF:-1 tvg-chno="37"  tvg-id="ETV.th" tvg-name="ETV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Dsgpo4I.png",ETV
+#EXTINF:-1 tvg-chno="37"  tvg-id="ETV" tvg-name="ETV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Dsgpo4I.png",ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
@@ -152,10 +152,14 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="39"  tvg-id="RamaChannel.th" tvg-name="RamaChannel" group-title="Digital TV" tvg-logo="https://i.imgur.com/jfdQp0K.png",RamaChannel
+#EXTINF:-1 tvg-chno="39"  tvg-id="RamaChannel" tvg-name="RamaChannel" group-title="Digital TV" tvg-logo="https://i.imgur.com/jfdQp0K.png",RamaChannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC27/index.m3u8
 
-#EXTINF:-1 tvg-chno="40"  tvg-id="CTB.th" tvg-name="CTB" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB
+#EXTINF:-1 tvg-chno="40"  tvg-id="CTB" tvg-name="CTB" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png",CTB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="41"  tvg-id="CH7 SD" tvg-name="CH7 SD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1900000_sleng.m3u8
