@@ -43,7 +43,7 @@
 
 ช่อง 7HD : https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/index_sleng.m3u8
+ช่อง 7SD : https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1900000_sleng.m3u8
 
 พีพีทีวี : https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 
@@ -58,6 +58,8 @@ CTB : http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 BOX FILM : https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+
+TVB ไทย : https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
