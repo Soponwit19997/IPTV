@@ -81,8 +81,14 @@ http://news1.live14.com/stream/news1.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chtopnews/index.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id="VoiceTV.th" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png" group-title="News",Voice TV
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1 EN
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://i.imgur.com/3V6ads0.png" group-title="Undefined",TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ZabbChannel.th" tvg-logo="https://i.imgur.com/4TMtUjW.png" group-title="Undefined",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg" group-title="Business" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-blue-background.png",Bloomberg
 https://cdn6.goprimetime.info/feed/202306140918/LC36/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
