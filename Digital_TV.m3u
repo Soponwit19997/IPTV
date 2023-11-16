@@ -960,8 +960,12 @@ https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.
 https://932y4563djv8-hls-live.qezycdn.com/newsfirst/cb582cc2f3b08e0bbd1c9f3d23541e26.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://i.imgur.com/x72O77X.png" group-title="News",News 24 (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="OneTV.in" tvg-logo="https://i.imgur.com/6Jh8LRI.png" group-title="Entertainment",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-logo="https://i.imgur.com/HNsg5Px.png" group-title="News",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 tvg-id="PravasiChannel.in" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="Undefined",Pravasi Channel (1080p)
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in" tvg-logo="https://i.imgur.com/DG0x4UD.png" group-title="News",Prudent Media (1080p)
 https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-logo="https://i.imgur.com/4lUwdME.png" group-title="Undefined",PTC Chakde (720p)
