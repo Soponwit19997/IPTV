@@ -940,6 +940,8 @@ https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ETNowSwadesh.in" tvg-logo="https://i.imgur.com/AJpMZIv.png" group-title="Undefined",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="KVFSjonvarp.fo" tvg-logo="https://i.imgur.com/Ng1H2Ye.png" group-title="Undefined",KVF (720p) [Not 24/7]
+https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India (576p) [Not 24/7]
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="Undefined",Nambikkai TV (576p)
