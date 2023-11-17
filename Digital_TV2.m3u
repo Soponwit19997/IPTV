@@ -71,12 +71,16 @@ https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 SD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 SD
-https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b850000_sleng.m3u8
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="News",ASTV News 1
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="TopNews.th" tvg-logo="https://i.imgur.com/tRFnV9M.png" group-title="News",Top News
 https://cdn6.goprimetime.info/feed/202306140918/chtopnews/index.m3u8
+#EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id="VoiceTV.th" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png" group-title="News",Voice TV
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVBThai.th" tvg-logo="https://i.imgur.com/3V6ads0.png" group-title="Undefined",TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1 EN
 https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL KINGDOM" tvg-name="ANIMAL KINGDOM" group-title="General" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
