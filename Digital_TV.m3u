@@ -1259,3 +1259,23 @@ https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/C5vHpd0.png" group-title="Undefined",TribunaTV (720p) [Not 24/7]
 https://cloudflare.streamgato.us:3204/live/tribunatvlive.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Cumbia TV
+https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonEventosTV.pa" tvg-logo="https://i.imgur.com/RklPmml.png" group-title="General",Tropical Moon Eventos TV
+https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Salsa TV
+https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv" tvg-logo="https://i.imgur.com/6cYaSuk.png" group-title="Religious",TVCa Televisión Católica Arquidiocesana (720p)
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/JbxpB6M.png" group-title="General",TVX (1080p) [Not 24/7]
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined",UCL (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Undefined",Univision Latinoamérica
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
