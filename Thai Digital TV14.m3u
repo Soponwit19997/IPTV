@@ -64,7 +64,7 @@ https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 
-#EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="Series" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
+#EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="Series" tvg-logo="https://i.imgur.com/3V6ads0.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
 
