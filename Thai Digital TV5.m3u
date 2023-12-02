@@ -7,10 +7,12 @@ https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Digital TV",TV5HD
 https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
-#EXTINF:-1 tvg-id="TSport7.th" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Digital TV",T Sport 7
+#EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Digital TV",T Sports 7
 https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Digital TV",TPTV
 https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Digital TV",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Digital TV",TNN16
 https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Digital TV",JKN 18
@@ -43,6 +45,8 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://iptv36.my.to/logo/news1.png" group-title="News",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="VoiceTV.th" tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png" group-title="News",Voice TV
+https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CTB.th" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png" group-title="Movies",CTB
 http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
 #EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/boomerang.png" group-title="Kids",Boomerang
@@ -60,11 +64,11 @@ https://ctrl.laotv.la/live/VTE9/index.m3u8
 #EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 #EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
-https://ctrl.laotv.la/live/MVLao/index.m3u8
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (576p)
-http://210.210.155.37/dr9445/h/h03/index.m3u8
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
