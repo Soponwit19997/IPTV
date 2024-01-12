@@ -97,6 +97,8 @@ Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
+VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
 VTV1 : https://edge1.laotv.la/live/VTV1HD/index.m3u8
 
 VTV3 : https://edge1.laotv.la/live/VTV3/index.m3u8
