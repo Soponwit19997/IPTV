@@ -68,7 +68,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/S6gvvf9.png",Amarin TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="มวลชนทีวี" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU",มวลชนทีวี
@@ -1160,12 +1160,24 @@ https://live.suricloud.com/hls/tbntv/index.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Undefined",Astro Awani (720p)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Undefined",Dunia Sinema (1080p)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Undefined",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Undefined",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Undefined",TV3 [Geo-blocked]
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TVIKIM.my" tvg-logo="https://i.imgur.com/X6JKNEE.png" group-title="Undefined",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Undefined",CH3 HD (1080p)
 https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Undefined",TV5 HD (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/tehHdZN.png" group-title="Undefined",Ch7HD (1080p)
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/tehHdZN.png" group-title="Undefined",Ch7HD (432p)
+https://live-cdn-hwc.ch7.com/livech7hd/HD_432p.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Undefined",MCOT HD (720p)
 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Undefined",NBT 2HD (720p)
