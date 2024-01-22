@@ -189,8 +189,6 @@ https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 https://ctrl.laotv.la/live/MVLao/index.m3u8
 #EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
-#EXTINF:-1 tvg-id="angiang" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png",An Giang TV
-https://code.vthanhtivi.pw/getlink/tv360/c_1nmT7Mm8nhs9HT9-Oq6A/1705826296/35/playlist.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (1080p)
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-logo="https://i.postimg.cc/ht0CqCBy/ANTV-logo-2016.png" group-title="Undefined",ANTV (1080p)
@@ -251,12 +249,14 @@ https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HanoiTV2.vn" tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Undefined",HanoiTV2 (1080p)
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="Undefined" group-logo="https://cdn.hqth.me/logo/category/htv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
+https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
+https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="General" tvg-logo="https://cdn.hqth.me/logo/thumbs/265.png", HTV CO.OP
+https://code.vthanhtivi.pw/getlink/htv/htv-coop-sd-31973/playlist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV Key
 https://code.vthanhtivi.pw/getlink/htv/htv-keys-2528/playlist.m3u8
-#EXTINF:-1 tvg-id="htv7hd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
-https://code.vthanhtivi.pw/getlink/fptplay/oUmQhR_dAtWGMmZ3WVW8hg/1705826296/htv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD
-https://code.vthanhtivi.pw/getlink/tv360/W0gqgm9HaPbcP47yXdh1-w/1705826296/194/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
 https://code.vthanhtivi.pw/getlink/htv/htvc-thuan-viet-hd-2398/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png", HTVC Gia đình HD
@@ -336,21 +336,13 @@ https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VOVTV.vn" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="News",VOV TV (1080p)
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 (1080p) [Geo-blocked]
-https://code.vthanhtivi.pw/getlink/tv360/cWgvPw46XQWTqHp2ebZaPg/1705826296/2/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV2HD.vn" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 - Độ trễ thấp
-https://code.vthanhtivi.pw/getlink/tv360/CJnV3ISSdhmdVlPyjrkHhw/1705826296/3/playlist.m3u8
+https://ctrl.laotv.la/live/VTV1HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 (1080p) [Geo-blocked]
-https://code.vthanhtivi.pw/getlink/tv360/CNkGGMqrXfu_PheSH7pBsg/1705826296/4/playlist.m3u8
+https://ctrl.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 (1080p)
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Undefined",VTV5 Tây Nam Bộ (1080p)
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Undefined",VTV5 Tây Nguyên (1080p)
-https://code.vthanhtivi.pw/getlink/tv360/62I0GaLlsXN9Hyt68y5VOQ/1705826296/207/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV7.vn" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="Undefined",VTV7 (1080p)
-https://code.vthanhtivi.pw/getlink/tv360/cuFkmX0jGXfa9gUEkmzUXQ/1705826296/6/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVCanTho.vn" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="Undefined",VTV Can Tho (1080p)
-https://code.vthanhtivi.pw/getlink/tv360/-lR-C8iYhETiGmm4bg6Jag/1705826296/98/playlist.m3u8
 #EXTINF:-1 tvg-id="YenBaiTV.vn" tvg-logo="https://i.imgur.com/BwZRL7P.png" group-title="Undefined",Yen Bai TV (1080p)
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
