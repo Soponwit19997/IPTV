@@ -186,7 +186,7 @@ https://ctrl.laotv.la/live/VTE9/index.m3u8
 #EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 #EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
-https://ctrl.laotv.la/live/MVLao/index.m3u8
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
 https://ctrl.laotv.la/live/LaoStar/index.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (1080p)
@@ -249,20 +249,6 @@ https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HanoiTV2.vn" tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Undefined",HanoiTV2 (1080p)
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="Undefined" group-logo="https://cdn.hqth.me/logo/category/htv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png", HTV1
-https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
-https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="General" tvg-logo="https://cdn.hqth.me/logo/thumbs/265.png", HTV CO.OP
-https://code.vthanhtivi.pw/getlink/htv/htv-coop-sd-31973/playlist.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV Key
-https://code.vthanhtivi.pw/getlink/htv/htv-keys-2528/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
-https://code.vthanhtivi.pw/getlink/htv/htvc-thuan-viet-hd-2398/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png", HTVC Gia đình HD
-https://code.vthanhtivi.pw/getlink/htv/htvc-gia-dinh-full-hd-1080-2394/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="Undefined" tvg-logo="https://cdn.hqth.me/logo/thumbs/61.png", HTVC Plus HD
-https://code.vthanhtivi.pw/getlink/htv/htvc-plus-full-hd-1080-2395/playlist.m3u8
 #EXTINF:-1 tvg-id="HungYenTV.vn" tvg-logo="https://i.imgur.com/TH1DWdm.png" group-title="Undefined",Hung Yen TV (1080p)
 https://cdn.hungyentv.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 #EXTINF:-1 tvg-id="KhanhHoaTV.vn" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="Undefined",Khanh Hoa TV (720p)
@@ -317,14 +303,6 @@ http://thtg.vn:8001/thtg.m3u8
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Undefined",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Undefrined" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-https://code.vthanhtivi.pw/getlink/tv360/B2WYPTkdI4MYopkVL64YsA/1705826296/25/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Undefrined" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
-https://code.vthanhtivi.pw/getlink/tv360/9-SAsiwjy-htP9dckD6-HA/1705826296/26/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Undefrined" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
-https://code.vthanhtivi.pw/getlink/tv360/AOnIcoq-Uss0jHktbbmRMQ/1705826296/219/playlist.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Underfined" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
-https://code.vthanhtivi.pw/getlink/tv360/owcDPm2bz-SNz7G5NrGeWA/1705826296/220/playlist.m3u8
 #EXTINF:-1 tvg-id="TuyenQuangTV.vn" tvg-logo="https://i.imgur.com/OkAstWv.png" group-title="Undefined",Tuyen Quang TV (540p)
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
