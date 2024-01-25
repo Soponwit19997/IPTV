@@ -143,18 +143,16 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ApsaraTV11.kh" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Undefined",Apsara TV11 (720p) [Not 24/7]
-http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250444&mtvhash=IJdUXBaSxVe696zTyIskkJzSxb801JiPvStfw_k09lc=
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250525&mtvhash=S9MvlLkQZ5mltKtqDgCgxdKuZKbxyUO6Kt29CqNp99k=
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
-http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
+203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250577&mtvhash=WNkqOfjd3az2yayVu-zg84vVFJJgfr2XCfb6oXrgrMA=
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Undefined",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -168,7 +166,7 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Netlink TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Undefined",PNN (360p) [Not 24/7]
-http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
+203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250359&mtvhash=4SlMl98pfi70_IkDHkkbJOAnGFCBvzw6puZFGOkP0Ak=
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia (576p)
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEA TV (360p) [Not 24/7]
@@ -182,7 +180,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",WIKI TV (720p)
-http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250275&mtvhash=aPs69Fr-wnE7F6xR0jFpZq5tF3gMNZkmAh_YBtw3R6E=
 #EXTINF:-1 tvg-id="LNTV1.la" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",LNTV 1
 https://ctrl.laotv.la/live/LNTV1/index.m3u8
 #EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg" group-title="General",LNTV 3
