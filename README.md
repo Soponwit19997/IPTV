@@ -103,7 +103,7 @@ VTV1 : https://edge1.laotv.la/live/VTV1HD/index.m3u8
 
 VTV3 : https://edge1.laotv.la/live/VTV3/index.m3u8
 
-ช่อง 5 (กัมพูชา) : http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
+ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
 TVK : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC56/index.m3u8
 
