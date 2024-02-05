@@ -144,15 +144,15 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250444&mtvhash=IJdUXBaSxVe696zTyIskkJzSxb801JiPvStfw_k09lc=
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250525&mtvhash=S9MvlLkQZ5mltKtqDgCgxdKuZKbxyUO6Kt29CqNp99k=
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
-http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1706250577&mtvhash=WNkqOfjd3az2yayVu-zg84vVFJJgfr2XCfb6oXrgrMA=
+https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Undefined",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -193,7 +193,7 @@ https://ctrl.laotv.la/live/LNTV3/index.m3u8
 https://ctrl.laotv.la/live/LATV/index.m3u8
 #EXTINF:-1 tvg-id="LaoPSTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj" group-title="Undefined",Lao PSTV
 https://ctrl.laotv.la/live/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://sv1.picz.in.th/images/2023/09/20/dWv83ER.jpeg" group-title="Undefined",vte 9
+#EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OOYi73AsSjW10o3kOLYiZUdyPBtJjQ7bdw&usqp=CAU" group-title="Undefined",vte 9
 https://ctrl.laotv.la/live/VTE9/index.m3u8
 #EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
@@ -343,15 +343,15 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) [Not 24/7]
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlAhdTV.iq" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Al Ahd TV
+#EXTINF:-1 tvg-id="AlAhdTV.iq" tvg-logo="https://www.washingtoninstitute.org/sites/default/files/2022-02/Logo.jpeg" group-title="Undefined",Al Ahd TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
-#EXTINF:-1 tvg-id="AlAnwar2.iq" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Al Anwar 2
+#EXTINF:-1 tvg-id="AlAnwar2.iq" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIzfJctTLE1USY1FepA2M8NFg4HywUa6QlA&usqp=CAU" group-title="Undefined",Al Anwar 2
 http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
-#EXTINF:-1 tvg-id="AlayamTV.iq" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Al Ayam TV
+#EXTINF:-1 tvg-id="AlayamTV.iq" tvg-logo="https://trefoil.tv/uploads/posts/2023-11/alayam-tv.webp" group-title="Undefined",Al Ayam TV
 http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEshraqTV.iq" tvg-logo="https://i.imgur.com/SuACr3L.png" group-title="Undefined",Al Eshraq TV
 http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-#EXTINF:-1 tvg-id="AlEtejahTV.iq" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Al Etejah TV
+#EXTINF:-1 tvg-id="AlEtejahTV.iq" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4s39UeV5SvS1mDrsEmjXhavx_mH2M63DgA&usqp=CAU" group-title="Undefined",Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 tvg-id="AlGhadeerTV.iq" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Al Ghadeer TV
 http://63b03f7689049.streamlock.net:1935/live/2/playlist.m3u8
