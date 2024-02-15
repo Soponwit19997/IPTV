@@ -1,87 +1,87 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/2.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chnbt/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/3.png" group-title="Digital TV",THAI PBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/altv4.png" group-title="Digital TV",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ALTV/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/1.png" group-title="Digital TV",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/tsport.png" group-title="Digital TV",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/10.png" group-title="Digital TV",TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/TPTV/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/TPTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" group-title="Digital TV",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/18.png" group-title="Digital TV",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/newtv/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/22.png" group-title="Digital TV",Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chnation/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/23.png" group-title="Digital TV",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/24.png" group-title="Digital TV",True 4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/25.png" group-title="Digital TV",GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chgmm/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/27.png" group-title="Digital TV",CH 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch8/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/29.png" group-title="Digital TV",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chmono29/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/30.png" group-title="Digital TV",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/31.png" group-title="Digital TV",ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chonehd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/32.png" group-title="Digital TV",Thairath TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chthairath/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/33.png" group-title="Digital TV",CH3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/34.png" group-title="Digital TV",Amarin TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chamarin/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/35.png" group-title="Digital TV",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch7hd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/36.png" group-title="Digital TV",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/top.png" group-title="News",TOP News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -97,7 +97,7 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/boom.png" group-title="Kids",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chboomberang/tracks-v1a1/mono.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
