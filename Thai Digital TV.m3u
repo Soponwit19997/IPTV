@@ -43,7 +43,5 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="TopNews.th" tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="News",Top News
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtopnews/index.m3u8
-#EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/boomerang.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/logo/boomerang.png" group-title="Kids",Boomerang
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
-#EXTINF:-1 tvg-id="CH3.th" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Digital TV",CH3 HD
-https://aisplay.ais.co.th/portal/live/?vid=59592e08bf6aee4e3ecce051
