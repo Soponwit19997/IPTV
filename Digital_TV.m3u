@@ -215,8 +215,6 @@ http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Undefined",Cao Bang TV (480p)
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/tehHdZN.png" group-title="Undefined",Channel 7 (720p)
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-logo="https://i.imgur.com/gFfZvTW.png" group-title="Undefined",Dak Lak TV (1080p)
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="DakNongTV.vn" tvg-logo="https://i.imgur.com/cha7S9e.png" group-title="Undefined",Dak Nong TV (1080p)
