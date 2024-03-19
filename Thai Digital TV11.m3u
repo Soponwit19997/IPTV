@@ -26,7 +26,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 tvg-id="Jomyut" tvg-name="Jomyut" group-title="Movies" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 #EXTINF:-1 tvg-id="7Flix" tvg-name="7Flix" group-title="Movies" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
-https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 #EXTINF:-1 tvg-id="@แอททีวี" tvg-name="@แอททีวี" group-title="Movies" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@แอททีวี
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN 16
