@@ -89,6 +89,8 @@ MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 ลาวสตาร์ : https://ctrl.laotv.la/live/LaoStar/index.m3u8
 
+Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
@@ -112,6 +114,8 @@ CCTV-4 : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3
 Al Jazeera Arabic : https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+Al Araby TV : https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
 Bloomberg : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
 
