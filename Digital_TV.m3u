@@ -143,6 +143,8 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies Asia (720p)
+http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Entertainment",ROCK Action (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment",ROCK Entertainment (576p) [Geo-blocked]
@@ -215,6 +217,10 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRT.vn" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="Undefined",BRT (360p)
 http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BacNinhTV.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/BTV_logo_Bac_Ninh_2021.png/revision/latest/scale-to-width-down/1252?cb=20220710081936&path-prefix=vi" group-title="Undefined",Bac Ninh TV (720p)
+https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News Asia Pacific (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="CaMauTV.vn" tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Undefined",Cao Bang TV (480p)
@@ -325,6 +331,16 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VOVTV.vn" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="News",VOV TV (1080p)
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:-1 tvg-id="VTC1.vn" tvg-logo="https://i.imgur.com/o70uxdn.png" group-title="Undefined",VTC1 (1080p)
+https://1117141481.vnns.net/VTC1/chunks.m3u8
+#EXTINF:-1 tvg-id="VTC10.vn" tvg-logo="https://i.imgur.com/3VAzTA4.png" group-title="Undefined",VTC10 (1080p)
+https://1117141481.vnns.net/VTC10/chunks.m3u8
+#EXTINF:-1 tvg-id="VTC11.vn" tvg-logo="https://i.imgur.com/zzFrSDt.png" group-title="Undefined",VTC11
+https://1117141481.vnns.net/VTC11/chunks.m3u8
+#EXTINF:-1 tvg-id="VTC12.vn" tvg-logo="https://i.imgur.com/5gT8NaT.png" group-title="Undefined",VTC12
+https://1117141481.vnns.net/VTC12/chunks.m3u8
+#EXTINF:-1 tvg-id="VTC13.vn" tvg-logo="https://i.imgur.com/1qse9xF.png" group-title="Undefined",VTC13 (1080p)
+https://1117141481.vnns.net/VTC13/chunks.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 (1080p) [Geo-blocked]
 https://ctrl.laotv.la/live/VTV1HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 (1080p) [Geo-blocked]
