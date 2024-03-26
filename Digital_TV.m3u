@@ -341,6 +341,9 @@ https://ctrl.laotv.la/live/VTV1HD/index.m3u8
 https://ctrl.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 tvg-id="YenBaiTV.vn" tvg-logo="https://i.imgur.com/BwZRL7P.png" group-title="Undefined",Yen Bai TV (1080p)
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV) (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AbalfadhlTV.ir" tvg-logo="https://i.ibb.co/cCmjqtQ/logo-2.png" group-title="Religious",Abalfadhl TV (720p)
@@ -639,13 +642,19 @@ https://cdnlive.presstv.ir/cdnlive/smil:ifilmarcdn.smil/playlist.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.us" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",IraneFarda TV (576p)
 https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" group-title="Religious",Iran Jewish TV (720p)
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://i.pinimg.com/280x280_RS/d9/85/73/d98573137a42da04c1d233a746f8d5df.jpg" group-title="News",Iran Press (480p) [Not 24/7]
+https://ip2stream.iranpress.com/hls/ip2.m3u8
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="Undefined",IRIB1 (720p)
 https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="Undefined",IRIB2 (540p)
 https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Undefined",IRIB3 (480p)
-https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="Undefined",IRIB5 (540p)
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="General",IRIB3
+https://live.aionet.ir/hls/tv3/tv3.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="General",IRIB4 (540p)
+https://live.aionet.ir/hls/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="General",IRIB5 (540p)
 https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="Undefined",IRIB Amouzesh (540p)
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
@@ -655,8 +664,6 @@ https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Undefined",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 tvg-id="IRNA24.ir" tvg-logo="https://i.ibb.co/PxkY57m/g-E4-Pv-UY-400x400.png" group-title="News",IRNA24 (720p)
-https://irna-tv.icdndhcp.com/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="Undefined",Kanal Jadid (720p)
@@ -1111,12 +1118,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Undefined",Astro Awani (720p)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-logo="https://i.imgur.com/skJjF4m.png" group-title="Undefined",Bernama TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Undefined",Dunia Sinema (1080p)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-id="HotTV.my" tvg-logo="https://i.imgur.com/W2rXjWd.png" group-title="Music",Hot TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Undefined",RTB Go (720p)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Undefined",RTB Sukmaindera (720p)
