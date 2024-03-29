@@ -1142,7 +1142,11 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/x3ZJVwk.png" group-title="Undefined",Canal 11 TuTV (349p)
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12 (220p)
-https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/playlist.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-082/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal65.sv" tvg-logo="https://i.imgur.com/P15QovY.png" group-title="Religious",Canal 65 (1080p) [Not 24/7]
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General;News",Canal TRV
+http://stream.flynetwifi.com:1935/live/mobile-150/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Kids",Cartoon Network Español
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
@@ -1157,6 +1161,10 @@ http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (936p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FTVTelevisionFamiliar.sv" tvg-logo="https://i.imgur.com/OD4dTTU.png" group-title="Religious",FTV Televisiรณn Familiar (480p) [Not 24/7]
+https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
