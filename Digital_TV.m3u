@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Undefined" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",THAI PBS HD
@@ -68,7 +68,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
@@ -93,8 +93,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
-#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png?fit=512%2C512",ของดีประเทศไทย
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
 #EXTINF:-1 tvg-id="SBTTV.th" tvg-logo="https://i.imgur.com/rmNDylW.png" group-title="Undefined",SBT TV
@@ -864,6 +862,8 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="News",CGTN Français (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Unndefined" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD (720p) [Not 24/7]
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
