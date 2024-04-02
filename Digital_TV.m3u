@@ -806,12 +806,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 tvg-id="TABIChannel.jp" tvg-logo="https://i.imgur.com/JBePECx.png" group-title="Undefined",Tabi Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-logo="https://i.imgur.com/Al1A8t2.png" group-title="Undefined",TAKARAZUKA SKY STAGE (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://i.imgur.com/MRSlSvm.png" group-title="Undefined",Toei Channel (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="Undefined",Tokyo MX1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://i.imgur.com/igia8OX.png" group-title="Undefined",Tokyo MX1 (720p)
