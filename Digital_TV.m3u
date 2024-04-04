@@ -215,10 +215,6 @@ http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="BinhThuanTV.vn" tvg-logo="https://i.imgur.com/AEjZSG4.png" group-title="Undefined",Binh Thuan TV (720p)
 https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/playlist.m3u8
-#EXTINF:-1 tvg-id="BinhDuongTV1.vn" tvg-logo="https://logos.fandom.com/vi/wiki/Thể_loại:BTV_(Bình_Dương)?file=BTV1_Binh_Duong_logo_2014.png" group-title="Undefined",Binh Duong TV1
-https://btv1011220.cdn.vnns.io/8876dcbd3021e83a7d529f56c9b83e9f1712196310/btv1.480p.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="BinhDuongTV2.vn" tvg-logo="https://logos.fandom.com/vi/wiki/Thể_loại:BTV_(Bình_Dương)?file=BTV2_Binh_Duong.png" group-title="Undefined",Binh Duong TV2
-https://btv2011220.cdn.vnns.io/7fd961aaafe1ec0755ee0f622747e7d11712196459/btv2.480p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="BinhPhuocTV2.vn" tvg-logo="https://i.imgur.com/tVhCvmg.png" group-title="General",Binh Phuoc TV 2
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="BRT.vn" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="Undefined",BRT (360p)
@@ -301,6 +297,8 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=MbVcyvdXsU33BuPuqhUSrg&e=1712236371
 #EXTINF:-1 tvg-id="PhuYenTV.vn" tvg-logo="https://i.imgur.com/fYYS9QS.png" group-title="Undefined",Phu Yen TV (360p)
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 tvg-id="QuangBinhTV.vn" tvg-logo="https://imgur.com/GZCTZjV.png" group-title="Undefined",Quang Binh TV
+https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN (720p)
 http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QRT.vn" tvg-logo="https://i.imgur.com/hrhZegC.png" group-title="Undefined",QRT (404p) [Not 24/7]
@@ -329,6 +327,8 @@ http://thtg.vn:8001/thtg.m3u8
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Undefined",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-logo="https://i.ytimg.com/vi/M9ZsB0FwPok/mqdefault.jpg" group-title="Undefined",TTV11
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 #EXTINF:-1 tvg-id="TuyenQuangTV.vn" tvg-logo="https://i.imgur.com/OkAstWv.png" group-title="Undefined",Tuyen Quang TV (540p)
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
