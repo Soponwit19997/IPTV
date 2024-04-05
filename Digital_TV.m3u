@@ -273,6 +273,8 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="LamDongTV.vn" tvg-logo="https://i.imgur.com/lSMoGlv.png" group-title="Undefined",Lam Dong TV (720p)
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaiChauTV.vn" tvg-logo="https://imgur.com/DHQIHWY.png" group-title="Undefined",Lai Chau TV
+https://ott4.nethubtv.vn/live/laichautv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn" tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title=Undefined",Lao Cai TV (720p)
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Shop",Lao SV TV (480p)
