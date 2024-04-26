@@ -69,6 +69,8 @@ TVB ไทย : https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
+ไทไชโย : https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
 ## ทีวีต่างประเทศ
 
 LNTV1 : https://ctrl.laotv.la/live/LNTV1/index.m3u8
@@ -89,11 +91,11 @@ MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 
+Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-
-STV1 : https://lms-vnetwork-vtv.swiftfederation.com/soctrangtv/soctrangtv-manifest.m3u8
 
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
