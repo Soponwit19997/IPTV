@@ -103,6 +103,8 @@ VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/play
 
 VTV3 : https://edge1.laotv.la/live/VTV3/index.m3u8
 
+ช่อง 3 (กัมพูชา) : https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+
 ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
 TVK : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC56/index.m3u8
