@@ -45,18 +45,12 @@ https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://iptv36.my.to/logo/boomerang.png" group-title="Kids",Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
@@ -67,5 +61,4 @@ https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a41
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-id="RUV.is" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="Undefined",RÚV (720p)
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
-#EXTINF:-1 tvg-id="Visir.is" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" group-title="News",Vísir (1080p)
-https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+
