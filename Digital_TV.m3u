@@ -85,8 +85,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtopnews/index.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="V2H2.th" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png" group-title="Undefined",V2H2
 https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNN2.th" tvg-logo="https://imgur.com/kVaUPUt.png" group-title="General",TNN 2
-https://edge1.laotv.la/live/TNN2/index.m3u8
 #EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Movies" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1 EN
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i_jUwo4MYk-O76H4LJvZBhtKWA0tJ1sJ1B-_Rj2Hfw&s",ABC News
@@ -203,22 +201,8 @@ https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LNTV1.la" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",LNTV 1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg" group-title="General",LNTV 3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 tvg-id="LATV.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqgcRkoHKF7cxNCU3YR4aP6UMHbzSgUUTGA&usqp=CAU" group-title="Undefined",LATV
-https://ctrl.laotv.la/live/LATV/index.m3u8
-#EXTINF:-1 tvg-id="LaoPSTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj" group-title="Undefined",Lao PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OOYi73AsSjW10o3kOLYiZUdyPBtJjQ7bdw&usqp=CAU" group-title="Undefined",vte 9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
-#EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
-https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 #EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
 https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
 #EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-logo="https://i.postimg.cc/ht0CqCBy/ANTV-logo-2016.png" group-title="Undefined",ANTV (1080p)
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="BacKanTV.vn" tvg-logo="https://i.imgur.com/zSX0sZC.png" group-title="Undefined",Bac Kan TV (406p)
@@ -341,8 +325,6 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_w2012936719_b964000_sleng.m3u8
 #EXTINF:-1 tvg-id="VOVTV.vn" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="News",VOV TV (1080p)
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 (1080p) [Geo-blocked]
-https://ctrl.laotv.la/live/VTV3/index.m3u8
 #EXTINF:-1 tvg-id="YenBaiTV.vn" tvg-logo="https://i.imgur.com/BwZRL7P.png" group-title="Undefined",Yen Bai TV (1080p)
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television (KCTV) (576p)
