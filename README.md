@@ -73,21 +73,7 @@ Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m
 
 ## ทีวีต่างประเทศ
 
-LNTV1 : https://ctrl.laotv.la/live/LNTV1/index.m3u8
-
-LNTV3 : https://ctrl.laotv.la/live/LNTV3/index.m3u8
-
-LATV : https://ctrl.laotv.la/live/LATV/index.m3u8
-
-LAO PSTV : https://ctrl.laotv.la/live/PSTV/index.m3u8
-
-VTE9 : https://ctrl.laotv.la/live/VTE9/index.m3u8
-
-Lao ESTV : https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
-
-ลาวสตาร์ : https://ctrl.laotv.la/live/LaoStar/index.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 
