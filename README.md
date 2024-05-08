@@ -105,7 +105,9 @@ Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 Al Araby TV : https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
-Bloomberg : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
+Arirang : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chariang/index.m3u8
+
+ABC : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
 
 CNA : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 
@@ -114,5 +116,7 @@ Euro News : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
 DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+TV5MONDE ASIE : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
 
 TV5MONDE Style : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
