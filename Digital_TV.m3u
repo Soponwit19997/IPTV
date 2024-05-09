@@ -812,9 +812,7 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Undefined",Court TV (720p) [Not 24/7]
-https://content-aaps1.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef/e.m3u8?pbs=29f34c12a05f46e1a12be400430a0164
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Undefined",Court TV (720p)
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",The Coure Channel
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
