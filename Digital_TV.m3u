@@ -106,11 +106,13 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="News",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="HLNFilm.us" tvg-name="HLN Film" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrlrzFa6_WRUXDXwx8KmsXOKh8TjxjdZYWtw&usqp=CAU",HLN Film
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC24/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkyCsEh4XHELZXn3abEUYjuZEhzF4N-foeA&usqp=CAU" group-title="Undefined",TV5Monde Style
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL KINGDOM" tvg-name="ANIMAL KINGDOM" group-title="General" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
+#EXTINF:-1 tvg-id="House Channel" tvg-logo="https://lirp.cdn-website.com/cfe98a5d/dms3rep/multi/opt/LOGO+-+house+channel+v2.1-640w.jpg" group-title="Outdoor",House Channel
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Undefined",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Undefined",DLTV 2
