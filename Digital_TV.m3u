@@ -577,13 +577,13 @@ https://live.aionet.ir/hls/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="General",IRIB5 (540p)
 https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="Undefined",IRIB Amouzesh (540p)
-https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
+https://live.aionet.ir/hls/amoozesh/amoozesh_480/index.m3u8
 #EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Undefined",IRIB Namayesh (540p)
-https://live.aionet.ir/hls/namayesh/namayesh.m3u8
+https://live.aionet.ir/hls/namayesh/namayesh_480/index.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Undefined",IRIB Varzesh (1080p)
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
+https://live.aionet.ir/hls/varzesh/varzesh_480/index.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Undefined",IRINN (540p)
-https://live.aionet.ir/hls/irinn/irinn.m3u8
+https://live.aionet.ir/hls/irinn/irinn_480/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="Undefined",Kanal Jadid (720p)
@@ -812,7 +812,9 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",The Coure Channel
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (720p) [Not 24/7]
+https://lnc-court-tv.tubi.video/playlist_2000k.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
