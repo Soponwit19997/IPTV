@@ -273,8 +273,6 @@ https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaiChauTV.vn" tvg-logo="https://imgur.com/DHQIHWY.png" group-title="Undefined",Lai Chau TV
 https://ott4.nethubtv.vn/live/laichautv/chunklist_1.m3u8
-#EXTINF:-1 tvg-id="LaoCaiTV.vn" tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title="Undefined",Lao Cai TV (720p)
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Shop",Lao SV TV (480p)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV (720p)
@@ -291,6 +289,8 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="QuangBinhTV.vn" tvg-logo="https://imgur.com/GZCTZjV.png" group-title="Undefined",Quang Binh TV
 https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN (720p)
+http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QRT.vn" tvg-logo="https://i.imgur.com/hrhZegC.png" group-title="Undefined",QRT (404p) [Not 24/7]
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quang Ngai TV (720p)
@@ -321,8 +321,6 @@ http://thtg.vn:8001/thtg.m3u8
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Undefined",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-logo="https://i.ytimg.com/vi/M9ZsB0FwPok/mqdefault.jpg" group-title="Undefined",Tay Ninh TV
-http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
 #EXTINF:-1 tvg-id="TuyenQuangTV.vn" tvg-logo="https://i.imgur.com/OkAstWv.png" group-title="Undefined",Tuyen Quang TV (540p)
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
