@@ -227,6 +227,8 @@ https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="CaMauTV.vn" tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="CanThoTV.vn" tvg-logo="https://i.imgur.com/tNl6tg3.png" group-title="Undefined",Can Tho TV (1080p)
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Undefined",Cao Bang TV (480p)
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-logo="https://imgur.com/gFfZvTW.png" group-title="Undefined",Dak Lak TV [Not 24/7]
