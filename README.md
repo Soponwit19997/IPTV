@@ -77,17 +77,21 @@ MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 
+Can Tho TV : https://live.canthotv.vn/live/tv_web/playlist.m3u8
+
 Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
+Quang Ninh TV1 : http://103.90.220.236/qtvlive/tv1live.m3u8
+
+Quang Ninh TV3 : http://103.90.220.236/qtvlive/tv3live.m3u8
+
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
 VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-
-VTV3 : https://edge1.laotv.la/live/VTV3/index.m3u8
 
 ช่อง 3 (กัมพูชา) : https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 
