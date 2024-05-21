@@ -1274,8 +1274,46 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Undefined",Señal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined",Sol Televisión (720p)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Undefined",Super Canal Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",TeleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Camana (720p)
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Ilo (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Mollendo (240p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur Moquegua (360p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="General",Telesur Tacna (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto (720p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/live/nvuvgjaT_3EXiM7W/chunks.m3u8?nimblesessionid=10127384
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="General",Top FM TV (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (Huancayo) (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://i.imgur.com/9OXF9EK.png" group-title="General",USIL TV (720p) [Not 24/7]
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="Undefined",Viva TV Yurimaguas (720p)
+https://live.obslivestream.com/vivatv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",M3U8 Example
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC32/index.m3u8
 
