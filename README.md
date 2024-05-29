@@ -49,7 +49,7 @@
 
 อมรินทร์ทีวี : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
 
-ช่อง 7HD : https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 ช่อง 7HD : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 
