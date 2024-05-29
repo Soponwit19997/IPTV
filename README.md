@@ -5,6 +5,8 @@
 
 เอ็นบีที : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
 
+ไทยพีบีเอส : http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+
 ไทยพีบีเอส : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs/index.m3u8
 
 เอแอลทีวี : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV/index.m3u8
