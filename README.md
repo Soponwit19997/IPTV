@@ -61,6 +61,8 @@
 
 ช่องบูมเมอแรง : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
+TV Direct 10 : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtopnews/index.m3u8
+
 สำรวจโลก : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 
 ของดีประเทศไทย : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
@@ -95,6 +97,8 @@ Quang Ninh TV3 : http://103.90.220.236/qtvlive/tv3live.m3u8
 
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
+VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
 ช่อง 3 (กัมพูชา) : https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 
 ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
@@ -102,6 +106,8 @@ TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 TVK : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC56/index.m3u8
 
 Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+My Cinema : http://210.210.155.37/session/c5ea8844-1dc9-11ef-afc0-95cd80664c14/uq2663/h/h192/index.m3u8
 
 CCTV-4 : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC33/index.m3u8
 
