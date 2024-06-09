@@ -287,6 +287,8 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-id="NinhThuanTV.vn" tvg-logo="https://i.imgur.com/HIyUzLM.png" group-title="Undefined",Ninh Thuan TV (720p)
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="PhuThoTV.vn" tvg-logo="https://imgur.com/k9Is0j5.png" group-title="Undefined",Phu Tho TV
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=pHgBuRxn6mFvuD2LHYIcCA&e=1717961092
 #EXTINF:-1 tvg-id="PhuYenTV.vn" tvg-logo="https://i.imgur.com/fYYS9QS.png" group-title="Undefined",Phu Yen TV (360p)
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN (720p)
