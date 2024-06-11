@@ -254,7 +254,7 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u
 #EXTINF:-1 tvg-id="HaiPhongTV.vn" tvg-logo="https://i.imgur.com/ir6g4hB.png" group-title="Undefined",Hai Phong TV (720p)
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="HauGiangTV.vn" tvg-logo="https://i.imgur.com/e0gc4CQ.png" group-title="General",Hau Giang TV (720p)
-https://megasystems-f26642d913.gw-dthcdn.com/megalive/index.m3u8
+https://60acee235f4d5.streamlock.net:443/HGTV/d1/playlist.m3u8
 #EXTINF:-1 tvg-id="HBTV.vn" tvg-logo="https://i.imgur.com/nyfysP7.png" group-title="Undefined",HBTV (406p) [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.vn" tvg-logo="https://i.imgur.com/yfGvM3K.png" group-title="Undefined",Hmong TV Network (720p)
