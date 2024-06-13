@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Undefined",CH7 HD (720p)
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",THAI PBS HD
@@ -67,8 +67,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 #EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
@@ -89,6 +89,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i_jUwo4MYk-O76H4LJvZBhtKWA0tJ1sJ1B-_Rj2Hfw&s",ABC News
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="General" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",English Club TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 #EXTINF:-1 tvg-id="ของดีประเทศไทย" tvg-name="ของดีประเทศไทย" group-title="General" tvg-logo="https://i0.wp.com/www.nextsteptv.com/khongdee/wp-content/uploads/2017/09/cropped-KDT.png?fit=512%2C512",ของดีประเทศไทย
@@ -751,8 +753,6 @@ https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-logo="https://i.imgur.com/6N0qITv.png" group-title="Music",VIP TV (720p)
 https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Undefined",3 HD (1080p)
-https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
@@ -767,8 +767,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="News",CGTN Français (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Undefined",CH7 HD (1080p) [Not 24/7]
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
@@ -795,16 +793,12 @@ https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Undefined",MCOT HD (720p)
-https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision.TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Undefined",NBT 2HD (720p) [Not 24/7]
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://imgur.com/NRO6AtW.png" group-title="News",NBT World (720p)
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium (720p) [Not 24/7]
@@ -820,14 +814,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" group-title="Undefined",Thai PBS (480p) [Not 24/7]
-https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",Three Angels Broadcasting Network International (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p) [Not 24/7]
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Undefined",TV5 HD (1080p)
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
