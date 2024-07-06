@@ -77,6 +77,8 @@ Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m
 
 ไทไชโย : https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 
+STOU Channel : https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
 ## ทีวีต่างประเทศ
 
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
