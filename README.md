@@ -101,6 +101,8 @@ TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
 VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
+VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+
 ช่อง 3 (กัมพูชา) : https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 
 ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
