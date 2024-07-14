@@ -97,6 +97,8 @@ Quang Ninh TV1 : http://103.90.220.236/qtvlive/tv1live.m3u8
 
 Quang Ninh TV3 : http://103.90.220.236/qtvlive/tv3live.m3u8
 
+STV1 : https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
 TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
 VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
