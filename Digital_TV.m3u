@@ -253,6 +253,8 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MienTayTV.vn" tvg-logo="https://i.imgur.com/pgvVQ9c.png" group-title="Undefined",Dong Thap TV (540p)
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 tvg-id="EChannel.vn" tvg-logo="https://imgur.com/jyrY9a6.png" group-title="Entertainment",E Channel (480p)
+https://cdn2.tvmienphi.xyz:8444/sctv/oipf0znpmnliv.vcdn.cloud/hls/vtvcab5/index.m3u8?token=cyqwSlLJN8_tHeqTJ0MtXQ&e=1721159038
 #EXTINF:-1 tvg-id="MienTayTV.vn" tvg-logo="https://i.imgur.com/pgvVQ9c.png" group-title="Undefined",Mien Tay TV (540p)
 https://64d0d74b76158.streamlock.net:443/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="Undefined",Ha Giang TV (406p)
