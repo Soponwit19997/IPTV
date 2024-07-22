@@ -235,6 +235,8 @@ https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="CaMauTV.vn" tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="CanThoTV.vn" tvg-logo="https://i.imgur.com/tNl6tg3.png" group-title="Undefined",Can Tho TV (1080p)
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Undefined",Cao Bang TV (480p)
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-logo="https://imgur.com/gFfZvTW.png" group-title="Undefined",Dak Lak TV [Not 24/7]
@@ -281,6 +283,8 @@ https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 https://live.relentlessinnovations.net:1936/sbtntv/sbtntv/chunklist_w1501970178.m3u8
 #EXTINF:-1 tvg-id="HungYenTV.vn" tvg-logo="https://i.imgur.com/TH1DWdm.png" group-title="Undefined",Hung Yen TV (1080p)
 https://cdn.hungyentv.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+#EXTINF:-1 tvg-id="KhanhHoaTV.vn" tvg-logo="https://i.imgur.com/qLMcGPT.png" group-title="Undefined",Khanh Hoa TV (720p)
+http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV1.vn" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg1.png" group-title="Undefined",KienGiangTV1 (1080p) [Geo-blocked]
 https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="KienGiangTV.vn" tvg-logo="https://kgtv.vn/wp-content/uploads/2021/11/kg.png" group-title="Undefined",KienGiangTV (1080p) [Geo-blocked]
