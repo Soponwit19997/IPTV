@@ -227,6 +227,8 @@ https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-id="BacLieuTV.vn" tvg-logo="https://i.imgur.com/ASbQz3j.png" group-title="Undefined",Bac Lieu TV (1080p)
 https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="BenTreTV.vn" tvg-logo="https://thbt.vn/static/media/ic_logo.png" group-title="General",Ben Tre TV (720p)
+https://vtvgolive-dp.vtvdigital.vn/AJb6NtFmnq9yoOHXqzPrMQ/1721826509/live/bentretv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="BinhThuanTV.vn" tvg-logo="https://i.imgur.com/AEjZSG4.png" group-title="Undefined",Binh Thuan TV (720p)
 https://64d0d74b76158.streamlock.net:443/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF:-1 tvg-id="BacNinhTV.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/BTV_logo_Bac_Ninh_2021.png/revision/latest/scale-to-width-down/1252?cb=20220710081936&path-prefix=vi" group-title="Undefined",Bac Ninh TV (720p)
@@ -342,7 +344,7 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="VinhPhucTV.vn" tvg-logo="https://i.imgur.com/jLgwX4X.png" group-title="Undefined",Vinh Phuc TV (1080p)
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+https://vtvgolive-dp.vtvdigital.vn/byal6mMsEGaIHfWSV3RzlA/1721826287/live/vinhphuctv/playlist.m3u8
 #EXTINF:-1 tvg-id="TTXVN.vn" tvg-logo="https://i.imgur.com/qCEzwUR.png" group-title="News",VNews (TTXVN) (1080p)
 https://ott1.nethubtv.vn/live/ttxvn/playlist.m3u8
 #EXTINF:-1 tvg-id="VOVTV.vn" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="News",VOV TV (1080p)
