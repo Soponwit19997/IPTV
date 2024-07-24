@@ -89,6 +89,8 @@ Can Tho TV : https://live.canthotv.vn/live/tv_web/playlist.m3u8
 
 Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
+Hung Yen TV: https://vtvgolive-dp.vtvdigital.vn/--TodM3oa5yJ3UtWKgh3fg/1722018004/live/hungyentv/playlist.m3u8
+
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
@@ -132,6 +134,8 @@ ABC : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC36/index.m3u8
 CNA : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC16/index.m3u8
 
 Euro News : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
+
+Fox News : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
