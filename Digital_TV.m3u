@@ -335,8 +335,6 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="ThaiNguyenTV.vn" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="General",Thai Nguyen TV (1080p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="ThanhHoaTV.vn" tvg-logo="https://imgur.com/LHGBwyK.png" group-title="Undefined",Thanh Hoa TV
-https://vtvgolive-dp.vtvdigital.vn/neHd2rsr7OuCWkICDnjpSg/1722055761/live/thanhhoatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThuaThienHueTV.vn" tvg-logo="https://i.imgur.com/lWQCrY9.png" group-title="Undefined",Thua Thien Hue TV (404p)
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="TienGiangTV.vn" tvg-logo="https://i.imgur.com/yonKxgZ.png" group-title="Undefined",Tien Giang (720p)
