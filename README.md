@@ -81,6 +81,8 @@ STOU Channel : https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 ## ทีวีต่างประเทศ
 
+VOA/RFA News : https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
+
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
@@ -88,8 +90,6 @@ Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 Can Tho TV : https://live.canthotv.vn/live/tv_web/playlist.m3u8
 
 Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-
-Hung Yen TV: https://vtvgolive-dp.vtvdigital.vn/--TodM3oa5yJ3UtWKgh3fg/1722018004/live/hungyentv/playlist.m3u8
 
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
