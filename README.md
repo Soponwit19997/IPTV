@@ -53,7 +53,7 @@
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+ช่อง 7HD : https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 
 พีพีทีวี : https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 
