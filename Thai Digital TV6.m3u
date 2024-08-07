@@ -62,7 +62,7 @@ https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://iptv36.my.to/logo/one.png" group-title="Digital TV",ONE 31
 https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://iptv36.my.to/logo/thairath.png" group-title="Digital TV",Thairath TV
-freelive2.inwstream.com:1935/freelive-edge/dtv32_thairahttvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjQgMTE6NDc6MjUgQU0maGFzaF92YWx1ZT1TUDB6K0FBcVNPd1VSeWVMU09vQnZnPT0mdmFsaWRtaW51dGVzPTI=&demo
+https://vlb.thaicom.io/v2/ThairathTV/playlist.m3u8
 #EXTINF:-1 tvg-id="CH3.th" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Digital TV",CH3 HD
 https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Digital TV",Amarin TV
