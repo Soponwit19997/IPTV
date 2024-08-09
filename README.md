@@ -120,3 +120,5 @@ France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 TV5MONDE ASIE : https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+VOA TV : https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
