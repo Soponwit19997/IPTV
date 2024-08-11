@@ -35,7 +35,7 @@
 
 ช่องวัน 31 : https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
-ไทยรัฐทีวี : https://www.thairath.co.th/tv/live
+ไทยรัฐทีวี : https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8
 
