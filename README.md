@@ -37,7 +37,7 @@
 
 ไทยรัฐทีวี : https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 
-ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_480p/index.m3u8
+ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 อมรินทร์ทีวี : https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
@@ -98,6 +98,12 @@ VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 TVK : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
 Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+T News : https://cdn2.pishow.tv/live/117/master.m3u8
+
+V6 News : https://cdn2.pishow.tv/live/118/master.m3u8
+
+ABN : https://cdn2.pishow.tv/live/125/master.m3u8
 
 My Cinema : http://210.210.155.37/session/c5ea8844-1dc9-11ef-afc0-95cd80664c14/uq2663/h/h192/index.m3u8
 
