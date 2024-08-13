@@ -27,7 +27,7 @@
 
 จีเอ็มเอ็ม 25 : https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
 
-ช่อง 8 : https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+ช่อง 8 : http://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 โมโน 29 : https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
