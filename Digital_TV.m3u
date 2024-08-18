@@ -155,6 +155,16 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Education",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAfrica.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Africa (720p)
+https://digimix.vgcdn.net/vglive-sk-133729/africa/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAmerica.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV America (720)
+https://digimix.vgcdn.net/vglive-sk-826446/america/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVArabia.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Arabia (720p)
+https://digimix.vgcdn.net/vglive-sk-766713/arabia/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
+https://digimix.vgcdn.net/vglive-sk-217742/europe/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
+https://digimix.vgcdn.net/vglive-sk-266890/fareast/ngrp:atvlive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",RTR Plamet Asia
 https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Undefined",Mahar TV (720p)
