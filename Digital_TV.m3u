@@ -123,6 +123,8 @@ https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 #EXTINF:-1 tvg-id="@แอททีวี" tvg-name="@แอททีวี" group-title="Movies" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@แอททีวี
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-id="GBN.th" tvg-logo="https://gbnus.com/GBN Content/new backgruound/logo-GBN-small1.png" group-title="Religious",GBN
+http://us.gbnus.com/live/dhamma_high/playlist.m3u8
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2
@@ -161,10 +163,24 @@ https://digimix.vgcdn.net/vglive-sk-133729/africa/ngrp:atvlive_all/playlist.m3u8
 https://digimix.vgcdn.net/vglive-sk-826446/america/ngrp:angelamerica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVArabia.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Arabia (720p)
 https://digimix.vgcdn.net/vglive-sk-766713/arabia/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAustraria.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Austraria(720p)
+https://digimix.vgcdn.net/vglive-sk-513167/australia/ngrp:angelaustralia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVChinese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Chinese (720p)
+https://digimix.vgcdn.net/vglive-sk-544026/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
 https://digimix.vgcdn.net/vglive-sk-217742/europe/ngrp:atvlive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Far East (720p)
 https://digimix.vgcdn.net/vglive-sk-266890/fareast/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVHebrew.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Hebrew (720p)
+https://digimix.vgcdn.net/vglive-sk-786963/hebrew/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVIndia.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV India (720p)
+https://digimix.vgcdn.net/vglive-sk-675374/india/ngrp:atvindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVPortuguese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Potuguese (720p)
+https://digimix.vgcdn.net/vglive-sk-252645/portuguese/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVRussia.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Russia (720p)
+https://digimix.vgcdn.net/vglive-sk-509835/russia/ngrp:atvlive_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Spanish (720p)
+https://digimix.vgcdn.net/vglive-sk-287442/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",RTR Plamet Asia
 https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Undefined",Mahar TV (720p)
@@ -321,6 +337,8 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (720p)
 https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
+#EXTINF:-1 tvg-id="SETTV.us" tvg-logo="https://setchannel.tv/wp-content/uploads/2023/08/SET-1-logo.png" group-title="General",SET TV 1 (1080p)
+https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SETTV2.us" tvg-logo="https://setchannel.tv/wp-content/uploads/2023/08/SET-1-logo.png" group-title="Entertainment",SET TV 2 (1080p)
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SonLaTV.vn" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="Undefined",Son La TV (1080p)
