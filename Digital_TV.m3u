@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Undefined",CH7 HD
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD
 https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
@@ -185,12 +185,14 @@ https://digimix.vgcdn.net/vglive-sk-287442/spanish/ngrp:angelspanish_all/playlis
 https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Undefined",Mahar TV (720p)
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://imgur.com/7xHSikv.png" group-title="General",Channel 7 (1080p)
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://imgur.com/6PqxuhF" group-title="Undefined",Channel K (720p)
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MNTV.mm" tvg-logo="https://i.imgur.com/nssm7QK.png" group-title="Undefined",MN TV (720p)
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV.mm" tvg-logo="https://imgur.com/uyv7oJH.png" group-title="Undefined",MRTV (Myanmar (Burma)) (720p)
-https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CpcFeqKkmWXQ5E21rqQ4kqmNmRqf_9YJRjuMMLuPQZrSJ76cfHQ7Out52P-lLtJ7MI53n1dq7ZMIyL-tr5tsYpiW-9-7oZQSjRtUm4IoqfqG9ZrQWr7RlmG8zBXrUFeKT9oddZQGGT_QNgbnZ4n3to7B33d1QqeFznKRKcgBUrdYOeUJVS2F3GHiAd4hzCO3Wt_sIU-kbbzrBPnT_3bRAtJFIZ_pAQtRaFUM6_AwcAymxbGnwrMtt0kIFhl43LRYlsYdtedBh1uhL1jnTEmW9Kq55S9q1ELvYyViJYDjg_8nnFAEoH53aOSUXGyAtuaKl4HiV5soDxoUC6SB_Qcz9_5z4EHFAAA8bykZ5MXUJoTk_c95wH33_K_ORyZ1VQqx0Oo_toN-IxtI0QU_zvtlP_PD0UttVeT6e8YjgX-3E_8xSVWnzwcS9eWYr-8J6kYJZYuYEePGVyvpTb4E2DqdlJDWtVP-HkzaW6ycKozuMNT35HxL3xV0t4l5yHysolKbNki-UKCghez16RUf2q42ZPJFCxGN5Yy2f8hGV5E6MwsbxJapUlRVyjioj4ckAdD0mtVeyWWZjfGEf6VGcppYSePdxmmfyuRin0Ds9_AREqkzxaEDki4Lelkezzbm3gGraajz48Qc9rpKeHjqQC4WVQzYC330KKBiHmJdtzND48eZlmoMVBwN-gA6IqD2wjNZllR6vD_o9Ip0C8Nlaf5DLN2eFjQoMPOhtTmQy9jH3BX6s48By-H7kAiMmDpH14T8PZY0SXN62hP1tRGl7PxYbMLO2fP0N0EYcNbOq-j08jtDluv7SS_9CsimqZfST-d_ElsLUSXTOdtR3pRagao-0Wy0tlhn5HkS4AEtpCExwCwLCS-KpjwnPstcGgwWjBTAd1w02CSO3SQgASoJdXMtd2VzdC0yMJUK.m3u8
+#EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://imgur.com/J4i1VBb.png" group-title="Undefined",MRTV-4 (1080p)
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) [Not 24/7]
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
