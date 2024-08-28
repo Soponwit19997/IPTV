@@ -35,7 +35,7 @@
 
 ช่อง 9 อสมท : https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
 
-ช่อง 9 อสมท : https://hls-test.v2h-cdn.com/hls/McotHD_114.m3u8
+ช่อง 9 อสมท : https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 ช่องวัน 31 : https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
@@ -43,7 +43,7 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ไทยทีวีสีช่อง 3 : https://hls-test.v2h-cdn.com/hls/3HD_114.m3u8
+ไทยทีวีสีช่อง 3 : https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 
 อมรินทร์ทีวี : https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
