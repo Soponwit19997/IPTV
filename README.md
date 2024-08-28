@@ -49,7 +49,7 @@
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : https://hls-test.v2h-cdn.com/hls/7HD_114.m3u8
+ช่อง 7HD : https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 
 พีพีทีวี : https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
