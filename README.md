@@ -43,13 +43,11 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
-
 อมรินทร์ทีวี : https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+ช่อง 7HD : https://edge6a.v2h-cdn.com/7hd/7hd.stream/chunklist_w998316772.m3u8
 
 พีพีทีวี : https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
