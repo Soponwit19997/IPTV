@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 SD
-http://streaming-hwc.ch7.com/livech7hd/HD_432p.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD
+https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",THAI PBS HD
@@ -53,9 +53,9 @@ https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/ch8.png",CH 8
 https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29 EN
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/mono29.png",MONO 29 TH
 https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD
 https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
@@ -64,7 +64,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
 https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
-https://www.inwiptv.com/player_demo.php?channel=27137
+https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
@@ -95,6 +95,8 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 https://edge6a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CoolChannel.th" tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="Movies",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="Kids" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MVMall Best.th" tvg-name="MVMall Best" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_y_O7DG9m528AeKzPprxMY1ZICcjoaifE4S.jpg",MVMall Best
 https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="Undefined",White Channel
