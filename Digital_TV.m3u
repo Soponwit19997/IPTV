@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD
-https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 SD
+http://streaming-hwc.ch7.com/livech7hd/HD_432p.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",THAI PBS HD
@@ -64,7 +64,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
 https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
-https://edge6a.v2h-cdn.com/7hd/7hd.stream/chunklist_w998316772.m3u8
+https://www.inwiptv.com/player_demo.php?channel=27137
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
