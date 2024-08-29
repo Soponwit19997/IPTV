@@ -9,7 +9,7 @@
 
 ททบ.5 : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-ททบ.5 : https://hls-test.v2h-cdn.com/hls/TV5HD_114.m3u8
+ททบ.5 : https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 
 ทีสปอร์ต 7 : https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
@@ -43,9 +43,13 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
+ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
+
 อมรินทร์ทีวี : https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
+
+ช่อง 7HD : https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 
 พีพีทีวี : https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
