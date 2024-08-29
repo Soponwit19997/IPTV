@@ -64,7 +64,7 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
 https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_1080p/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDI0IDg6NDM6MTkgQU0maGFzaF92YWx1ZT1LMkxCZ2J5ZDlyN1BYd3VaNGpNVzF3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
