@@ -34,7 +34,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd/index.m3u8
 #EXTINF:-1 tvg-chno="32"  tvg-id="Thairath TV" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/ArasZJO.png",Thairath TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
 #EXTINF:-1 tvg-chno="33"  tvg-id="3HD" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/lHbIKfF.png",CH3 HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+https://www.inwiptv.com/player_demo.php?channel=27137
 #EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/S6gvvf9.png",Amarin TV
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
 #EXTINF:-1 tvg-chno="35"  tvg-id="CH7 HD" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IDMQ2xe.png",CH7 HD
@@ -45,29 +45,3 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 #EXTINF:-1 tvg-id="ETV.th" tvg-logo="https://i.imgur.com/Dsgpo4I.png" group-title="Undefined",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="LNTV1.la" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfF14KirvCs4hvuqXsDBCV4fZM6yO1FYwDrBOm6Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",LNTV 1
-https://ctrl.laotv.la/live/LNTV1/index.m3u8
-#EXTINF:-1 tvg-id="LNTV3.la" tvg-logo="https://img.24freetv.com/upload/lntv-3.jpg" group-title="General",LNTV 3
-https://ctrl.laotv.la/live/LNTV3/index.m3u8
-#EXTINF:-1 tvg-id="LATV.la" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgqgcRkoHKF7cxNCU3YR4aP6UMHbzSgUUTGA&usqp=CAU" group-title="Undefined",LATV
-https://ctrl.laotv.la/live/LATV/index.m3u8
-#EXTINF:-1 tvg-id="LaoPSTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSLQuIelWXDgD67Ot-EATjyeC8HwjULZdWoo2jp=s176-c-k-c0x00ffffff-no-rj" group-title="Undefined",Lao PSTV
-https://ctrl.laotv.la/live/PSTV/index.m3u8
-#EXTINF:-1 tvg-id="VTE9.la" tvg-logo="https://sv1.picz.in.th/images/2023/09/20/dWv83ER.jpeg" group-title="Undefined",vte 9
-https://ctrl.laotv.la/live/VTE9/index.m3u8
-#EXTINF:-1 tvg-id="LaoESTV.la" tvg-logo="https://img.24freetv.com/upload/lao-estv.jpg" group-title="Education",Lao ESTV
-https://ctrl.laotv.la/live/LaoESTV/index.m3u8
-#EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
-https://ctrl.laotv.la/live/MVLao/index.m3u8
-#EXTINF:-1 tvg-id="Laostar.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Lao_Star_Tv.png" group-title="Undefined",LAO STAR
-https://ctrl.laotv.la/live/LaoStar/index.m3u8
-#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Undefined",BBLACK! CARIBBEAN
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="General",Galicia TV América (720p)
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",Rai Italia America (360p)
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
-#EXTINF:-1 tvg-id="SankhyaTV.tt" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" group-title="Religious",Sankhya TV (720p)
-https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Religious",The Islamic Network (480p) [Not 24/7]
-http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
