@@ -197,18 +197,8 @@ https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",Hmong Star TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",HmongUSA TV (360p)
-https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="ISTV.la" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" group-title="General",ISTV (480p)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="KhomsanhTV.la" tvg-logo="https://i.imgur.com/ac7tH4R.jpg" group-title="General",Khomsanh TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="LaoChampaTV2.la" tvg-logo="https://i.imgur.com/pbWHenM.png" group-title="Shop",Lao Champa TV 2 (720p) [Not 24/7]
-https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="LaoChampaTV1.la" tvg-logo="https://i.imgur.com/1ZjYAEs.png" group-title="Shop",Lao Champa TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="LaoHeritageOrganization.la" tvg-logo="https://i.imgur.com/kbLqi5o.png" group-title="Undefined",Lao Heritage Foundation TV (720p) [Not 24/7]
-https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaoNetTV.la" tvg-logo="https://i.imgur.com/ohbRT05.png" group-title="Undefined",Lao Net TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaosPlanetTV.la" tvg-logo="https://i.imgur.com/u4ynifa.png" group-title="Shop",Laos Planet TV (720p)
