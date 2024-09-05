@@ -463,8 +463,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Undefined",Magna Channel (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Max2U.id" tvg-logo="https://i.imgur.com/eU4aqWy.png" group-title="Undefined",Max2U (720p)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Undefined",MGS TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Undefined",MQTV (720p) [Not 24/7]
