@@ -55,7 +55,9 @@
 
 ## ทีวีดาวเทียม
 
-ช่องบูมเมอแรง : https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+ช่องบูมเมอแรง : https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+Boom Anime : https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
@@ -64,6 +66,8 @@ TVB ไทย : https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 ไทไชโย : https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+คูลชาแนล : https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 STOU Channel : https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
@@ -83,13 +87,13 @@ Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
+Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+
 Quang Ninh TV1 : http://103.90.220.236/qtvlive/tv1live.m3u8
 
 Quang Ninh TV3 : http://103.90.220.236/qtvlive/tv3live.m3u8
 
 STV1 : https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-TTV : http://27.72.164.157:8080/hls/ttv.m3u8
 
 VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
@@ -125,7 +129,9 @@ CNA : https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/ind
 
 Euro News : https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 
-Fox News : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Fox News : http://212.102.60.231/FOX_News_Channel/index.m3u8
+
+Fox News Now : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
