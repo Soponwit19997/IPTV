@@ -115,8 +115,6 @@ V6 News : https://cdn2.pishow.tv/live/118/master.m3u8
 
 ABN : https://cdn2.pishow.tv/live/125/master.m3u8
 
-My Cinema : http://210.210.155.37/session/c5ea8844-1dc9-11ef-afc0-95cd80664c14/uq2663/h/h192/index.m3u8
-
 Al Jazeera Arabic : https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
