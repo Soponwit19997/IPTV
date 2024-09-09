@@ -217,13 +217,15 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="Undefined",Mahar TV (720p)
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://imgur.com/7xHSikv.png" group-title="General",Channel 7 (1080p)
+#EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://i.imgur.com/7xHSikv.png" group-title="General",Channel 7 (1080p)
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://imgur.com/6PqxuhF" group-title="Undefined",Channel K (720p)
+#EXTINF:-1 tvg-id="ChannelK.mm" tvg-logo="https://i.imgur.com/6PqxuhF" group-title="Undefined",Channel K (720p)
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MNTV.mm" tvg-logo="https://i.imgur.com/nssm7QK.png" group-title="Undefined",MN TV (720p)
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://imgur.com/J4i1VBb.png" group-title="Undefined",MRTV-4 (1080p)
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General",MRTV
+https://iptv36.vercel.app/api/twitch?channel=livestreamingmrtv
+#EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://i.imgur.com/J4i1VBb.png" group-title="Undefined",MRTV-4 (1080p)
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-id="VOARFA.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA RFA (720p)
 https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
