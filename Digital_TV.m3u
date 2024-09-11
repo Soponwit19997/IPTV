@@ -225,6 +225,10 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MRTV.mm" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General",MRTV
 https://iptv36.vercel.app/api/twitch?channel=livestreamingmrtv
+#EXTINF:-1 tvg-id="MRTVNews.mm" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="News",MRTV News
+https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-logo="https://imgur.com/5aLFslk.png" group-title="Culture",MRTV NRC
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://i.imgur.com/J4i1VBb.png" group-title="Undefined",MRTV-4 (1080p)
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-id="VOARFA.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="News",VOA RFA (720p)
@@ -375,10 +379,6 @@ https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quang Ngai TV (720p)
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png" group-title="Undefined",Quảng Ninh TV1
-http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://cdn.hqth.me/logo/thumbs/169.png" group-title="Undefined",Quảng Ninh TV3
-http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (720p)
 https://storage.quochoitv.vn/live/quochoitv_abitrate.m3u8
 #EXTINF:-1 tvg-id="SETTV.us" tvg-logo="https://setchannel.tv/wp-content/uploads/2023/08/SET-1-logo.png" group-title="General",SET TV 1 (1080p)
