@@ -43,13 +43,11 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
-
-อมรินทร์ทีวี : https://edge2a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+อมรินทร์ทีวี : https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1726229358&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=6NHUxWXwktTMMXwNaRsxnw
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
+ช่อง 7HD : http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 
 พีพีทีวี : https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
@@ -75,6 +73,8 @@ STOU Channel : https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 VOA/RFA News : https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
 
+MRTV NEWS : https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
+
 MV LAO : https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
@@ -83,17 +83,15 @@ Can Tho TV : https://live.canthotv.vn/live/tv_web/playlist.m3u8
 
 Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
+Khanh Hoa TV : http://210.245.20.94/hls/ktv1.m3u8
+
 Kien Giang TV : http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
-Quang Ninh TV1 : http://103.90.220.236/qtvlive/tv1live.m3u8
-
-Quang Ninh TV3 : http://103.90.220.236/qtvlive/tv3live.m3u8
-
-STV1 : https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+Nhan Dan TV : https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 
 VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
