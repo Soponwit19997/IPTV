@@ -43,7 +43,7 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-อมรินทร์ทีวี : https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1726229358&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=6NHUxWXwktTMMXwNaRsxnw
+อมรินทร์ทีวี : http://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1726229358&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=6NHUxWXwktTMMXwNaRsxnw
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
