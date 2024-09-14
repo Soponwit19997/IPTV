@@ -119,6 +119,8 @@ Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 Al Araby TV : https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
+Alalam News : https://live2.alalam.ir/alalam.m3u8
+
 Arirang : https://edge6a.v2h-cdn.com/arirang/arirang.stream/playlist.m3u8
 
 CNA : https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
