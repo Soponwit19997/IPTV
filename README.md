@@ -21,7 +21,7 @@
 
 เจเคเอ็น 18 : https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
-เนชั่นทีวี : http://http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+เนชั่นทีวี : http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
 ช่องเวิร์คพอยท์ : https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 
