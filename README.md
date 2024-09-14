@@ -43,7 +43,7 @@
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-อมรินทร์ทีวี : http://http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+อมรินทร์ทีวี : http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
