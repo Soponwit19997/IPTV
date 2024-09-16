@@ -375,6 +375,10 @@ http://113.161.4.48:8080/phuyen/tv/index.m3u8
 https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="QRT.vn" tvg-logo="https://i.imgur.com/hrhZegC.png" group-title="Undefined",QRT (404p) [Not 24/7]
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png" group-title="Undefined",Quảng Ninh TV1
+http://103.90.220.236/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://cdn.hqth.me/logo/thumbs/169.png" group-title="Undefined",Quảng Ninh TV3
+http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quang Ngai TV (720p)
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (720p)
@@ -615,6 +619,10 @@ https://live-hls-web-ajm.getaj.net/AJM/03.m3u8
 http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="Undefined",Al Qamar TV (360p)
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al Sharqiya (1080p) [Not 24/7]
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al Sharqiya News (1080p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.uk" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.uk" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Alaraby TV (1080p)
