@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/chunklist_w223914459_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
 https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thaipbs.png",THAI PBS HD
@@ -42,7 +42,7 @@ https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/chunklist_w223914459_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/workpoint.png",Workpoint TV
 https://edge2a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Digital TV" tvg-logo="https://i.imgur.com/O6Xre1O.png",True 4U
@@ -64,9 +64,9 @@ https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/thairath.png",Thairath TV
 https://edge2a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w223914459_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/amarin.png",Amarin TV
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_w223914459_b4692000_slThai.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
 https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/pptv.png",PPTV HD
@@ -225,6 +225,8 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MRTV.mm" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="General",MRTV
 https://iptv36.vercel.app/api/twitch?channel=livestreamingmrtv
+#EXTINF:-1 tvg-id="MRTVNews.mm" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="News",MRTV News
+https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-logo="https://imgur.com/5aLFslk.png" group-title="Culture",MRTV NRC
 https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MRTV4.mm" tvg-logo="https://i.imgur.com/J4i1VBb.png" group-title="Undefined",MRTV-4 (1080p)
@@ -421,6 +423,8 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 https://e.siar.us/live/aktv.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="Artvisi.id" tvg-logo="https://www.artvisi.or.id/wp-content/uploads/2016/02/logoartvisi.png" group-title="Religious",ARTVISI
+https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="General",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Undefined",Bandung TV (360p)
@@ -2014,4 +2018,7 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drybar Comedy
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",SMTV1
+https://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Undefined",SMTV2
+https://stream.smntv.cn/smtv2/playlist.m3u8
