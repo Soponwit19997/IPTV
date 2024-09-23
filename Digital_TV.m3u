@@ -81,7 +81,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://edge2z.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://www.looktung.net/_nuxt/img/logo-160x160.09096e1.png" group-title="Music",Looktung Network FM 98.5
+#EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Music",Looktung Network FM 98.5
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 #EXTINF:-1 tvg-id="V2H2.th" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png" group-title="Undefined",V2H2
 https://edge2a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
