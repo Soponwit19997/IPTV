@@ -23,7 +23,7 @@
 
 เนชั่นทีวี : http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
-ช่องเวิร์คพอยท์ : https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+ช่องเวิร์คพอยท์ : http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/chunklist_w25751215_b1128000_slThai.m3u8
 
 ทรูโฟร์ยู : https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
@@ -39,7 +39,7 @@
 
 ช่องวัน 31 : https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
-ไทยรัฐทีวี : https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
+ไทยรัฐทีวี : http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/chunklist_w239037154_b1128000_slThai.m3u8
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
@@ -49,7 +49,7 @@
 
 ช่อง 7HD : http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 
-พีพีทีวี : https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+พีพีทีวี : http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
 
 ## ทีวีดาวเทียม
 
