@@ -21,15 +21,15 @@
 
 เจเคเอ็น 18 : https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 
-เนชั่นทีวี : http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+เนชั่นทีวี : https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
 
-ช่องเวิร์คพอยท์ : http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/chunklist_w25751215_b1128000_slThai.m3u8
+ช่องเวิร์คพอยท์ : https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
 
 ทรูโฟร์ยู : https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
-จีเอ็มเอ็ม 25 : https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+จีเอ็มเอ็ม 25 : https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 
-ช่อง 8 : http://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+ช่อง 8 : https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 
 โมโน 29 : https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
@@ -37,19 +37,21 @@
 
 ช่อง 9 อสมท : https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
-ช่องวัน 31 : https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+ช่องวัน 31 : https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 
-ไทยรัฐทีวี : http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/chunklist_w239037154_b1128000_slThai.m3u8
+ไทยรัฐทีวี : https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-อมรินทร์ทีวี : http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
+
+อมรินทร์ทีวี : https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 
 ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ช่อง 7HD : http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+ช่อง 7HD : https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
 
-พีพีทีวี : http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
+พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
 ## ทีวีดาวเทียม
 
