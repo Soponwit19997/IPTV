@@ -64,11 +64,11 @@ https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png",Thairath TV
 https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/YRiulCU.png",3 HD
-https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
 https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg",PPTV HD
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
