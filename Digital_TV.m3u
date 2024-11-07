@@ -247,12 +247,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Animation;Education;Family;Kids;Music",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV (360p) [Not 24/7]
-https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p) [Not 24/7]
-https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC.kh" tvg-logo="https://i.imgur.com/J8YLi0C.png" group-title="News",CNC
@@ -261,8 +257,6 @@ http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playl
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="General",CTV8 HD
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9 (1080p)
-https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Undefined",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -279,18 +273,16 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV.kh" tvg-logo="https://i.imgur.com/lhxRefQ.png" group-title="Undefined",My TV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PNN.kh" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Undefined",PNN (360p) [Not 24/7]
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="Undefined",Rasmey Hang Meas HDTV (720p)
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEA TV (360p) [Not 24/7]
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh" tvg-logo="https://api.netlinkbroadcaster.com/uploads/Town_HDTV_7f2a0b567a.jpg" group-title="Undefined",TOWN TV
-https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="Undefined",Town TV (720p)
+https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8
 #EXTINF:-1 tvg-id="TV3.kh" tvg-logo="https://i.imgur.com/76XWq08.png" group-title="Undefined",TV 3 (720p)
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="Undefined",TV5 Cambodia (720p) [Not 24/7]
-https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Undefined",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p) [Not 24/7]
