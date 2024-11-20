@@ -41,15 +41,15 @@
 
 ไทยรัฐทีวี : https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 
-ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+ไทยทีวีสีช่อง 3 : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
+ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
 
 อมรินทร์ทีวี : https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 
-ช่อง 7HD : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
+ช่อง 7HD : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ช่อง 7HD : https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
+ช่อง 7HD : https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 
 พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
@@ -102,8 +102,6 @@ VTC1 : https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
 ช่อง 3 (กัมพูชา) : https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-
-ช่อง 5 (กัมพูชา) : https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
 TVK : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
