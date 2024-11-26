@@ -9,8 +9,6 @@
 
 ททบ.5 : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-ททบ.5 : https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-
 ทีสปอร์ต 7 : https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 โทรทัศน์รัฐสภา : https://tv-live.tpchannel.org/live/tv_1080p.m3u8
@@ -35,21 +33,15 @@
 
 ช่อง 9 อสมท : https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
 
-ช่อง 9 อสมท : https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-
 ช่องวัน 31 : https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 
 ไทยรัฐทีวี : https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 
 ไทยทีวีสีช่อง 3 : http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
-
 อมรินทร์ทีวี : https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 
 ช่อง 7HD : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-ช่อง 7HD : https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 
 พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
