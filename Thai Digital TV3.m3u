@@ -87,14 +87,6 @@ https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/voicetv.png" group-title="News",Voice TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://edge6a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/cartoonclub.png" group-title="Kids",Cartoon Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://m3u.at/data_file/tvlogo2/boom.png" group-title="Kids",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
