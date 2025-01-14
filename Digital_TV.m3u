@@ -1176,7 +1176,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="General",MITV (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="General",MNB World (1080p)
-https://live.mnb.mn/hls/mnb_world
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision.TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://imgur.com/NRO6AtW.png" group-title="General",NBT World (720p)
