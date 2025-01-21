@@ -1018,7 +1018,7 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" group-title="Religious",Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Undefined",IRINN (540p)
-https://www.parsatv.com/streams/fetch/telewebion.php?ch=irinn
+https://ss.90minlive.online/live/irib-khabar/playlist.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="Undefined",Kanal Jadid (720p)
