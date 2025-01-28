@@ -68,7 +68,7 @@ https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg",Amarin TV
 https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
-https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg",PPTV HD
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
@@ -1733,6 +1733,8 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="CCTV10.us" tvg-logo="https://imgur.com/IREC9RR.png" group-title="General",CCTV-10 (United States) (480p)
+https://reflect-claremont.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="General",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
@@ -2038,6 +2040,8 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",TV5 HD (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="General",Channel 7 (720p)
+https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="General",MCOT HD (720p)
 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/master.m3u8
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="General",NBT 2HD (720p)
