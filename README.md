@@ -119,7 +119,7 @@ TRANS7 : https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 TRANS TV : https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-ABC NEWS : https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/c.m3u8?pbs=5a0fd9c94c074d4285f46270b8c7e344
+ABC NEWS : https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 Al Jazeera Arabic : https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
