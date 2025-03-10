@@ -3,57 +3,57 @@
 ## ทีวีดิจิตอล
 เอ็นบีที : https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 
-เอ็นบีที : https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+เอ็นบีที : https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 
-ไทยพีบีเอส : https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+ไทยพีบีเอส : https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 
-เอแอลทีวี : https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+เอแอลทีวี : https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 
 ททบ.5 : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-ททบ.5 : https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+ททบ.5 : https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 
-ทีสปอร์ต 7 : https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+ทีสปอร์ต 7 : https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
 โทรทัศน์รัฐสภา : https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 
 เอ็นบีที ภาคกลาง : https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 
-ทีเอ็นเอ็น 16 : https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+ทีเอ็นเอ็น 16 : https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
-เจเคเอ็น 18 : https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+เจเคเอ็น 18 : https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 
-เนชั่นทีวี : https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
+เนชั่นทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
-ช่องเวิร์คพอยท์ : https://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
+ช่องเวิร์คพอยท์ : https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 
-ทรูโฟร์ยู : https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+ทรูโฟร์ยู : https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
-จีเอ็มเอ็ม 25 : https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
+จีเอ็มเอ็ม 25 : https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
-ช่อง 8 : https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+ช่อง 8 : https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
 โมโน 29 : https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
 ช่อง 9 อสมท : https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
 
-ช่อง 9 อสมท : https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+ช่อง 9 อสมท : https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
-ช่องวัน 31 : https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
+ช่องวัน 31 : https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
-ไทยรัฐทีวี : https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
+ไทยรัฐทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8
+ไทยทีวีสีช่อง 3 : https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
-อมรินทร์ทีวี : https://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
+อมรินทร์ทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
 ช่อง 7HD : https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
-ช่อง 7HD : https://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
+ช่อง 7HD : https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
-พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
+พีพีทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 ## ทีวีดาวเทียม
 
@@ -111,7 +111,7 @@ VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/play
 
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
-ช่อง 5 (กัมพูชา) : https://live-evg13.tv360.metfone.com.kh/live/tv5.m3u8
+ช่อง 5 (กัมพูชา) : https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
 TVK : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
