@@ -63,7 +63,7 @@ Boom Anime : https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m
 
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
-TVB ไทย : https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+TVB ไทย : https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
