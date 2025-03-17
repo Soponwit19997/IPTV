@@ -67,8 +67,6 @@ TVB ไทย : https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
-ไทไชโย : https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-
 คูลชาแนล : https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 STOU Channel : https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
@@ -106,8 +104,6 @@ Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
 Nhan Dan TV : https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
-
-VOV TV : https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
@@ -147,7 +143,7 @@ Fox News Now : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 
-DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 TV5MONDE ASIE : https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
