@@ -141,9 +141,11 @@ Fox News : https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.
 
 Fox News Now : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-France 24 : https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+France 24 : https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 DW : https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+RT : https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 TV5MONDE ASIE : https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
