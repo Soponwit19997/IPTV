@@ -103,9 +103,13 @@ Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
-Nhan Dan TV : https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+Quang Binh TV : https://media.qbtv.vn/LiveApp/play.html?id=UfqMzQUuZFxD69275138146969
 
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+
+CNC TV : http://43.252.18.195:5080/live/streams/cnctv.m3u8
+
+CTN TV : http://43.252.18.195:5080/live/streams/ctntv.m3u8
 
 ช่อง 5 (กัมพูชา) : https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
