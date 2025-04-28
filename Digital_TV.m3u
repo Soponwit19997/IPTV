@@ -391,8 +391,6 @@ http://103.90.220.236/qtvlive/tv1live.m3u8
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="Undefined",Quang Ngai TV (720p)
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="QuocHoiTV.vn" tvg-logo="https://i.imgur.com/QelCj8n.png" group-title="Undefined",Quốc Hội (720p)
-https://storage.quochoitv.vn/live/quochoitv_abitrate.m3u8
 #EXTINF:-1 tvg-id="SETTV.us" tvg-logo="https://setchannel.tv/wp-content/uploads/2023/08/SET-1-logo.png" group-title="General",SET TV 1 (1080p)
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SETTV2.us" tvg-logo="https://setchannel.tv/wp-content/uploads/2023/08/SET-1-logo.png" group-title="Entertainment",SET TV 2 (1080p)
@@ -423,12 +421,8 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 (576p)
 http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTV5.vn" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5
-http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 (576p)
 http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTVCanTho.vn" tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="Undefined",VTV Can Tho (720p)
-http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
 #EXTINF:-1 tvg-id="YenBaiTV.vn" tvg-logo="https://i.imgur.com/BwZRL7P.png" group-title="Undefined",Yen Bai TV (1080p)
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="General",AKTV (720p)
@@ -711,12 +705,6 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General",A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN 47 (1080p) [Not 24/7]
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="CineMo.ph" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cine Mo! (720p)
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One (1080p)
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="Family",Great Commission TV (468p)
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious",INC TV (720p) (720p) [Geo-blocked]
@@ -798,9 +786,9 @@ https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 #EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="Undefined",Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Undefined",Kurdsat HD
-https://kurdsat.akamaized.net/hls/stream_0.m3u8
+https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",KurdSat News (1080p) [Not 24/7]
-https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Religious",Marjaeyat TV Arabic (1080p)
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Religious",Marjaeyat TV Persian (240p) [Not 24/7]
@@ -1006,6 +994,20 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" group-title="Religious",Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="General",IRIB1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/278px-IRIB_TV2_logo.svg.png" group-title="General",IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" group-title="Kids;Sports",IRIB3
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Culture",IRIB4
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png" group-title="General",Isfahan
+https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="Undefined",Kanal Jadid (720p)
