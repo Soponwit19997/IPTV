@@ -84,7 +84,7 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Music",Looktung Network FM 98.5
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
 #EXTINF:-1 tvg-id="V2H2.th" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png" group-title="Undefined",V2H2
-https://edge2a.v2h-cdn.com/v2h2/v2h2.stream/chunklist.m3u8
+https://edge2a.v2h-cdn.com/v2h2/v2h2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiNews.th tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="News",Thai News
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU" group-title="News",มวลชนทีวี
@@ -97,16 +97,12 @@ https://cdn-us.livestreaming.in.th/tvphone/tvphone/playlist.m3u8
 https://edge2a.v2h-cdn.com/mvmall_ttd12/mvmall_ttd12.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CoolChannel.th" tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="Movies",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-id="MVMall Best.th" tvg-name="MVMall Best" group-title="Shop" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/113_y_O7DG9m528AeKzPprxMY1ZICcjoaifE4S.jpg",MVMall Best
-https://edge2a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-logo="https://i.imgur.com/Chx0AV9.png" group-title="Undefined",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="PoliceTV.th" tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="Undefined",Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-id="DOPAChannel.th" tvg-logo="https://imgur.com/Z9vxti4.png" group-title="Undefined",DOPA Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="13SiamThai.th" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="News",13 Siam Thai
-https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Documentary" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_y_OuLc2f0Rn1YXrKzk9jZ6w53dWmGpaM4H.png",MVTV ท้องถิ่นไทย
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EsanTV.th" tvg-logo="https://i.imgur.com/cpNg9Fy.png" group-title="Undefined",Esan TV (720p)
@@ -129,8 +125,6 @@ https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodIdeaTV.th" tvg-logo="https://i.imgur.com/ETgVyTy.png" group-title="Entertainment",Good Idea TV (720p) [Not 24/7]
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="STOUChannel.th" tvg-logo="https://i.imgur.com/L3T2QZz.png" group-title="Education",STOU Channel (720p)
-https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="BOOMAnime.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="Animation",BOOM ANIME
 https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GBN.th" tvg-logo="https://gbnus.com/GBN Content/new backgruound/logo-GBN-small1.png" group-title="Religious",GBN
@@ -251,14 +245,10 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
-https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNC.kh" tvg-logo="https://i.imgur.com/J8YLi0C.png" group-title="News",CNC
 http://43.252.18.195:5080/live/streams/cnctv.m3u8
 #EXTINF:-1 tvg-id="CTN.kh" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="Undefined",CTN
 http://43.252.18.195:5080/live/streams/ctntv.m3u8
-#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="General",CTV8 HD
-http://43.252.18.195:5080/live/streams/ctv8hd.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Undefined",EWTN Africa Asia (720p)
@@ -363,8 +353,6 @@ https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn" tvg-logo="https://i.imgur.com/TLvrDHa.png" group-title="General",Lao Cai TV (1080p) [Not 24/7]
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Shop",Lao SV TV (480p)
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="LangSonTV.vn" tvg-logo="https://i.imgur.com/Sj7EjYT.png" group-title="Undefined",Lang Son TV (1080p)
@@ -407,8 +395,6 @@ http://thtg.vn:8001/thtg.m3u8
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Undefined",Tra Vinh TV (720p)
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThuaThienHueTV.vn" tvg-logo="https://i.imgur.com/lWQCrY9.png" group-title="Undefined",Thua Thien Hue TV (404p)
-https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 tvg-id="TuyenQuangTV.vn" tvg-logo="https://i.imgur.com/OkAstWv.png" group-title="Undefined",Tuyen Quang TV (540p)
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
@@ -429,8 +415,6 @@ https://e.siar.us/live/aktv.m3u8
 https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="Artvisi.id" tvg-logo="https://www.artvisi.or.id/wp-content/uploads/2016/02/logoartvisi.png" group-title="Religious",ARTVISI
 https://streaming.yufid.com/hls/artvisi.m3u8
-#EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="General",Balikpapan TV (720p)
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Undefined",Bandung TV (360p)
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Undefined",Banten TV (720p) [Not 24/7]
@@ -449,14 +433,8 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="Entertainment",Ficom Channel (720p)
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",Garuda TV (720p)
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://imgur.com/mYHiCJu.png" group-title="General",GPR TV
-https://stream.convergen.co/gprtv/smil:myLive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="News",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="General",Inspira TV (720p) [Not 24/7]
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="General",Jawa Pos TV (720p) [Not 24/7]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="Undefined",Jogja Istimewa TV (720p)
@@ -477,8 +455,6 @@ https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PSJTV.id" tvg-logo="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png" group-title="Undefined",PSJ TV (1080p)
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",Rajawali TV
-https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=XRp_ZNI0Ph1GUJBbRAZEyg&exp=1740878410&encp=U7VSOW14EwFW6EqSlmarKg&expp=1740888910
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Undefined",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="Undefined",Sakti TV (720p)
@@ -565,14 +541,10 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-id="TVTabalong.id" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="Undefined",TV Tabalong (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKU.id" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="Undefined",TVKU (720p)
-http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="Undefined",UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Undefined",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-#EXTINF:-1 tvg-id="MadWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg" group-title="Music",Mad World (720p)
-https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-id="ZIZTV.kn" tvg-logo="https://i.imgur.com/fB09i6X.png" group-title="General",ZIZ TV (720p)
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
