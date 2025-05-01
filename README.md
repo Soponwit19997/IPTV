@@ -59,8 +59,6 @@
 
 ช่องบูมเมอแรง : https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-Boom Anime : https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
-
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 TVB ไทย : https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
@@ -130,8 +128,6 @@ Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 Al Araby TV : https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
 Alalam News : https://live2.alalam.ir/alalam.m3u8
-
-CCTV-4 : https://edge2a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 
 Arirang : https://edge2a.v2h-cdn.com/arirang/arirang.stream/playlist.m3u8
 
