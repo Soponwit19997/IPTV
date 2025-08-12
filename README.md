@@ -35,8 +35,6 @@
 
 โมโน 29 : https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
 
-ช่อง 9 อสมท : https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w58587999_b2000000.m3u8
-
 ช่อง 9 อสมท : https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
 ช่องวัน 31 : https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
@@ -49,7 +47,7 @@
 
 อมรินทร์ทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-ช่อง 7HD : https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+ช่อง 7HD : https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 ช่อง 7HD : https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
@@ -57,11 +55,9 @@
 
 ## ทีวีดาวเทียม
 
-ช่องบูมเมอแรง : https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+ช่องบูมเมอแรง : https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
-
-TVB ไทย : https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -73,8 +69,6 @@ Rama Channel : https://ramach.ddns.net/live/ramalive/index.m3u8
 
 GBN : http://us.gbnus.com/live/dhamma_high/playlist.m3u8
 
-TV Phone : https://cdn-us.livestreaming.in.th/tvphone/tvphone/playlist.m3u8
-
 ## ทีวีต่างประเทศ
 
 VOA/RFA News : https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
@@ -85,11 +79,9 @@ MRTV-4 : https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ16776792880
 
 MRTV NEWS : https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
 
-MV LAO : https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+MV LAO : https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 
 Bac Ninh TV : https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-
-Can Tho TV : https://live.canthotv.vn/live/tv_web/playlist.m3u8
 
 Dak Nong TV : https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 
@@ -104,10 +96,6 @@ Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 Quang Binh TV : https://media.qbtv.vn/LiveApp/play.html?id=UfqMzQUuZFxD69275138146969
 
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
-
-CNC TV : http://43.252.18.195:5080/live/streams/cnctv.m3u8
-
-CTN TV : http://43.252.18.195:5080/live/streams/ctntv.m3u8
 
 ช่อง 5 (กัมพูชา) : https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
@@ -138,8 +126,6 @@ CNA : https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/ind
 Euro News : https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 
 Fox News : https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-
-Fox News Now : https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 France 24 : https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
