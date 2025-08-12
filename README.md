@@ -57,9 +57,13 @@
 
 ช่องบูมเมอแรง : https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
+ท็อปนิวส์ : https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+ไทไชโย : https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
 
 คูลชาแนล : https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
@@ -69,11 +73,11 @@ Rama Channel : https://ramach.ddns.net/live/ramalive/index.m3u8
 
 GBN : http://us.gbnus.com/live/dhamma_high/playlist.m3u8
 
+NBT WORLD : https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
+
 ## ทีวีต่างประเทศ
 
 VOA/RFA News : https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8
-
-MRTV : https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 
 MRTV-4 : https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
@@ -116,6 +120,8 @@ Al Jazeera English : https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 Al Araby TV : https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
 Alalam News : https://live2.alalam.ir/alalam.m3u8
+
+Simaye Azadi : https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
 Arirang : https://edge2a.v2h-cdn.com/arirang/arirang.stream/playlist.m3u8
 
