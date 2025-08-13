@@ -47,7 +47,7 @@
 
 อมรินทร์ทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 
-ช่อง 7HD : https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+ช่อง 7HD : http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
 ช่อง 7HD : https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 
