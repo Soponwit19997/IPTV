@@ -25,7 +25,7 @@
 
 เนชั่นทีวี : https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 
-ช่องเวิร์คพอยท์ : https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
+ช่องเวิร์คพอยท์ : https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 ทรูโฟร์ยู : https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 
@@ -33,7 +33,7 @@
 
 ช่อง 8 : https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 
-โมโน 29 : https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
+โมโน 29 : https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 ช่อง 9 อสมท : https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
 
