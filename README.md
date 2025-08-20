@@ -15,7 +15,7 @@
 
 ทีสปอร์ต 7 : https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
-โทรทัศน์รัฐสภา : https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+โทรทัศน์รัฐสภา : https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 
 เอ็นบีที ภาคกลาง : https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 
@@ -97,8 +97,6 @@ Kien Giang TV1 : https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
 Lam Dong TV : http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
-Quang Binh TV : https://media.qbtv.vn/LiveApp/play.html?id=UfqMzQUuZFxD69275138146969
-
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
 ช่อง 5 (กัมพูชา) : https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
@@ -123,7 +121,7 @@ Alalam News : https://live2.alalam.ir/alalam.m3u8
 
 Simaye Azadi : https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
-Arirang : https://edge2a.v2h-cdn.com/arirang/arirang.stream/playlist.m3u8
+Arirang : https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
 
 CBS NEWS 24/7 : https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
