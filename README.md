@@ -35,7 +35,7 @@
 
 โมโน 29 : https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
-ช่อง 9 อสมท : https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+ช่อง 9 อสมท : https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
 ช่องวัน 31 : https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
