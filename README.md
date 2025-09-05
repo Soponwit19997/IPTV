@@ -55,6 +55,8 @@
 
 ## ทีวีดาวเทียม
 
+ช่องบูมเมอแรง : https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
 ท็อปนิวส์ : https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
