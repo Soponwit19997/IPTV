@@ -1,7 +1,7 @@
 # IPTV
 ลิงก์สำหรับดูทีวีออนไลน์
 ## ทีวีดิจิตอล
-เอ็นบีที : https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
+เอ็นบีที : https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
 เอ็นบีที : https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
