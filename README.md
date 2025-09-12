@@ -97,8 +97,6 @@ QPVN : https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 
 VTV1 : https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
-ช่อง 5 (กัมพูชา) : https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-
 TVK : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
 Fresh News : http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
