@@ -17,8 +17,6 @@
 
 โทรทัศน์รัฐสภา : https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
 
-เอ็นบีที ภาคกลาง : https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-
 ทีเอ็นเอ็น 16 : https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
 
 เจเคเอ็น 18 : https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
