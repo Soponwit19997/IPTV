@@ -77,8 +77,6 @@ VOA/RFA News : https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist
 
 MRTV-4 : https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 
-MRTV NEWS : https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
-
 MV LAO : https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
 
 ANTV : https://ott1.nethubtv.vn/live/antv/playlist.m3u8
