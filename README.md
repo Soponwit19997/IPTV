@@ -57,6 +57,8 @@
 
 ท็อปนิวส์ : https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
+ASTV News 1 : http://news1.live14.com/stream/news1.m3u8
+
 ช่อง 8HD : http://vip.login.in.th:1935/ch8/ch8/chunklist.m3u8
 
 Cable Channel 37 : http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
