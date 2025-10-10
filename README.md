@@ -23,7 +23,7 @@
 
 เนชั่นทีวี : https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
 
-ช่องเวิร์คพอยท์ : http://edge2a.v2h-cdn.com/hd_workpoint/hd_workpoint.stream/playlist.m3u8
+ช่องเวิร์คพอยท์ : https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 
 ทรูโฟร์ยู : https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
@@ -47,7 +47,7 @@
 
 ช่อง 7HD : http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
-ช่อง 7HD : http://edge2a.v2h-cdn.com/hd_7/hd7.stream/playlist.m3u8
+ช่อง 7HD : https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 
 พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
