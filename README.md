@@ -11,7 +11,7 @@
 
 เนชั่นทีวี : https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
-ช่องเวิร์คพอยท์ : https://global-media.sooplive.com/live/workpoint/master.m3u8
+ช่องเวิร์คพอยท์ : http://global-media.sooplive.com/live/workpoint/master.m3u8
 
 ทรูโฟร์ยู : https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
