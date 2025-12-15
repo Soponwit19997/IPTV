@@ -3,53 +3,37 @@
 ## ทีวีดิจิตอล
 เอ็นบีที : https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
 
-เอ็นบีที : https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-
-ไทยพีบีเอส : https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-
-เอแอลทีวี : https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8
+ไทยพีบีเอส : https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 ททบ.5 : https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
-ททบ.5 : https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+โทรทัศน์รัฐสภา : https://tv-live.tpchannel.org/live/tv_360p.m3u8
 
-ทีสปอร์ต 7 : https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+เนชั่นทีวี : https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
-โทรทัศน์รัฐสภา : https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
+ช่องเวิร์คพอยท์ : https://global-media.sooplive.com/live/workpoint/master.m3u8
 
-ทีเอ็นเอ็น 16 : https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+ทรูโฟร์ยู : https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
-เจเคเอ็น 18 : https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+จีเอ็มเอ็ม 25 : https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 
-เนชั่นทีวี : https://edge2a.v2h-cdn.com/nation_1/nation_1.stream/playlist.m3u8
-
-ช่องเวิร์คพอยท์ : https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
-
-ทรูโฟร์ยู : https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-
-จีเอ็มเอ็ม 25 : https://edge2a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
-
-ช่อง 8 : https://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+ช่อง 8 : https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 โมโน 29 : https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
-ช่อง 9 อสมท : https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
+ช่อง 9 อสมท : https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 
-ช่องวัน 31 : https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
+ช่องวัน 31 : https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
-ไทยรัฐทีวี : https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
+ไทยรัฐทีวี : https://ww.dooballfree.vip/live/thairathtv/playlist.m3u8
 
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-ไทยทีวีสีช่อง 3 : https://edge2a.v2h-cdn.com/hd_3/3hd.stream/playlist.m3u8
-
-อมรินทร์ทีวี : http://edge2a.v2h-cdn.com/hd_amarin/hdamarin.stream/playlist.m3u8
+อมรินทร์ทีวี : https://ww.dooballfree.vip/live/amarintv/playlist.m3u8
 
 ช่อง 7HD : http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 
-ช่อง 7HD : https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-
-พีพีทีวี : https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
+พีพีทีวี : https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
 ## ทีวีดาวเทียม
 
