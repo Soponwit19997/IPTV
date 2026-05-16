@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3HD.th@SD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",3HD
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776006&extension=m3u8
 #EXTINF:-1 tvg-id="Channel5.th@SD" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
@@ -12,29 +10,25 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/play
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="General" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg",THAI PBS HD
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang Thai
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1779054522&uta=APKPjO1TzJwf-dvZJPztBQ
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="General" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png",TPTV
 https://tv-live.tpchannel.org/live/tv_360p.m3u8
-#EXTINF:-1 tvg-id="BOOMAnime.th" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="Animation",BOOM ANIME
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 tvg-id="ThaiChaiyo.th" tvg-logo="https://i.imgur.com/uOfb3y1.png" group-title="Music",Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="News" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg",Workpoint TV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="Entertainment" tvg-logo="https://i.imgur.com/O6Xre1O.png",True 4U
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="General" tvg-logo="https://i.imgur.com/uARba6N.png",GMM 25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="General" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Ch_8_2016_flat.svg",CH 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",MONO 29 (1080p)
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" group-title="General" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png",ONE HD
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="News",ASTV News 1
@@ -44,9 +38,7 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-logo="https://i.imgur.com/6AGKP0A.png" group-title="Undefined",Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="LooktungNetwork.th" tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="Music",Looktung Network FM 98.5
-http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
-#EXTINF:-1 tvg-id="V2H2.th" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v2h2-th.png" group-title="Undefined",V2H2
-https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8
+https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiNews.th tvg-logo="https://iptv36.my.to/logo/ipcam.png" group-title="News",Thai News
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwCPAkvPcJC3TVCroIIp-RjE3WEszztKAMg&usqp=CAU" group-title="News",มวลชนทีวี
@@ -173,36 +165,24 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="General",Bayon TV
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Undefined",CTV 9
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Undefined",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="General",Hang Meas HDTV (1080p)
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KhmerTV.kh" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png" group-title="General",Khmer TV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Undefined",MSJ TV (720p)
 http://124.248.165.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/EcqEMMg.png" group-title="Undefined",Rasmey Hang Meas HDTV (720p)
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEA TV (360p) [Not 24/7]
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="General",TV5 Cambodia (720p) [Not 24/7]
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/FYqvxUM.png" group-title="Undefined",TVK 2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Undefined",TVK (720p) [Not 24/7]
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MVLAO.la" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Entertainment",MV LAO
-https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+https://lb-live-m.sky-cdn.com/mv/mvlao.m3u8?expires=1779054348&uta=barEzhgYQBkb-zmjQQa8bA
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="Undefined",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Undefined",ANTV (480p)
