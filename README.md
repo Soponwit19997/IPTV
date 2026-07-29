@@ -11,8 +11,6 @@
 
 เนชั่นทีวี : https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 
-ช่องเวิร์คพอยท์ : http://global-media.sooplive.com/live/workpoint/master.m3u8
-
 ทรูโฟร์ยู : https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
 จีเอ็มเอ็ม 25 : https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
@@ -25,15 +23,9 @@
 
 ช่องวัน 31 : https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
-ไทยรัฐทีวี : https://ww.dooballfree.vip/live/thairathtv/playlist.m3u8
-
 ไทยทีวีสีช่อง 3 : https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-อมรินทร์ทีวี : https://ww.dooballfree.vip/live/amarintv/playlist.m3u8
-
 ช่อง 7HD : http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
-พีพีทีวี : https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
 ## ทีวีดาวเทียม
 
