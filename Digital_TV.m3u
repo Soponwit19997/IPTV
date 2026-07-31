@@ -653,6 +653,10 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwdSjfPN5mmdN_f8zB2HesppxL_MwwsPGmA&usqp=CAU" group-title="Religious",Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (576p)
+https://live-aburayhan1108.telewebion.ir/ek/irinn/live/480p/index.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN2 Live Farsi News
+https://live-aburayhan1103.telewebion.ir/ek/irinn2/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="Undefined",Kanal Jadid (720p)
@@ -695,8 +699,6 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="Sports",Poker TV (720p)
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Undefined",Simaye Azadi (1080p)
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="SL1.ir" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",SL 1 (720p)
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2 (720p)
@@ -729,8 +731,6 @@ https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 tvg-id="BVN.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png" group-title="Undefined",BVN
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="News",CBS News 24/7
 https://news20e7hhcb.airspace-cdn.cbsivideo.com/index-english=128000-video=1800000.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (1080p)
@@ -748,7 +748,7 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (720p) [Not 24/7]
-https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
+https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/ts-us-w2-n2/playlist/amg01438-ewscrippscompan-courttv-tablo/cb533d007f757b8c98d43f448f8c1fea825a3ed04835ca357fb228ce2b84575295cdaf97af14b63c4c9e1fd5717174412c278b458b1b5495a523ec4e317f106a999ea263a2e17674cec41f7673e82f0e26ab5d4e8f3c4351d1fb15058072e42a5d5db8473e1862cd9006ff2f0e909069da2978c9f4c2643a7a445c994f49b4a35fa5fee25d47c564f2b91555942e13e69f4ac0d61ea6d18108ca16d077a410c994f7e9ad2aa0be32d3fb7d8000211a4a499181709fc853b2a8f5035bbd42588d9ac884d9f7df5d35873d231698ad88d7f19c6262b40e29072af020e1e39b185576d73087ab2281beb2de0d6338aac3506e2c9a07c1e0f4183ca76ff7aee8922632c9b65c544ec778c0796b199ef9d91b8dc755c7e678c59f205d19d081499eaab781c4b99905c9769d89a7ce7d0a654b302faa11e29664d02c9d5fadcd182e150d67a5885ac983960f633a01d6ce0e9a435b94d4898ad30b7bf9611d5bfa69960e563b82673a0e88479ebb32689b290381475faa084fe0489ee17f15c66012d688d3e4676e6a0710a9f0a9191c297b03426f/93/854x480_1821204/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (720p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
